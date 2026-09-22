@@ -39,13 +39,12 @@ describe("XML segments", () => {
   it("exposes only text and CDATA contents, without bullets or padding", () => {
     const segments = extractSegments(tokenizeXml(golf));
     expect(segments.map((segment) => segment.text)).toEqual([
-      "test english for golf 09112026",
       "Rain Bird - The Intelligent Use of Water™ - Rain Bird® 702/752 Series: Dependable Coverage Throughout Your Course",
       "Make 75% faster nozzle changes, with no need for removing internals.",
       "IC CONNECT",
       "Control DC Latching Solenoids with the IC-TFU Device",
     ]);
-    expect(segments[2].prefix).toBe("·                ");
+    expect(segments[1].prefix).toBe("·                ");
   });
 
   it("leaves markup untouched when text is replaced", () => {
@@ -54,7 +53,19 @@ describe("XML segments", () => {
     const output = rebuildXml(pieces, segments, segments.map((_, index) => `ترجمة ${index}`));
     const markup = (xml: string) => tokenizeXml(xml).filter((piece) => piece.kind === "markup").map((piece) => piece.raw);
     expect(markup(output)).toEqual(markup(golf));
-    expect(output).toContain("<![CDATA[·                ترجمة 2]]>");
+    expect(output).toContain("<![CDATA[·                ترجمة 1]]>");
+  });
+
+  it("leaves internal fields such as <name> in English", () => {
+    const pieces = tokenizeXml(golf);
+    const segments = extractSegments(pieces);
+    const output = rebuildXml(pieces, segments, segments.map(() => "ترجمة"));
+    expect(output).toContain("<name>test english for golf 09112026</name>");
+  });
+
+  it("translates <name> when it is removed from the skip list", () => {
+    const segments = extractSegments(tokenizeXml(golf), new Set());
+    expect(segments[0].text).toBe("test english for golf 09112026");
   });
 
   it("decodes entities for translation and re-encodes them", () => {

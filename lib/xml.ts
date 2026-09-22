@@ -3,8 +3,11 @@
 
 export type XmlPiece =
   | { kind: "markup"; raw: string }
-  | { kind: "text"; raw: string }
-  | { kind: "cdata"; raw: string };
+  | { kind: "text"; raw: string; parent?: string }
+  | { kind: "cdata"; raw: string; parent?: string };
+
+// Internal CMS fields whose text stays in the source language. XML names are case-sensitive.
+export const UNTRANSLATED_ELEMENTS = new Set(["name"]);
 
 function fail(message: string, position: number): never {
   throw new Error(`Malformed XML: ${message} (character ${position + 1}).`);
@@ -41,7 +44,7 @@ export function tokenizeXml(input: string): XmlPiece[] {
     if (input[i] !== "<") {
       const next = input.indexOf("<", i);
       const end = next === -1 ? input.length : next;
-      pieces.push({ kind: "text", raw: input.slice(i, end) });
+      pieces.push({ kind: "text", raw: input.slice(i, end), parent: open[open.length - 1]?.name });
       i = end;
       continue;
     }
@@ -55,7 +58,7 @@ export function tokenizeXml(input: string): XmlPiece[] {
       const end = input.indexOf("]]>", i + 9);
       if (end === -1) fail("unclosed CDATA section", i);
       pieces.push({ kind: "markup", raw: "<![CDATA[" });
-      pieces.push({ kind: "cdata", raw: input.slice(i + 9, end) });
+      pieces.push({ kind: "cdata", raw: input.slice(i + 9, end), parent: open[open.length - 1]?.name });
       pieces.push({ kind: "markup", raw: "]]>" });
       i = end + 3;
     } else if (input.startsWith("<?", i)) {
@@ -117,10 +120,10 @@ export type XmlSegment = {
 const PREFIX = /^[\s·•‣⁃▪◦]*/u;
 const SUFFIX = /\s*$/u;
 
-export function extractSegments(pieces: XmlPiece[]): XmlSegment[] {
+export function extractSegments(pieces: XmlPiece[], skip: ReadonlySet<string> = UNTRANSLATED_ELEMENTS): XmlSegment[] {
   const segments: XmlSegment[] = [];
   pieces.forEach((piece, pieceIndex) => {
-    if (piece.kind === "markup") return;
+    if (piece.kind === "markup" || (piece.parent && skip.has(piece.parent))) return;
     const value = piece.kind === "text" ? decodeXmlText(piece.raw) : piece.raw;
     const prefix = value.match(PREFIX)?.[0] ?? "";
     const rest = value.slice(prefix.length);

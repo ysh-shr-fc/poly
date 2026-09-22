@@ -60,6 +60,7 @@ No Vercel-specific build configuration is required for this Next.js project. Add
 - Paste or drop text, HTML, JSON, or XML (.txt, .json, .xml, .html, .htm, .md) and translate it to Arabic; download the result with the original extension.
 - JSON is translated as one document and rejected if keys, array lengths, or non-string values change.
 - XML markup never reaches the model: text nodes and CDATA contents are translated as separate segments and spliced back into the original markup.
+- Text inside internal XML elements listed in `UNTRANSLATED_ELEMENTS` (`lib/xml.ts`, default `<name>`) stays in English; add element names to that set to keep more fields untranslated.
 - Preserve identity translations through placeholders.
 - Select only glossary rules found in the submitted text.
 - Validate exact terminology and byte-for-byte HTML tags.
