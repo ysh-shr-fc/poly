@@ -1,12 +1,715 @@
 Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
-من الخزان إلى الرشاش,ar,reservoir-to-rotor,Asleif,2025.12.30,phrase,exact
-Cycle + Soak™,ar,Cycle + Soak™,Asleif,2025.12.09,exact,exact
+من الخزان إلى الرشاش,ar,reservoir-to-rotor,Asleif,2025.12.30,whole_word,exact
+Cycle + Soak™,ar,Cycle + Soak™,Asleif,2025.12.09,whole_word,exact
+Cycle + Soak™,ar,Cycle & Soak,Asleif,2025.12.09,whole_word,exact
+"""الحوض""",ar,Sump,,,whole_word,exact
+تدفق واسع,ar,Wide Flow,,,whole_word,exact
+صمام DV منخفض التدفق,ar,Low Flow DV Valve,,,whole_word,exact
+.قم بإدخال التركيبة,ar,Insert fitting,,,whole_word,exact
+الغسيل,ar,Flushing,,,whole_word,exact
+صمام عدم الرجوع,ar,check valve,,,whole_word,exact
+غطاء السلك,ar,Wire jacket,,,whole_word,exact
+"""متطلبات المياه""",ar,Water requirements,,,whole_word,exact
+"""جريان المياه السطحية""",ar,Water run-off,,,whole_word,exact
+مستشعر فك التشفير ذو السلكين,ar,Two-Wire Decoder Sensor Decoder,,,whole_word,exact
+"""تدفق التعلم الصفري""",ar,Zero Learned Flow,,,whole_word,exact
+"""معدلات تدفق متغيرة""",ar,Variable flow rates,,,whole_word,exact
+محطة,ar,Station,,,whole_word,exact
+منطقة الري,ar,Watering zone,,,whole_word,exact
+صحة الأسلاك,ar,Wire Health,,,whole_word,exact
+"""فوهة توفير المياه""",ar,Water-saving nozzle,,,whole_word,exact
+لوحة تشغيل ذات سلكين,ar,Two-Wire Driver Board,,,whole_word,exact
+لوحة ذات محركين,ar,Two-Driver Board,,,whole_word,exact
+"""وصلة على شكل حرف T""",ar,Tee Fitting,,,whole_word,exact
+"""مراقب المحطة""",ar,Station controller,,,whole_word,exact
+ملف لولبي,ar,Solenoid,,,whole_word,exact
+أنابيب الري,ar,Watering pipes,,,whole_word,exact
+أسلاك الصمام,ar,valve wires,,,whole_word,exact
+"""الري""",ar,watering,,,whole_word,exact
+حوض تجميع دائري,ar,Round Catch Basin,,,whole_word,exact
+فك تشفير النبضات,ar,Pulse decoder,,,whole_word,exact
+"""فوهة رش منخفضة الحجم مع تعويض الضغط""",ar,Pressure-compensated low-volume spray nozzle,,,whole_word,exact
+تركيبة قناة الأسلاك,ar,Wire conduit fitting,,,whole_word,exact
+"""صمامات الملف اللولبي""",ar,Valve solenoids,,,whole_word,exact
+منشأة معالجة المياه,ar,Water treatment facility,,,whole_word,exact
+تغذية مركزية,ar,center feed,,,whole_word,exact
+صمام عدم الرجوع,ar,Check valve,,,whole_word,exact
+"""الاستكمال""",ar,Backfill,,,whole_word,exact
+"""مقياس السلك""",ar,Wire gauge,,,whole_word,exact
+عداد المياه,ar,Water Meter,,,whole_word,exact
+المساحات الخضراء العمودية,ar,Vertical green spaces,,,whole_word,exact
+"""فقدان الضغط""",ar,pressure loss,,,whole_word,exact
+رشاش قافز,ar,Pop-up rotor,,,whole_word,exact
+مفتاح أنابيب,ar,Pipe Wrench,,,whole_word,exact
+"""رشاشات نفاثة المياه""",ar,Water Jet Sprinklers,,,whole_word,exact
+"""رمي""",ar,Throw,,,whole_word,exact
+عزل التسرب ثلاثي الطبقات,ar,Triple-Blade Wiper Seal,,,whole_word,exact
+"""فوهة دوارة""",ar,Rotary nozzle,,,whole_word,exact
+الشوكة الدوارة,ar,Rotating barb,,,whole_word,exact
+أيام الري,ar,water days,,,whole_word,exact
+صمامات فحص تحت الرأس,ar,Under-the-head check valves,,,whole_word,exact
+صندوق الصمام,ar,Valve box,,,whole_word,exact
+المسارات,ar,TRACKS,,,whole_word,exact
+تدفق الصمام,ar,Valve Flow,,,whole_word,exact
+مستشعر تي,ar,Tee Sensor,,,whole_word,exact
+معدل تدفق المحطة,ar,Station Flow Rate,,,whole_word,exact
+"""فوهة الرش""",ar,Spray nozzle,,,whole_word,exact
+رشاش ضرب بلاستيكي,ar,Plastic Impact Sprinkler,,,whole_word,exact
+عطاء نشر موصل المياه PC,ar,PC Emitter Diffuser Cap,,,whole_word,exact
+مؤخر بدء تشغيل الصمام/المضخة,ar,Master valve/pump start relay,,,whole_word,exact
+حساب نقطة توصيل المياه,ar,Point Source Emitter Calculation Tool,,,whole_word,exact
+جزء/عكس دائرة كاملة,ar,Part/reverse full circle,,,whole_word,exact
+الحد الأقصى لتكديس PGMs,ar,Max PGMs Stacked,,,whole_word,exact
+"""باعث""",ar,Emitter,,,whole_word,exact
+"""رايزر PFR-RS""",ar,PFR-RS Riser,,,whole_word,exact
+عزل بحلقة دائرية,ar,O-Ring seal,,,whole_word,exact
+سعة محطات متعددة,ar,Multiple Station Capacity,,,whole_word,exact
+الرذاذ الدقيق,ar,Micro-spray,,,whole_word,exact
+.أغلق الصمام اليدوي,ar,Lock manual valve,,,whole_word,exact
+منظمات الضغط العالي الداخلية,ar,High Flow Inline Pressure Regulators,,,whole_word,exact
+تقنية النقاط المسطح,ar,FLAT EMITTER TECHNOLOGY,,,whole_word,exact
+بابلر بدائرة كاملة,ar,Full-Circle Bubbler,,,whole_word,exact
+نايلون زجاجي,ar,Glass Filled Nylon,,,whole_word,exact
+"""تركيب""",ar,Fitting,,,whole_word,exact
+التبعثر,ar,Fogging,,,whole_word,exact
+مرشح,ar,filter,,,whole_word,exact
+"""مجموعة منطقة التحكم""",ar,Control Zone Kit,,,whole_word,exact
+قاطع الدائرة,ar,Circuit Breaker,,,whole_word,exact
+"""معلومات تعريف شخصية مجهولة""",ar,Anonymized PII,,,whole_word,exact
+حماية الحافة,ar,Edge Guard,,,whole_word,exact
+لوحة القيادة,ar,Driver Board,,,whole_word,exact
+"""الملوثات""",ar,Contaminants,,,whole_word,exact
+محطات الاتصالات,ar,COM terminals,,,whole_word,exact
+"""البلاستيكات الهندسية""",ar,Engineered plastics,,,whole_word,exact
+"""تنقيط""",ar,Drip,,,whole_word,exact
+خرطوشة,ar,Cartridge,,,whole_word,exact
+برنامج تدريبي,ar,Boot Camp,,,whole_word,exact
+فلتر سهل التنظيف,ar,Easy Clean Filter,,,whole_word,exact
+توصيل,ar,Coupling,,,whole_word,exact
+مطاط بونا-إن,ar,Buna-N,,,whole_word,exact
+غطاء الصمام,ar,Bonnet,,,whole_word,exact
+حاوية بلاستيكية من نوع ASA,ar,ASA plastic enclosure,,,whole_word,exact
+جهاز توصيل المياه,ar,Emission Device,,,whole_word,exact
+"""مقاول""",ar,contractor,,,whole_word,exact
+تصفية التوزيع,ar,Distributor account balance,,,whole_word,exact
+وصلة مسننة,ar,Barb,,,whole_word,exact
+"""تحت المستوى""",ar,Below grade,,,whole_word,exact
+"""مفتاح الدوران والقفل""",ar,"""turn and lock"" key",,,whole_word,exact
+رأس خط التنقيط,ar,Dripline Header,,,whole_word,exact
+صمام تصريف منبثق (DPUV),ar,Drainage Pop-Up Valve (DPUV),,,whole_word,exact
+وحدة تحكم عنقودية,ar,Cluster Control Unit (CCU),,,whole_word,exact
+الياقة الوسطى,ar,Center collar,,,whole_word,exact
+"""ثقب البرغي القابل للإزالة""",ar,Bolt Hole Knock-out,,,whole_word,exact
+ذراع PJ المصبوب,ar,Die-cast PJ arm,,,whole_word,exact
+ICS™,ar,ICS™,Alison,2025.12.29,whole_word,exact
+Integrated Sensor,ar,Integrated Sensor,Alison,2025.12.29,whole_word,exact
+معدل الترسيب,ar,precipitation rate,,,whole_word,exact
+"""مقطع عرضي PGA""",ar,PGA Cutaway,,,whole_word,exact
+"""فوهة""",ar,nozzle,,,whole_word,exact
+مستشعر الرطوبة,ar,Moisture Sensor,,,whole_word,exact
+التعليق,ar,Binding,,,whole_word,exact
+رؤوس الرش,ar,Spray Heads,,,whole_word,exact
+"""جهاز مراقبة التدفق بنوع إدخال النبضات""",ar,Pulse input type flow monitor,,,whole_word,exact
+حوض,ar,Basin,,,whole_word,exact
+الأنابيب,ar,Tubing,,,whole_word,exact
+"""غطاء التربة""",ar,Mulch,,,whole_word,exact
+الساق,ar,Leg,,,whole_word,exact
+مستشعر تدفق بالموجات فوق الصوتية,ar,Ultrasonic Flow Sensor,,,whole_word,exact
+جهاز الحماية من الارتفاع المفاجئ,ar,Surge Device,,,whole_word,exact
+منشأة خام الحديد فالي,ar,Valé Iron Ore Facility,,,whole_word,exact
+"""غلاف الدوار""",ar,Rotor case,,,whole_word,exact
+صمام مؤخر بدء المضخة,ar,Pump start relay valve,,,whole_word,exact
+إدراج,ar,Insert,,,whole_word,exact
+"""الدائرة الكاملة""",ar,Full Circle,,,whole_word,exact
+معدل المحطة,ar,Station rate,,,whole_word,exact
+شبكة مربعة للردهة,ar,Square Atrium Grate,,,whole_word,exact
+"""السادة""",ar,Misters,,,whole_word,exact
+شفة,ar,Flange,,,whole_word,exact
+تدفق الفوهة,ar,Nozzle flow,,,whole_word,exact
+رحلة,ar,Trip,,,whole_word,exact
+Soil Manager™,ar,Soil Manager™,Alison,2025.12.29,whole_word,exact
+Bird®,ar,Bird®,Alison,2025.12.29,whole_word,exact
+Product Features,ar,Product Features,Alison,2025.12.29,whole_word,exact
+Rain Bird Factory Trained™,ar,Rain Bird Factory Trained™,Alison,2025.12.29,whole_word,exact
+The Intelligent Use of Water®,ar,The Intelligent Use of Water®,Alison,2025.12.29,whole_word,exact
+Rain Bird Messenger™,ar,Rain Bird Messenger™,Alison,2025.12.29,whole_word,exact
+Monitor Log™,ar,Monitor Log™,Alison,2025.12.29,whole_word,exact
+TG-25™,ar,TG-25™,Alison,2025.12.29,whole_word,exact
+Software Features,ar,Software Features,Alison,2025.12.29,whole_word,exact
+Water Bird® *,ar,Water Bird® *,Alison,2025.12.29,whole_word,exact
+Black Bird®,ar,Black Bird®,Alison,2025.12.29,whole_word,exact
+MAXICOM®,ar,MAXICOM®,Alison,2025.12.29,whole_word,exact
+Rain Clock™,ar,Rain Clock™,Alison,2025.12.29,whole_word,exact
+Course Data Builder™,ar,Course Data Builder™,Alison,2025.12.29,whole_word,exact
+SDC-1™,ar,SDC-1™,Alison,2025.12.29,whole_word,exact
+FREEDOM-Pad™,ar,FREEDOM-Pad™,Alison,2025.12.29,whole_word,exact
+Sure Pop®,ar,Sure Pop®,Alison,2025.12.29,whole_word,exact
+Micro Bird Spinner®,ar,Micro Bird Spinner®,Alison,2025.12.29,whole_word,exact
+Mini-Paw®,ar,Mini-Paw®,Alison,2025.12.29,whole_word,exact
+Rain Bucket™,ar,Rain Bucket™,Alison,2025.12.29,whole_word,exact
+RAINBIRD®,ar,RAINBIRD®,Alison,2025.12.29,whole_word,exact
+SimpleIRR™ /Simple IRR™,ar,SimpleIRR™ /Simple IRR™,Alison,2025.12.29,whole_word,exact
+Flograph™,ar,Flograph™,Alison,2025.12.29,whole_word,exact
+Rain Bird®,ar,Rain Bird®,Alison,2025.12.29,whole_word,exact
+Tough Bird®,ar,Tough Bird®,Alison,2025.12.29,whole_word,exact
+Timeless Compatibility™,ar,Timeless Compatibility™,Alison,2025.12.29,whole_word,exact
+Select Contractor®,ar,Select Contractor®,Alison,2025.12.29,whole_word,exact
+Preferred Drip Installer™,ar,Preferred Drip Installer™,Alison,2025.12.29,whole_word,exact
+QuickStart™,ar,QuickStart™,Alison,2025.12.29,whole_word,exact
+Flowatch™,ar,Flowatch™,Alison,2025.12.29,whole_word,exact
+Easy Rain®,ar,Easy Rain®,Alison,2025.12.29,whole_word,exact
+ClimateMinder®,ar,ClimateMinder®,Alison,2025.12.29,whole_word,exact
+Map Utilities™,ar,Map Utilities™,Alison,2025.12.29,whole_word,exact
+Flo-Guard™,ar,Flo-Guard™,Alison,2025.12.29,whole_word,exact
+Memory Arc®,ar,Memory Arc®,Alison,2025.12.29,whole_word,exact
+Mini Bird®,ar,Mini Bird®,Alison,2025.12.29,whole_word,exact
+1800®,ar,1800®,Alison,2025.12.29,whole_word,exact
+Flo-Manager®,ar,Flo-Manager®,Alison,2025.12.29,whole_word,exact
+Xerigation®,ar,Xerigation®,Alison,2025.12.29,whole_word,exact
+Micro Bird®,ar,Micro Bird®,Alison,2025.12.29,whole_word,exact
+Rain Net™,ar,Rain Net™,Alison,2025.12.29,whole_word,exact
+Course Designer™,ar,Course Designer™,Alison,2025.12.29,whole_word,exact
+ET Spreadsheet™,ar,ET Spreadsheet™,Alison,2025.12.29,whole_word,exact
+Copper Shield™,ar,Copper Shield™,Alison,2025.12.29,whole_word,exact
+Rain Can®,ar,Rain Can®,Alison,2025.12.29,whole_word,exact
+Cost Estimator™,ar,Cost Estimator™,Alison,2025.12.29,whole_word,exact
+The Intelligent Use of Water™,ar,The Intelligent Use of Water™,Alison,2025.12.29,whole_word,exact
+Pump™/SmartPump™,ar,Pump™/SmartPump™,Alison,2025.12.29,whole_word,exact
+ET Checkbook™,ar,ET Checkbook™,Alison,2025.12.29,whole_word,exact
+MI Series™,ar,MI Series™,Alison,2025.12.29,whole_word,exact
+CYCLIK™,ar,CYCLIK™,Alison,2025.12.29,whole_word,exact
+Falcon®,ar,Falcon®,Alison,2025.12.29,whole_word,exact
+Branch™,ar,Branch™,Alison,2025.12.29,whole_word,exact
+MIMS™,ar,MIMS™,Alison,2025.12.29,whole_word,exact
+LNK™,ar,LNK™,Alison,2025.12.29,whole_word,exact
+Pump Profiling™,ar,Pump Profiling™,Alison,2025.12.29,whole_word,exact
+QuickIRR™ /Quick IRR™,ar,QuickIRR™ /Quick IRR™,Alison,2025.12.29,whole_word,exact
+Course Manager™,ar,Course Manager™,Alison,2025.12.29,whole_word,exact
+Course View™,ar,Course View™,Alison,2025.12.29,whole_word,exact
+Flo-Watch™,ar,Flo-Watch™,Alison,2025.12.29,whole_word,exact
+Program Builder™,ar,Program Builder™,Alison,2025.12.29,whole_word,exact
+Smartweather™,ar,Smartweather™,Alison,2025.12.29,whole_word,exact
+Hole View™,ar,Hole View™,Alison,2025.12.29,whole_word,exact
+Top Serviceable Rock,ar,Top Serviceable Rock,Alison,2025.12.29,whole_word,exact
+Stratus™,ar,Stratus™,Alison,2025.12.29,whole_word,exact
+Star Bird™,ar,Star Bird™,Alison,2025.12.29,whole_word,exact
+IC CONNECT™,ar,IC CONNECT™,Alison,2025.12.29,whole_word,exact
+Smart,ar,Smart,Alison,2025.12.29,whole_word,exact
+Floguard™,ar,Floguard™,Alison,2025.12.29,whole_word,exact
+Xeri-Bird™,ar,Xeri-Bird™,Alison,2025.12.29,whole_word,exact
+TBOS-II™,ar,TBOS-II™,Alison,2025.12.29,whole_word,exact
+Sensor Decorder™,ar,Sensor Decorder™,Alison,2025.12.29,whole_word,exact
+LINK™,ar,LINK™,Alison,2025.12.29,whole_word,exact
+Pump Monitor™,ar,Pump Monitor™,Alison,2025.12.29,whole_word,exact
+Course Monitor™,ar,Course Monitor™,Alison,2025.12.29,whole_word,exact
+Seal-A-Matic™,ar,Seal-A-Matic™,Alison,2025.12.29,whole_word,exact
+ExactEdge™,ar,ExactEdge™,Alison,2025.12.29,whole_word,exact
+Maxi-Bird™,ar,Maxi-Bird™,Alison,2025.12.29,whole_word,exact
+IQ™,ar,IQ™,Alison,2025.12.29,whole_word,exact
+Smart Weather™,ar,Smart Weather™,Alison,2025.12.29,whole_word,exact
+Designer Notes™,ar,Designer Notes™,Alison,2025.12.29,whole_word,exact
+Quick Flush™,ar,Quick Flush™,Alison,2025.12.29,whole_word,exact
+Rain Bird Academy™,ar,Rain Bird Academy™,Alison,2025.12.29,whole_word,exact
+MDI™,ar,MDI™,Alison,2025.12.29,whole_word,exact
+Flow Optimizer™,ar,Flow Optimizer™,Alison,2025.12.29,whole_word,exact
+Minimum ET™,ar,Minimum ET™,Alison,2025.12.29,whole_word,exact
+Slip Fit™,ar,Slip Fit™,Alison,2025.12.29,whole_word,exact
+T-Bird™,ar,T-Bird™,Alison,2025.12.29,whole_word,exact
+Dryrun™,ar,Dryrun™,Alison,2025.12.29,whole_word,exact
+Rain Watch™,ar,Rain Watch™,Alison,2025.12.29,whole_word,exact
+Flo-Graph™,ar,Flo-Graph™,Alison,2025.12.29,whole_word,exact
+The FREEDOM System™,ar,The FREEDOM System™,Alison,2025.12.29,whole_word,exact
+LF™,ar,LF™,Alison,2025.12.29,whole_word,exact
+Xeri-Spray™,ar,Xeri-Spray™,Alison,2025.12.29,whole_word,exact
+GritX™,ar,GritX™,Alison,2025.12.29,whole_word,exact
+Talon™,ar,Talon™,Alison,2025.12.29,whole_word,exact
+Lpn™,ar,Lpn™,Alison,2025.12.29,whole_word,exact
+Cycle & Soak™,ar,Cycle & Soak™,Alison,2025.12.29,whole_word,exact
+Rain Curtain™,ar,Rain Curtain™,Alison,2025.12.29,whole_word,exact
+Xeri-Bug™,ar,Xeri-Bug™,Alison,2025.12.29,whole_word,exact
+Nimbus™,ar,Nimbus™,Alison,2025.12.29,whole_word,exact
+LFX™,ar,LFX™,Alison,2025.12.29,whole_word,exact
+EAGLE’s Tail™,ar,EAGLE’s Tail™,Alison,2025.12.29,whole_word,exact
+Cirrus™,ar,Cirrus™,Alison,2025.12.29,whole_word,exact
+Front Office™,ar,Front Office™,Alison,2025.12.29,whole_word,exact
+Screen™,ar,Screen™,Alison,2025.12.29,whole_word,exact
+Shrub Bug™,ar,Shrub Bug™,Alison,2025.12.29,whole_word,exact
+Micro-Quick™,ar,Micro-Quick™,Alison,2025.12.29,whole_word,exact
+StratusLT™,ar,StratusLT™,Alison,2025.12.29,whole_word,exact
+Map Office™,ar,Map Office™,Alison,2025.12.29,whole_word,exact
+UNI-Spray™,ar,UNI-Spray™,Alison,2025.12.29,whole_word,exact
+Xeri-Bubblers™,ar,Xeri-Bubblers™,Alison,2025.12.29,whole_word,exact
+Smart Sensors™,ar,Smart Sensors™,Alison,2025.12.29,whole_word,exact
+System™,ar,System™,Alison,2025.12.29,whole_word,exact
+CCS™,ar,CCS™,Alison,2025.12.29,whole_word,exact
+Flow-Shield™,ar,Flow-Shield™,Alison,2025.12.29,whole_word,exact
+Pop-Top™,ar,Pop-Top™,Alison,2025.12.29,whole_word,exact
+Map Import™,ar,Map Import™,Alison,2025.12.29,whole_word,exact
+Clam Shell™,ar,Clam Shell™,Alison,2025.12.29,whole_word,exact
+Rain Check™,ar,Rain Check™,Alison,2025.12.29,whole_word,exact
+IC System™,ar,IC System™,Alison,2025.12.29,whole_word,exact
+EAGLE™,ar,EAGLE™,Alison,2025.12.29,whole_word,exact
+RD1800™,ar,RD1800™,Alison,2025.12.29,whole_word,exact
+Maxi-Paw™,ar,Maxi-Paw™,Alison,2025.12.29,whole_word,exact
+MIM-LINK™,ar,MIM-LINK™,Alison,2025.12.29,whole_word,exact
+MAXI™,ar,MAXI™,Alison,2025.12.29,whole_word,exact
+PJ™,ar,PJ™,Alison,2025.12.29,whole_word,exact
+MIM™,ar,MIM™,Alison,2025.12.29,whole_word,exact
+LP™,ar,LP™,Alison,2025.12.29,whole_word,exact
+EAGLE’s Nest™,ar,EAGLE’s Nest™,Alison,2025.12.29,whole_word,exact
+CirrusPRO™,ar,CirrusPRO™,Alison,2025.12.29,whole_word,exact
+CIRRUSPRO™,ar,CIRRUSPRO™,Alison,2025.12.29,whole_word,exact
+مسار السلك,ar,Wire path,,,whole_word,exact
+لوحة الدائرة الكهربائية,ar,Circuit board,,,whole_word,exact
+الأقواس,ar,Brackets,,,whole_word,exact
+وحدة التحكم بالتيار المتردد,ar,AC controller,,,whole_word,exact
+"""توصيل الأسلاك""",ar,Wire splice,,,whole_word,exact
+الوصول المتدرج للمستخدمين,ar,Tiered user access,,,whole_word,exact
+العشب الطبيعي,ar,Turfgrass,,,whole_word,exact
+غطاء مسنن,ar,Threaded cap,,,whole_word,exact
+"""ظروف الاندفاع""",ar,Surge conditions,,,whole_word,exact
+"""دوارات عالقة""",ar,Stuck-up rotors,,,whole_word,exact
+مرشات,ar,sprinkler,,,whole_word,exact
+"""آلية التنظيف الذاتي""",ar,Self-flushing action,,,whole_word,exact
+"""التحديث التعديلي""",ar,Retrofitting,,,whole_word,exact
+محمل شعاعي,ar,Radial Bearing,,,whole_word,exact
+برنامج,ar,program,,,whole_word,exact
+صمام تنظيم الضغط,ar,Pressure-regulating valve,,,whole_word,exact
+الري بالتنقيط محدد المنطقة,ar,Point source irrigation,,,whole_word,exact
+فتحات الأنابيب القابلة للإزالة,ar,Pipe hole knock-outs,,,whole_word,exact
+"""برمجة خارج صندوق الصمام""",ar,Out-of-Valve Box Programming,,,whole_word,exact
+فوهات متعددة التدفقات,ar,Nozzles with multiple streams,,,whole_word,exact
+"""غلاف NEMA""",ar,NEMA enclosure,,,whole_word,exact
+التدفق الرئيسي,ar,Nominal Flow,,,whole_word,exact
+نماذج متعددة المحطات,ar,Multi-station models,,,whole_word,exact
+الحد الأقصى لمحطات ICM والمحطات الفضائية المشتركة,ar,Maximum Combined ICM and Satellite Stations,,,whole_word,exact
+"""نظام الري الدقيق""",ar,Micro-Irrigation System,,,whole_word,exact
+موصلات الصمامات الذكرية,ar,Male Valve Connectors,,,whole_word,exact
+""".مصنف للحمل""",ar,Load rated,,,whole_word,exact
+"""قدرة التشغيل عند التدفق المنخفض""",ar,Low flow operating capability,,,whole_word,exact
+مقاومة الالتواء,ar,Kink resistance,,,whole_word,exact
+عدادات المياه المتصلة بالإنترنت (ICWM),ar,Internet Connected Water Meters (ICWM),,,whole_word,exact
+مرشح قرصي ذو سعة كبيرة,ar,Large-Capacity Disc Filter,,,whole_word,exact
+دوارات التأثير,ar,Impact Rotors,,,whole_word,exact
+"""الشفط الهيدروليكي""",ar,Hydraulic Suction,,,whole_word,exact
+معدل التدفق الأمامي,ar,Forward flow rate,,,whole_word,exact
+"""ضباب الدائرة الكاملة""",ar,Full circle mist,,,whole_word,exact
+التخبر والتنحي,ar,Evapotranspiration (ET),,,whole_word,exact
+مجموعة منطقة التحكم,ar,control zone kit,,,whole_word,exact
+"""مستشعر الطقس""",ar,Weather Sensor,,,whole_word,exact
+قناة,ar,Conduit,,,whole_word,exact
+الاتصال الرجعي,ar,Call Backs,,,whole_word,exact
+"""برميل""",ar,Barrel,,,whole_word,exact
+""".مقياس المطر ذو الدلو القلاب""",ar,Tipping bucket rain can,,,whole_word,exact
+إزالة العشب,ar,turf removal,,,whole_word,exact
+التعرجات,ar,Switchbacks,,,whole_word,exact
+وقت دورة المحطة,ar,Station Cycle Time,,,whole_word,exact
+فوهات شريطية,ar,Strip Nozzles,,,whole_word,exact
+شبكة SS,ar,SS Mesh,,,whole_word,exact
+التحكم الذكي,ar,Smart Control,,,whole_word,exact
+كتل طرفية بمسامير,ar,Screw terminal blocks,,,whole_word,exact
+"""نطاق نصف القطر""",ar,Radius Range,,,whole_word,exact
+"""نصف القطر""",ar,Radius,,,whole_word,exact
+مراقب النبض,ar,Pulse Monitor,,,whole_word,exact
+"""أنبوب التنقيط ذو الجدار السميك مع تعويض الضغط""",ar,Pressure compensating heavywall dripline,,,whole_word,exact
+عامل نوع النبات,ar,Plant species factor,,,whole_word,exact
+الصمام التجريبي,ar,Pilot valves,,,whole_word,exact
+"""دوارات جولف دائرية جزئية""",ar,Part Circle Golf Rotors,,,whole_word,exact
+"""فوهة معاكسة""",ar,Opposing Nozzle,,,whole_word,exact
+التحكم في عدم التدفق,ar,Non-Flow Control,,,whole_word,exact
+"""جهاز متعدد المنافذ""",ar,Multi-Outlet Device,,,whole_word,exact
+"""الفولاذ المقاوم للصدأ الملبد متعدد الطبقات""",ar,Multi-layer sintered SS,,,whole_word,exact
+"""فوهات بمعدل هطول متساوٍ""",ar,Matched Precipitation Rate Nozzles,,,whole_word,exact
+"""الري اليدوي""",ar,Manual irrigation,,,whole_word,exact
+تصريف النقطة الأدنى,ar,Low head drainage,,,whole_word,exact
+"""الانحناء""",ar,Kinking,,,whole_word,exact
+منقط داخلي,ar,Inline emitter,,,whole_word,exact
+رشاشات نهاية الخرطوم,ar,Hose end sprinklers,,,whole_word,exact
+"""مروحة كاملة الدوران""",ar,Full circle Fan,,,whole_word,exact
+صمام الغسيل,ar,flush valve,,,whole_word,exact
+"""مستشعر مقياس المطر المائل""",ar,Tipping Rain Gauge Sensor,,,whole_word,exact
+مسننات,ar,Thread,,,whole_word,exact
+التدفق المباشر,ar,Straight-through flow,,,whole_word,exact
+رأس الرشاش,ar,Sprinkler head,,,whole_word,exact
+"""رؤوس رشاش بفوهات ذات قوس متغير""",ar,Spray Head Variable Arc Nozzles,,,whole_word,exact
+الناهض,ar,riser,,,whole_word,exact
+"""ختم تعبئة المضخة""",ar,Pump packing seal,,,whole_word,exact
+ملعقة بريسيجن جت (PJ),ar,Precision Jet (PJ) spoon,,,whole_word,exact
+مصدر مياه الري بالتنقيط,ar,Point source drip irrigation,,,whole_word,exact
+المشاتل,ar,Nurseries,,,whole_word,exact
+"""محطة يدوية""",ar,manual station,,,whole_word,exact
+أنبوب مموج,ar,Corrugated Pipe,,,whole_word,exact
+"""المواقع الرطبة/المبللة""",ar,Wet/damp locations,,,whole_word,exact
+"""فوهة القوس المتغيرة""",ar,Variable Arc Nozzle,,,whole_word,exact
+وثلات مسننة,ar,Threaded unions,,,whole_word,exact
+تكديس المحطات,ar,Station Stacking,,,whole_word,exact
+"""الدوار""",ar,Rotor,,,whole_word,exact
+"""منظمات تدفق متوسطة بنقاط مصدر مع تعويض الضغط""",ar,Pressure Compensating Point-Source Medium-Flow Emitters,,,whole_word,exact
+ارتفاع النافورة إلى منتصف الفوهة,ar,Pop-Up Height to Mid-Nozzle,,,whole_word,exact
+غطاء النشر PC,ar,PC Diffuser Cap,,,whole_word,exact
+مدخل سفلي ملولب داخلي NPT,ar,NPT female bottom threaded inlet,,,whole_word,exact
+منقطات غير قابل للانسداد,ar,Non-clogging emitters,,,whole_word,exact
+"""سعة المحطة المعيارية""",ar,Modular station capacity,,,whole_word,exact
+ماكس كويل هولدينج,ar,Max Coil Holding,,,whole_word,exact
+نظام وصلة متعددة الفتحات,ar,Manifold System,,,whole_word,exact
+"""مُنبِّهات التدفق المنخفض""",ar,Low flow emitters,,,whole_word,exact
+رأس,ar,Header,,,whole_word,exact
+ملف الجولف الأسود اللولبي,ar,Golf Black Solenoid,,,whole_word,exact
+الضغط الديناميكي,ar,dynamic pressure,,,whole_word,exact
+"""صمام التحكم في المسافة (DA)""",ar,Distance control flap (DA),,,whole_word,exact
+لوحة التواصل,ar,Communication board,,,whole_word,exact
+"""صواميل الأسلاك""",ar,Wire nuts,,,whole_word,exact
+مديرو الموارد المائية,ar,Water managers,,,whole_word,exact
+وتد التثبيت,ar,Tie-Down Stake,,,whole_word,exact
+مصدر التنسين,ar,Thread emitter,,,whole_word,exact
+رأس الإمداد,ar,supply header,,,whole_word,exact
+منطقة الرش,ar,Spray zone,,,whole_word,exact
+وصلات الشجيرات,ar,Shrub Adapters,,,whole_word,exact
+"""التعديل الموسمي""",ar,seasonal adjust,,,whole_word,exact
+فوهة التغيير السريع,ar,Quick-Change Nozzle,,,whole_word,exact
+"""منفذ الفوهة الرئيسي""",ar,Primary nozzle port,,,whole_word,exact
+المكبس,ar,Plunger,,,whole_word,exact
+"""تعديل نصف دائري""",ar,Part-circle adjustment,,,whole_word,exact
+وحدات التحكم في الإزاحة,ar,Offset controllers,,,whole_word,exact
+فوهة,ar,Nozzle,,,whole_word,exact
+.الحد الأقصى لمدة تشغيل المحطة,ar,Maximum station run time,,,whole_word,exact
+وصلات ذكر لذكر مسننة,ar,Male x Male threaded connections,,,whole_word,exact
+فوهة بزاوية منخفضة,ar,Low Angle Nozzle,,,whole_word,exact
+حساس تدفق دافع المضخة,ar,Impeller Flow Sensors,,,whole_word,exact
+واجهة,ar,Faceplate,,,whole_word,exact
+مقص الأسلاك,ar,Wire Stripper,,,whole_word,exact
+"""سلكان""",ar,Two-Wire,,,whole_word,exact
+"""ضغط الاندفاع""",ar,Surge pressure,,,whole_word,exact
+"""صحة المحطة""",ar,Station Health,,,whole_word,exact
+"""أوقات تشغيل الرشاشات""",ar,Sprinkler run times,,,whole_word,exact
+بخاخ للجسم,ar,spray body,,,whole_word,exact
+تقنية الاقتران السريع,ar,Quick pair technology,,,whole_word,exact
+محطة ضخ,ar,Pump station,,,whole_word,exact
+وحدة تنظيم الضغط,ar,Pressure regulating module,,,whole_word,exact
+منطقة جذور النبات,ar,Plant root zone,,,whole_word,exact
+المكثف المدمج,ar,Onboard Capacitor,,,whole_word,exact
+"""سلسلة/نمط الفوهة""",ar,Nozzle Series/Pattern,,,whole_word,exact
+وحدات متعددة المناطق,ar,Multi-zone units,,,whole_word,exact
+تعطل وحدة التحكم الدقيقة,ar,Micro-controller lock-up,,,whole_word,exact
+تدفق منخفض,ar,Low Flow,,,whole_word,exact
+"""مخرجات قطع التدفق العالي""",ar,High flow cutoff outputs,,,whole_word,exact
+"""رشاش منخفض التدفق دائري كامل""",ar,Full circle low-flow sprinkler,,,whole_word,exact
+نهاية التغذية,ar,end feed,,,whole_word,exact
+لوحة تحكم,ar,controller,,,whole_word,exact
+وحدة تحكم تعمل بالبطارية,ar,Battery-Operated Controller,,,whole_word,exact
+"""الارتداد العكسي""",ar,back siphoning,,,whole_word,exact
+"""فوهة دوارة""",ar,rotary nozzle,,,whole_word,exact
+"""قاطع تفريغ الضغط (PVB)""",ar,Pressure vacuum breaker (PVB),,,whole_word,exact
+إيقاف التدفق الزائد,ar,Plus (+) Flow shutoff,,,whole_word,exact
+ارسال إشارة للصمام,ar,Ping Station,,,whole_word,exact
+خرطوشة NCC,ar,NCC cartridge,,,whole_word,exact
+طول المد الأقصى,ar,Maximum Lateral Length,,,whole_word,exact
+وصلة متعددة الفتحات,ar,Manifold,,,whole_word,exact
+"""شبكة قفل""",ar,Locking grate,,,whole_word,exact
+"""النزيف الداخلي""",ar,Internal bleed,,,whole_word,exact
+مرشح شاشة شفط هيدروليكي,ar,Hydraulic Suction Scanning Screen Filter,,,whole_word,exact
+النمط الكامل,ar,Full pattern,,,whole_word,exact
+"""معدل التدفق""",ar,flow rate,,,whole_word,exact
+كابل عازل مزدوج من PVC-PE,ar,Double PVC-PE insulation cable,,,whole_word,exact
+حجرة الأسلاك,ar,Wire bay,,,whole_word,exact
+"""دوارات بصمام في الرأس""",ar,Valve-in-head rotors,,,whole_word,exact
+أنابيب الري بالتنقيط تحت الأرض,ar,Underground emitter tubing,,,whole_word,exact
+وصلات قفل الالتواء,ar,Twist Lock Fittings,,,whole_word,exact
+نماذج التسنين,ar,Threaded models,,,whole_word,exact
+"""تراجع الساق""",ar,Stem retraction,,,whole_word,exact
+الري بالرش,ar,Spray Irrigation,,,whole_word,exact
+"""آلية الزنبرك""",ar,Spring action,,,whole_word,exact
+كوع حلزوني برب,ar,Spiral Barb Elbow,,,whole_word,exact
+"""مقياس المطر""",ar,Raingauge,,,whole_word,exact
+سدادة فوهة خلفية,ar,Rear nozzle plug,,,whole_word,exact
+الري المبرمج,ar,Programmed irrigation,,,whole_word,exact
+تعويض الضغط,ar,pressure compensation,,,whole_word,exact
+مقبض التحكم في تدفق المياه الصالحة للشرب,ar,Potable flow control handle,,,whole_word,exact
+نافورة ري صغيرة PCT,ar,PCT Bubbler,,,whole_word,exact
+تدفق تجريبي,ar,Pilot flow,,,whole_word,exact
+على/تحت السطح,ar,On/Sub Surface,,,whole_word,exact
+"""محطة طقس متعددة""",ar,Multiple Weather Station,,,whole_word,exact
+"""إم. دبليو. إي. إل. أو""",ar,MWELO,,,whole_word,exact
+قياس معدل التدفق الميكانيكي,ar,Mechanical flow rate measurement,,,whole_word,exact
+زهرة ذكرية,ar,Male flower,,,whole_word,exact
+إيقاف التشغيل عند انخفاض أو انعدام التدفق,ar,Low- or zero-flow shutdown,,,whole_word,exact
+قاطع النفاثات,ar,Jet-Breaker,,,whole_word,exact
+البوليسترين عالي التأثير (HIPS),ar,High-Impact Polystyrene (HIPS),,,whole_word,exact
+دافع المضخة,ar,Impeller,,,whole_word,exact
+فقدان الاحتكاك,ar,friction loss,,,whole_word,exact
+الترشيح,ar,filtration,,,whole_word,exact
+طبل,ar,Drum,,,whole_word,exact
+صمام,ar,valve,,,whole_word,exact
+مسار ذو سلكين,ar,Two-wire path,,,whole_word,exact
+مخرج مسنن,ar,Threaded emitter,,,whole_word,exact
+وتد,ar,Stake,,,whole_word,exact
+"""الضغط الساكن""",ar,static pressure,,,whole_word,exact
+وحدة الاتصال الذكية,ar,Smart Connection Module,,,whole_word,exact
+كابل استشعار التدفق المحمي,ar,Shielded flow sensing cable,,,whole_word,exact
+وقت التشغيل,ar,run time,,,whole_word,exact
+منطقة,ar,zone,,,whole_word,exact
+"""حاوية تثبيت على الحائط""",ar,Wall Mount Enclosure,,,whole_word,exact
+مقاوم للتخريب والعبث,ar,Vandal/Tamper Resistant,,,whole_word,exact
+حلقة قفل صندوق الصمام,ar,Valve box locking ring,,,whole_word,exact
+سدادة مسننة,ar,Threaded plug,,,whole_word,exact
+مسار عشبي,ar,Turf track,,,whole_word,exact
+"""ارتفاع مفاجئ""",ar,Surge,,,whole_word,exact
+"""جسم جامبو كبير جدًا""",ar,Super Jumbo Body,,,whole_word,exact
+شاشة شبكية سلكية من الفولاذ المقاوم للصدأ,ar,SS woven wire mesh screen,,,whole_word,exact
+"""رذاذ للجسم""",ar,Spray Body,,,whole_word,exact
+التباعد بين الصفوف,ar,Row spacing,,,whole_word,exact
+مجموعة التحكم في المنطقة السكنية,ar,Residential Control Zone Kit,,,whole_word,exact
+مرسل النبضات,ar,Pulse Transmitter,,,whole_word,exact
+عازل مفقل بالضغط,ar,Pressure-activated wiper seal,,,whole_word,exact
+مرشح تنظيم الضغط RBY,ar,Pressure regulating RBY filter,,,whole_word,exact
+صندوق جهازالتحكم البلاستيكي,ar,Plastic controller case,,,whole_word,exact
+"""إرسال إشارات إلى أجهزة فك التشفير""",ar,Pinging decoders,,,whole_word,exact
+"""تقشر اللحاء""",ar,Peeling bark,,,whole_word,exact
+نظام الرش الفوق سطحي,ar,Overhead spray irrigation system,,,whole_word,exact
+برج الفوهة,ar,Nozzle turret,,,whole_word,exact
+خيط الأنبوب المحلي,ar,National Pipe Thread,,,whole_word,exact
+"""مقدمة الفوهة""",ar,Nozzle front,,,whole_word,exact
+"""مسار مخرج الفوهة""",ar,Nozzle outlet trajectory,,,whole_word,exact
+سلك الصمام الرئيسي,ar,MV Wire,,,whole_word,exact
+"""التبخير""",ar,Misting,,,whole_word,exact
+"""معدل التدفق الأقصى""",ar,Max Allowable Flow Rate,,,whole_word,exact
+واقيات اندفاع التيار الكهربائي (LSP),ar,LSP (line surge protectors),,,whole_word,exact
+"""محول ذكر""",ar,Male Adapter,,,whole_word,exact
+مدخل ذكري مسنن,ar,Male threaded inlet,,,whole_word,exact
+"""القفل""",ar,Locking,,,whole_word,exact
+نوع وصلات القفل,ar,Lock Type Fittings,,,whole_word,exact
+رشاش,ar,Irrigation spray head,,,whole_word,exact
+مؤخر التثبيت,ar,Latching Relay,,,whole_word,exact
+مدخل,ar,Inlet,,,whole_word,exact
+صمام فحص شديد التحمل,ar,Heavy-Duty Check Valve,,,whole_word,exact
+"""فوهات كاملة""",ar,Full Nozzles,,,whole_word,exact
+إدارة الموارد المائية,ar,Water resource management,,,whole_word,exact
+صندوق الصمام,ar,valve box,,,whole_word,exact
+"""سلك محمي""",ar,Shielded wire,,,whole_word,exact
+رؤوس الدوارات,ar,Rotor heads,,,whole_word,exact
+"""المغناطيس الكهربائي المزود بآلية قفل مغلق""",ar,Potted latching solenoid,,,whole_word,exact
+منطقة الزراعة,ar,Planting zone,,,whole_word,exact
+عملية دائرة جزئية,ar,Part circle operation,,,whole_word,exact
+"""محاذاة نمط الفوهة""",ar,Nozzle pattern alignment,,,whole_word,exact
+حامل التثبيت,ar,Mounting Bracket,,,whole_word,exact
+"""أقصى سطح للتصفية""",ar,Maximum filtering surface,,,whole_word,exact
+"""تصنيف الحمولة""",ar,Load rating,,,whole_word,exact
+سلك,ar,Irrigation wire,,,whole_word,exact
+رشاش بالضرب,ar,Impact sprinkler,,,whole_word,exact
+"""تيار الدائرة الكاملة""",ar,Full circle stream,,,whole_word,exact
+جهاز مراقبة/إرسال التدفق,ar,Flow Monitor/Transmitter,,,whole_word,exact
+خط التنقيط,ar,Dripline,,,whole_word,exact
+"""غلاف NEMA مقاوم للعوامل الجوية""",ar,Weatherproof NEMA enclosure,,,whole_word,exact
+"""رشاشات بصمام في الرأس""",ar,Valve-in-head sprinklers,,,whole_word,exact
+"""مقعد الصمام""",ar,Valve Seat,,,whole_word,exact
+مدخل مسنن,ar,Threaded Inlet,,,whole_word,exact
+سعة تحميل المحطة,ar,Station Load Capacity,,,whole_word,exact
+موصلات التثبيت السريع,ar,Snap fit connectors,,,whole_word,exact
+تيارات دوارة,ar,Rotating streams,,,whole_word,exact
+"""زنبرك قابل للسحب""",ar,Retract spring,,,whole_word,exact
+"""وصلة كوع سريعة""",ar,Quick elbow coupling,,,whole_word,exact
+أنبوب Jet الدقيق,ar,Precision Jet tube,,,whole_word,exact
+شبكة الأنابيب,ar,Pipe network,,,whole_word,exact
+"""غلاف عازل من البولي إيثيلين""",ar,PE insulation jacket,,,whole_word,exact
+"""نطاق تدفق التشغيل""",ar,Operating Flow Range,,,whole_word,exact
+سطح التركيب,ar,Mounting surface,,,whole_word,exact
+"""معدل التدفق الإضافي الأقصى""",ar,Maximum additional flow rate,,,whole_word,exact
+أنظمة الري التي تعمل يدويًا,ar,Manually operated irrigation systems,,,whole_word,exact
+وصلات LOC,ar,LOC fittings,,,whole_word,exact
+"""توقع جدول الري""",ar,Irrigation schedule forecasting,,,whole_word,exact
+لوحة تفريغ التيار,ar,Grounding Plate,,,whole_word,exact
+شجرة الهكبيري,ar,Hackberry Tree,,,whole_word,exact
+شبكة الترشيح,ar,Filter screen,,,whole_word,exact
+صمام عدم الرجوع,ar,emitter check valve,,,whole_word,exact
+أنابيب التوزيع,ar,Distribution Tubing,,,whole_word,exact
+معدل التطبيق,ar,application rate,,,whole_word,exact
+"""محطة الطقس WatchDog*""",ar,WatchDog* weather station,,,whole_word,exact
+ريشة,ar,Vane,,,whole_word,exact
+رؤوس الرشاشات القافزة,ar,Pop-Up Spray Heads,,,whole_word,exact
+مناطق تحمل النباتات,ar,Plant hardiness zones,,,whole_word,exact
+"""سترة PE""",ar,PE jacket,,,whole_word,exact
+انحناءات الأنابيب,ar,Pipe bends,,,whole_word,exact
+مسار سلك الإخراج,ar,Output Wire Path,,,whole_word,exact
+الري الرشاشات فوق السطح,ar,Overhead irrigation,,,whole_word,exact
+"""غلاف الفوهة""",ar,Nozzle housing,,,whole_word,exact
+"""سعة متعددة الصمامات""",ar,Multi-valve capacity,,,whole_word,exact
+"""وحدة تحكم معيارية""",ar,Modular controller,,,whole_word,exact
+"""التدفق الأقصى""",ar,Maximum Flow,,,whole_word,exact
+نافذة المياه لصمام التحكم الرئيسي,ar,Master Valve Water Window,,,whole_word,exact
+صمام يدوي,ar,Manual valve,,,whole_word,exact
+"""نهر كاش""",ar,Cache River,,,whole_word,exact
+بابلر ( نافورة ري صغيرة),ar,Bubbler,,,whole_word,exact
+"""التدفق العكسي""",ar,Backflush,,,whole_word,exact
+ختم محكم ضد الماء,ar,Water-tight seal,,,whole_word,exact
+حلقتان مزدوجتان,ar,Double O Ring,,,whole_word,exact
+شبكة قفل مقاومة للتخريب,ar,Vandal resistant locking grate,,,whole_word,exact
+لوحة واجهة القمر الصناعي ذات السلكين,ar,Two-Wire Satellite Interface Board,,,whole_word,exact
+الحماية من ارتفاع التيار,ar,Surge Protection,,,whole_word,exact
+وقت نقع المحطة,ar,Station Soak Time,,,whole_word,exact
+شاشة شبكية من الفولاذ المقاوم للصدأ,ar,SS Mesh Screen,,,whole_word,exact
+"""منظف""",ar,Scrubber,,,whole_word,exact
+"""مستشعر المطر""",ar,rain sensor,,,whole_word,exact
+رؤوس PVC,ar,PVC headers,,,whole_word,exact
+منظم الضغط,ar,Pressure regulator,,,whole_word,exact
+معجون الأنابيب,ar,Pipe dope,,,whole_word,exact
+"""أنصاف أقطار أقواس الفوهات""",ar,Nozzles’ arc radii,,,whole_word,exact
+معدات التركيب,ar,Mounting hardware,,,whole_word,exact
+"""تدفق متوسط""",ar,Medium Flow,,,whole_word,exact
+مخرج ذكر مسنن,ar,Male threaded outlet,,,whole_word,exact
+المغناطيس الكهربائي القافل,ar,Latching solenoid,,,whole_word,exact
+رأس,ar,Head,,,whole_word,exact
+"""تشقق الإجهاد البيئي (ESCR)""",ar,Environmental Stress Cracking (ESCR),,,whole_word,exact
+محطة الطقس,ar,Weather Station,,,whole_word,exact
+فوهة بنمط مربع,ar,Square Pattern Nozzle,,,whole_word,exact
+"""الباعث المسنن""",ar,Spiked emitter,,,whole_word,exact
+"""صمام التوصيل السريع""",ar,Quick-coupling valve,,,whole_word,exact
+مستشعرات النبض,ar,Pulse sensors,,,whole_word,exact
+الزراعة الكثيفة,ar,dense planting,,,whole_word,exact
+تيار ماء مستمر,ar,Continuous water stream,,,whole_word,exact
+"""نبع محتجز""",ar,Captive spring,,,whole_word,exact
+"""خاصية الشعرية""",ar,capillary action,,,whole_word,exact
+مرشح السلة,ar,Basket Filter,,,whole_word,exact
+أنابيب مفرغة,ar,Blank Tubing,,,whole_word,exact
+"""ملعب AirFibr""",ar,AirFibr pitch,,,whole_word,exact
+"""وصلات الاتحاد""",ar,Union fittings,,,whole_word,exact
+أنبوب ثلاثي الجدران,ar,Triple Wall Pipe,,,whole_word,exact
+أنبوب متأرجح,ar,Swing Pipe,,,whole_word,exact
+وصلة مفصلية,ar,Swing joint fitting,,,whole_word,exact
+"""تحت السطح""",ar,sub-surface,,,whole_word,exact
+"""تحت السطح""",ar,Subsurface,,,whole_word,exact
+مرشّ.,ar,Sprinkler,,,whole_word,exact
+نظام الرش,ar,Sprinkler system,,,whole_word,exact
+الزراعة المتفرقة,ar,sparse planting,,,whole_word,exact
+الآلات ذات الإطارات المطاطية,ar,Rubber-tired machinery,,,whole_word,exact
+"""المياه المعاد تدويرها""",ar,Reclaimed water,,,whole_word,exact
+"""فوهة ربع""",ar,Quarter nozzle,,,whole_word,exact
+"""فقاعات دائرية كاملة مع تعويض الضغط""",ar,Pressure Compensating Full-Circle Bubblers,,,whole_word,exact
+شبكة الترشيح ذو سعة كبيرة,ar,Large-Capacity Screen Filter,,,whole_word,exact
+"""يكبح""",ar,hold back,,,whole_word,exact
+"""فوهات الدائرة الكاملة""",ar,Full Circle Nozzles,,,whole_word,exact
+"""نهايات الإغلاق على شكل الرقم 8""",ar,Figure 8 end closures,,,whole_word,exact
+صمام تنفيس الهواء بالفراغ,ar,Vacuum air relief valve,,,whole_word,exact
+"""صحة الصمام""",ar,Valve health,,,whole_word,exact
+"""العشب""",ar,Turf,,,whole_word,exact
+سلك التوصيل,ar,Supply wire,,,whole_word,exact
+لوحة تأريض الحماية من الارتفاع المفاجئ,ar,Surge Grounding Plate,,,whole_word,exact
+تأخير تشغيل المحطة,ar,station delay,,,whole_word,exact
+جسم الرشاش,ar,Spray sprinkler body,,,whole_word,exact
+"""مناطق الشجيرات وتغطية الأرض""",ar,Shrub and groundcover areas,,,whole_word,exact
+"""دوار""",ar,rotor,,,whole_word,exact
+برج معزز,ar,Reinforced turret,,,whole_word,exact
+"""تسلل الجذور""",ar,root intrusion,,,whole_word,exact
+قوس الدوار الرئيسي,ar,Primary rotor arc,,,whole_word,exact
+نقاط داخلي معوض للضغط,ar,Pressure-compensating inline emitter,,,whole_word,exact
+موصل مياه موعض لضغط,ar,Pressure-compensating emitter,,,whole_word,exact
+عامل النبات,ar,Plant factor,,,whole_word,exact
+مكان التحكيم,ar,Place of arbitration,,,whole_word,exact
+PC منشر,ar,PC-Diffuser,,,whole_word,exact
+دوار دائري جزئي,ar,Part circle rotor,,,whole_word,exact
+جزء من دائرة,ar,Part circle,,,whole_word,exact
+أنابيب الرفع ذات NPT مسنن,ar,NPT threaded risers,,,whole_word,exact
+مسار الفوهة,ar,Nozzle trajectory,,,whole_word,exact
+محطات المحاكاة الغير متعلقة بالري,ar,Non-Irr-Simulstations,,,whole_word,exact
+"""تقنية البث المتعدد""",ar,Multi-stream technology,,,whole_word,exact
+صمامات مزودة بمحركات,ar,Motorized valves,,,whole_word,exact
+صمام التحكم الرئيسي,ar,master valve,,,whole_word,exact
+"""وحدات التحكم المترابطة""",ar,Mapped Controllers,,,whole_word,exact
+"""الدوار بعيد المدى""",ar,Long-Range Rotor,,,whole_word,exact
+فوهات ذات معدل هطول منخفض,ar,Low Precipitation Rate Nozzles,,,whole_word,exact
+"""قم بإدخال مستشعر التدفق""",ar,Insert Flow Sensor,,,whole_word,exact
+الإقصاءات,ar,Knock-outs,,,whole_word,exact
+الرشاشات الدوارة,ar,Impact Sprinklers,,,whole_word,exact
+البولي إيثيلين عالي الكثافة (HDPE),ar,HDPE (High-density polyethylene),,,whole_word,exact
+التبخر والتنحي,ar,ET rates,,,whole_word,exact
+قاعدة الفوهة,ar,Nozzle base,,,whole_word,exact
+"""وحدات الصمامات الذكية (IVM)""",ar,Intelligent Valve Modules (IVM),,,whole_word,exact
+""".الأشواك المثبتة مسبقًا""",ar,Pre-installed barbs,,,whole_word,exact
+صمام تدفق يدوي,ar,Manual flush valve,,,whole_word,exact
+دورة التنظيف الخلفي اليدوية,ar,Manual backflush cycle,,,whole_word,exact
+مؤشر ضبط IQ,ar,IQ Settings dial position,,,whole_word,exact
+إيقاف التدفق العالي,ar,High-flow shutdown,,,whole_word,exact
+"""ذكاء التبخر والنتح""",ar,Evapotranspiration (ET) intelligence,,,whole_word,exact
+الحاجز المطاط,ar,Diaphragm,,,whole_word,exact
+وحدة تحكم سلكية تقليدية,ar,Traditionally-wired controller,,,whole_word,exact
+"""تجميع وصلة متأرجحة""",ar,Swing joint assembly,,,whole_word,exact
+تأخير تشغيل المحطة,ar,Station Delay,,,whole_word,exact
+محطة,ar,station,,,whole_word,exact
+وصلات انزلاقية,ar,Slip unions,,,whole_word,exact
+كوب العشب,ar,Sod Cup,,,whole_word,exact
+"""عملية الفرك""",ar,Scrubbing action,,,whole_word,exact
+آلية الترس.,ar,Ratchet mechanism,,,whole_word,exact
+نافورة ري صغيرة معوضة للضغط,ar,Pressure-Compensating Threaded Bubblers,,,whole_word,exact
+"""منظمات تدفق منخفض مع تعويض الضغط""",ar,Pressure Compensating Low-Flow Emitters,,,whole_word,exact
+المسام,ar,pores,,,whole_word,exact
+شجرة الفوهات,ar,Nozzle tree,,,whole_word,exact
+خراطيش اتصالات NCC,ar,NCC communications cartridges,,,whole_word,exact
+"""كابل ري متعدد الموصلات""",ar,Multi-Conductor Irrigation Cable,,,whole_word,exact
+صمام التحكم الرئيسي / المضخة,ar,Master Valve /Pump,,,whole_word,exact
+دليل نافذة مياه الصمام الرئيسي,ar,Manual MV Water Window,,,whole_word,exact
+"""آلة شق طولية""",ar,Lengthwise slitter,,,whole_word,exact
+فلتر ذو سعة كبيرة,ar,Large-Capacity Filter,,,whole_word,exact
+شبكة,ar,Grate,,,whole_word,exact
+"""الفقد بالتبخر""",ar,Evaporative loss,,,whole_word,exact
+وصلات الضغط,ar,Compression Fittings,,,whole_word,exact
+عازل التنظيف الملحم,ar,Co-molded wiper seal,,,whole_word,exact
+تشققات سطحية متقاطعة,ar,Alligator Juniper,,,whole_word,exact
+""".مستقر بالأشعة فوق البنفسجية""",ar,UV stabilized,,,whole_word,exact
+شريط التوصيل,ar,Terminal Strip,,,whole_word,exact
+وصل المسننات,ar,Thread adapters,,,whole_word,exact
+فوهة مستقيمة التجويف,ar,Straight Bore Nozzle,,,whole_word,exact
+"""أتريوم مربع""",ar,Square Atrium,,,whole_word,exact
+وحدة التحكم الذكية,ar,Smart Controller,,,whole_word,exact
+مدخل الدوار,ar,Rotor inlet,,,whole_word,exact
+مرشح السلة للفحص السريع,ar,Quick-Check Basket Filter,,,whole_word,exact
+منظم ضغط داخل الساق PRS,ar,PRS in-stem pressure regulator,,,whole_word,exact
+وضع البث للاتصال السريع,ar,Quick Pair Broadcast Mode,,,whole_word,exact
+مسامير مدخل ذاتية الثقب,ar,Self-piercing inlet barbs,,,whole_word,exact
+"""أداة/مفتاح اختيار الخدمة""",ar,Selector Service Tool/Key,,,whole_word,exact
+إيقاف مستشعر المطر,ar,Rain Sensor shutoff,,,whole_word,exact
+"""قرص تنظيم الضغط""",ar,Pressure regulating dial,,,whole_word,exact
+تحاوز التبخر والتنحي,ar,ET Override,,,whole_word,exact
+رأس الغسيل,ar,flush header,,,whole_word,exact
+"""باعث""",ar,emitter,,,whole_word,exact
+أنبوب تنقيط,ar,dripline,,,whole_word,exact
+"""تبريد المحاصيل""",ar,Crop cooling,,,whole_word,exact
+"""حزمة وحدة التحكم المركزية""",ar,Central Controller Package,,,whole_word,exact
+"""مضاعف الاتصال""",ar,Communication Multiplexer,,,whole_word,exact
+صمام تقليدي,ar,Buckner Valve,,,whole_word,exact
+ميزان فقاعات,ar,Bubble Level,,,whole_word,exact
+لائحة,ar,Board,,,whole_word,exact
+"""صمام تنفيس الهواء (ARV)""",ar,Air Relief Valve (ARV),,,whole_word,exact
+صمامات الملف اللولبي,ar,Solenoid valves,,,whole_word,exact
+صمام الملف اللولبي ذاتي التنظيف,ar,Self-Cleaning Solenoid,,,whole_word,exact
+معدل التدفق,ar,Rate of Flow,,,whole_word,exact
+"""تعويض الضغط""",ar,Pressure Compensating,,,whole_word,exact
+مناطق أحواض الشجيرات على السطح,ar,On-surface shrub bed areas,,,whole_word,exact
+"""الموارد الطبيعية للمياه السطحية""",ar,Natural surface water resources,,,whole_word,exact
+رشاش  صغيردقيق,ar,Micro-Sprinkler,,,whole_word,exact
+وصلة T متعددة الفتحات,ar,Manifold Tee,,,whole_word,exact
+موصلات المياه المنخفضة,ar,Low-profile emitter,,,whole_word,exact
+خرطوم,ar,Hose,,,whole_word,exact
+"""تعيين مدرب في المصنع""",ar,Factory Trained designation,,,whole_word,exact
+أكواع رأس خط التنقيط,ar,Dripline Header elbows,,,whole_word,exact
+فاصل الرمل بالطرد المركزي,ar,Centrifugal Sand Separator,,,whole_word,exact
+عزل بين الجسم والغطاء,ar,Body-to-bonnet seal,,,whole_word,exact
+صمام يدوي فردي,ar,Manual single valve,,,whole_word,exact
+"""غلاف فوهة الزاوية المنخفضة""",ar,Low angle nozzle housing,,,whole_word,exact
+"""التحكم المتكامل""",ar,Integrated Control (IC),,,whole_word,exact
+أطقم منطقة التحكم التجارية ذات التدفق العالي,ar,High Flow Commercial Control Zone Kits,,,whole_word,exact
+نمط الدائرة الكاملة,ar,Full circle pattern,,,whole_word,exact
+تدفق,ar,Flush,,,whole_word,exact
+تغير الارتفاع,ar,elevation change,,,whole_word,exact
+لوحة تحكم,ar,Controller,,,whole_word,exact
+حاجز الضغط المتوازن المرن,ar,Balanced pressure diaphragm,,,whole_word,exact
+مهوى (تهوية),ar,aerated (aeration),,,whole_word,exact
+مضخة تعزيز,ar,Booster Pump,,,whole_word,exact
+"""سلك طاقة التيار المتردد""",ar,AC power cord,,,whole_word,exact
+مقبس طاقة التيار المتردد,ar,AC power outlet,,,whole_word,exact
+"""موصل""",ar,Coupler,,,whole_word,exact
+"""حظر الدوارات""",ar,Block Rotors,,,whole_word,exact
+مقطع الموصل,ar,Conductor cross section,,,whole_word,exact
+بابلر ( نافورة ري صغيرة),ar,bubbler,,,whole_word,exact
+Healthy Green Spaces Coalition,ar,Healthy Green Spaces Coalition,Asleif,2025.12.30,whole_word,exact
+ائتلاف,ar,Coalition,Asleif,2025.12.30,whole_word,exact
+المؤسسة الوطنية,ar,National Association,Asleif,2025.12.30,whole_word,exact
 Rain Bird,ar,Rain Bird,,,whole_word,exact
-صمام,ar,valve,,,inflected,grammatical
-صندوق الصمام,ar,valve box,,,phrase,exact
-ملف لولبي,ar,solenoid,,,inflected,grammatical
-الحاجز المطاط,ar,diaphragm,,,inflected,grammatical
-حاجز الضغط المتوازن المرن,ar,balanced pressure diaphragm,,,phrase,exact
-معدل التدفق,ar,flow rate,,,phrase,exact
-مدخل,ar,inlet,,,inflected,grammatical
-مرشّ,ar,sprinkler,,,inflected,grammatical
