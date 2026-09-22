@@ -23,9 +23,9 @@ describe("format detection", () => {
   });
 
   it("names downloads after the source file", () => {
-    expect(translatedFilename("xml", "golf.xml")).toBe("golf.ar.xml");
-    expect(translatedFilename("json")).toBe("translation.ar.json");
-    expect(translatedFilename("text")).toBe("translation.ar.txt");
+    expect(translatedFilename("xml", "pt-BR", "golf.xml")).toBe("golf.pt-BR.xml");
+    expect(translatedFilename("json", "ar")).toBe("translation.ar.json");
+    expect(translatedFilename("text", "fr")).toBe("translation.fr.txt");
   });
 });
 

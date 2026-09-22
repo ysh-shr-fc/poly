@@ -1,6 +1,6 @@
 # Terminology Translator
 
-A Vercel-ready English-to-Arabic translation app with deterministic glossary matching, protected terms, overlap resolution, HTML checks, and one automatic repair attempt.
+A Vercel-ready app that translates English into any language with a glossary, with deterministic glossary matching, protected terms, overlap resolution, HTML checks, and one automatic repair attempt.
 
 ## Run locally
 
@@ -25,9 +25,20 @@ The provider must expose an OpenAI-compatible `POST /chat/completions` endpoint.
 
 The Vercel route allows up to 300 seconds so an initial translation and one validation-repair call can complete. A timed-out response identifies which of those stages exceeded the per-call timeout.
 
-## Replace the sample glossary
+## Glossaries and target languages
 
-Replace `data/glossary.csv` with the full exported Copy.ai table. Keep the existing columns and append `Match Level` and `Enforcement`:
+Each target language has one glossary file in `data/`, named `<locale>.glossary.csv`, where `<locale>` is a BCP 47 code with or without a region:
+
+```
+data/ar.glossary.csv      → Arabic
+data/fr.glossary.csv      → French
+data/es-MX.glossary.csv   → Spanish (Mexico) · español (México)
+data/pt-BR.glossary.csv   → Portuguese (Brazil) · português (Brasil)
+```
+
+To add a language, add its file and redeploy; it appears in the UI's "Translate into" picker automatically. Display names come from the code (`Intl.DisplayNames`), and right-to-left layout is applied automatically for Arabic, Hebrew, Persian, Urdu, and other RTL scripts. Codes are normalized, so `pt-br.glossary.csv` is listed as `pt-BR`. A file with an invalid code, a parse error, or a mismatched language column is skipped (the reason is logged) and the other languages keep working.
+
+Each file uses the exported Copy.ai table columns plus `Match Level` and `Enforcement`. The `Target Language` column is optional: the filename decides the language. If a row does fill it in, it must match the file's code or its base language (`es` is fine in `es-MX.glossary.csv`); otherwise the file is rejected so copy-paste mistakes are caught.
 
 ```csv
 Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
@@ -57,7 +68,8 @@ No Vercel-specific build configuration is required for this Next.js project. Add
 
 ## Current scope
 
-- Paste or drop text, HTML, JSON, or XML (.txt, .json, .xml, .html, .htm, .md) and translate it to Arabic; download the result with the original extension.
+- Choose any target language with a glossary in `data/`.
+- Paste or drop text, HTML, JSON, or XML (.txt, .json, .xml, .html, .htm, .md) and translate it; download the result as `<name>.<locale>.<ext>`.
 - JSON is translated as one document and rejected if keys, array lengths, or non-string values change.
 - XML markup never reaches the model: text nodes and CDATA contents are translated as separate segments and spliced back into the original markup.
 - Text inside internal XML elements listed in `UNTRANSLATED_ELEMENTS` (`lib/xml.ts`, default `<name>`) stays in English; add element names to that set to keep more fields untranslated.

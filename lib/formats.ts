@@ -54,9 +54,9 @@ export function formatLabel(format: DocumentFormat): string {
   return "Text & HTML";
 }
 
-export function translatedFilename(format: DocumentFormat, sourceName?: string): string {
-  if (!sourceName) return `translation.ar.${format === "text" ? "txt" : format}`;
+export function translatedFilename(format: DocumentFormat, language: string, sourceName?: string): string {
+  if (!sourceName) return `translation.${language}.${format === "text" ? "txt" : format}`;
   const extension = extensionOf(sourceName);
   const base = extension ? sourceName.slice(0, -extension.length) : sourceName;
-  return `${base}.ar${extension || ".txt"}`;
+  return `${base}.${language}${extension || ".txt"}`;
 }

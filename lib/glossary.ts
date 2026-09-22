@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import Papa from "papaparse";
+import { canonicalLocale, describeLanguage, type TargetLanguage } from "./languages";
 import type { Enforcement, GlossaryRule, MatchLevel, RuleType } from "./types";
 
 type CsvRow = Record<string, string | undefined>;
@@ -19,7 +20,15 @@ function clean(value: string | undefined): string {
   return (value ?? "").trim().replace(/^"+|"+$/g, "").trim();
 }
 
-export function parseGlossary(csv: string): GlossaryRule[] {
+// A row's optional language column may name the file's locale or its base
+// language (e.g. "es" in es-MX.glossary.csv); anything else is a mistake.
+function sameLanguage(rowLanguage: string, fileLanguage: string): boolean {
+  const row = (canonicalLocale(rowLanguage) ?? rowLanguage).toLowerCase();
+  const file = fileLanguage.toLowerCase();
+  return row === file || row === file.split("-")[0];
+}
+
+export function parseGlossary(csv: string, language: string): GlossaryRule[] {
   const result = Papa.parse<CsvRow>(csv, {
     header: true,
     skipEmptyLines: "greedy",
@@ -36,8 +45,11 @@ export function parseGlossary(csv: string): GlossaryRule[] {
     // programmatic use outside the table export.
     const source = clean(row.term || row.source);
     const target = clean(row.rule || row.target);
-    const language = clean(row["target language"] || row.language || "ar").toLowerCase();
+    const rowLanguage = clean(row["target language"] || row.language);
     if (!source || !target) throw new Error(`Glossary row ${index + 2} is missing source or target.`);
+    if (rowLanguage && !sameLanguage(rowLanguage, language)) {
+      throw new Error(`Row ${index + 2} says target language "${rowLanguage}" but the file is for "${language}".`);
+    }
 
     const inferredType: RuleType = source === target ? "preserve" : "translate";
     const ruleType = inferredType;
@@ -63,11 +75,52 @@ export function parseGlossary(csv: string): GlossaryRule[] {
   return [...seen.values()];
 }
 
-let cached: GlossaryRule[] | null = null;
+const DATA_DIR = path.join(process.cwd(), "data");
+const FILE_PATTERN = /^(.+)\.glossary\.csv$/;
 
-export function loadGlossary(): GlossaryRule[] {
+type Glossary = { language: TargetLanguage; rules: GlossaryRule[] };
+const catalogs = new Map<string, Map<string, Glossary>>();
+
+// Every <locale>.glossary.csv in the directory, parsed once per server instance.
+// A bad file is logged and left out so the other languages keep working.
+function catalog(dir: string): Map<string, Glossary> {
+  const cached = catalogs.get(dir);
   if (cached) return cached;
-  const filename = path.join(process.cwd(), "data", "glossary.csv");
-  cached = parseGlossary(fs.readFileSync(filename, "utf8"));
-  return cached;
+
+  const glossaries = new Map<string, Glossary>();
+  const files = fs.existsSync(dir) ? fs.readdirSync(dir).sort() : [];
+  for (const file of files) {
+    const name = file.match(FILE_PATTERN)?.[1];
+    if (!name) continue;
+    const code = canonicalLocale(name);
+    if (!code) {
+      console.error(`Skipping ${file}: "${name}" is not a valid language code.`);
+      continue;
+    }
+    if (glossaries.has(code)) {
+      console.error(`Skipping ${file}: another glossary already covers ${code}.`);
+      continue;
+    }
+    try {
+      const rules = parseGlossary(fs.readFileSync(path.join(dir, file), "utf8"), code);
+      glossaries.set(code, { language: describeLanguage(code), rules });
+    } catch (error) {
+      console.error(`Skipping ${file}: ${error instanceof Error ? error.message : error}`);
+    }
+  }
+
+  catalogs.set(dir, glossaries);
+  return glossaries;
+}
+
+export function listGlossaries(dir = DATA_DIR): TargetLanguage[] {
+  return [...catalog(dir).values()]
+    .map((glossary) => glossary.language)
+    .sort((a, b) => a.englishName.localeCompare(b.englishName, "en"));
+}
+
+export function loadGlossary(code: string, dir = DATA_DIR): Glossary {
+  const glossary = catalog(dir).get(canonicalLocale(code) ?? code);
+  if (!glossary) throw new Error(`No glossary for "${code}".`);
+  return glossary;
 }

@@ -2,7 +2,8 @@ import type { DocumentFormat } from "./formats";
 import { loadGlossary } from "./glossary";
 import { callModel } from "./model";
 import { findMatches, protectPreservedTerms, restorePreservedTerms } from "./matcher";
-import { JSON_SYSTEM_PROMPT, TEXT_SYSTEM_PROMPT, terminologyInstructions } from "./prompts";
+import type { TargetLanguage } from "./languages";
+import { jsonSystemPrompt, terminologyInstructions, textSystemPrompt } from "./prompts";
 import { translateSegments } from "./segments";
 import type { TermMatch, ValidationResult } from "./types";
 import { jsonStructureErrors, validateTranslation } from "./validation";
@@ -15,9 +16,17 @@ function grammaticalWarnings(matches: TermMatch[]): string[] {
   return grammatical ? [`${grammatical} term match${grammatical === 1 ? "" : "es"} allow grammatical variation.`] : [];
 }
 
-function respond(format: DocumentFormat, translation: string, matches: TermMatch[], validation: ValidationResult, glossarySize: number) {
+function respond(
+  format: DocumentFormat,
+  language: TargetLanguage,
+  translation: string,
+  matches: TermMatch[],
+  validation: ValidationResult,
+  glossarySize: number,
+) {
   return {
     format,
+    language,
     translation,
     matches: matches.map((match) => ({
       source: match.rule.source,
@@ -33,12 +42,12 @@ function respond(format: DocumentFormat, translation: string, matches: TermMatch
 }
 
 // Plain text, HTML, and JSON are translated as one document.
-async function translateWhole(source: string, format: "text" | "json") {
-  const rules = loadGlossary();
-  const matches = findMatches(source, rules, "ar");
+async function translateWhole(source: string, format: "text" | "json", languageCode: string) {
+  const { language, rules } = loadGlossary(languageCode);
+  const matches = findMatches(source, rules);
   const protectedInput = protectPreservedTerms(source, matches);
   const terms = terminologyInstructions(matches);
-  const system = { role: "system" as const, content: format === "json" ? JSON_SYSTEM_PROMPT : TEXT_SYSTEM_PROMPT };
+  const system = { role: "system" as const, content: format === "json" ? jsonSystemPrompt(language) : textSystemPrompt(language) };
 
   const validate = (output: string) => {
     const result = validateTranslation(source, output, matches, protectedInput.placeholders);
@@ -71,24 +80,24 @@ async function translateWhole(source: string, format: "text" | "json") {
     throw new Error(`Translation failed validation: ${validation.errors.join(" ")}`);
   }
 
-  return respond(format, restorePreservedTerms(rawOutput, protectedInput.placeholders), matches, validation, rules.length);
+  return respond(format, language, restorePreservedTerms(rawOutput, protectedInput.placeholders), matches, validation, rules.length);
 }
 
 // XML markup never reaches the model: only text nodes and CDATA contents are
 // translated, then spliced back into the untouched markup.
-async function translateXml(source: string) {
-  const rules = loadGlossary();
+async function translateXml(source: string, languageCode: string) {
+  const { language, rules } = loadGlossary(languageCode);
   const pieces = tokenizeXml(source);
   const segments = extractSegments(pieces);
   if (!segments.length) throw new Error("No translatable text was found in this XML document.");
 
-  const { translations, matches } = await translateSegments(segments.map((segment) => segment.text), rules);
+  const { translations, matches } = await translateSegments(segments.map((segment) => segment.text), rules, language);
   const validation = { valid: true, errors: [], warnings: grammaticalWarnings(matches) };
-  return respond("xml", rebuildXml(pieces, segments, translations), matches, validation, rules.length);
+  return respond("xml", language, rebuildXml(pieces, segments, translations), matches, validation, rules.length);
 }
 
-export async function translateDocument(source: string, format: DocumentFormat) {
-  if (format === "xml") return translateXml(source);
+export async function translateDocument(source: string, format: DocumentFormat, languageCode: string) {
+  if (format === "xml") return translateXml(source, languageCode);
   if (format === "json") {
     try {
       JSON.parse(source);
@@ -96,5 +105,5 @@ export async function translateDocument(source: string, format: DocumentFormat) 
       throw new Error(`This file is not valid JSON: ${error instanceof Error ? error.message : "parse error"}`);
     }
   }
-  return translateWhole(source, format);
+  return translateWhole(source, format, languageCode);
 }

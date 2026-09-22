@@ -1,6 +1,7 @@
 import { callModel } from "./model";
 import { findMatches, protectPreservedTerms, restorePreservedTerms, type ProtectedInput } from "./matcher";
-import { SEGMENT_SYSTEM_PROMPT, terminologyInstructions } from "./prompts";
+import type { TargetLanguage } from "./languages";
+import { segmentSystemPrompt, terminologyInstructions } from "./prompts";
 import type { GlossaryRule, TermMatch } from "./types";
 import { validateTranslation } from "./validation";
 
@@ -20,7 +21,7 @@ type Item = { id: number; text: string };
 function prepare(segments: string[], rules: GlossaryRule[]): Prepared[] {
   let placeholderCount = 0;
   return segments.map((source, index) => {
-    const matches = findMatches(source, rules, "ar");
+    const matches = findMatches(source, rules);
     const protectedInput = protectPreservedTerms(source, matches, placeholderCount);
     placeholderCount += protectedInput.placeholders.length;
     return { id: index + 1, source, matches, protectedInput };
@@ -58,8 +59,8 @@ export function parseItems(raw: string): Map<number, string> {
   return items;
 }
 
-async function requestItems(content: string, stage: string): Promise<Map<number, string> | string> {
-  const raw = await callModel([{ role: "system", content: SEGMENT_SYSTEM_PROMPT }, { role: "user", content }], stage);
+async function requestItems(language: TargetLanguage, content: string, stage: string): Promise<Map<number, string> | string> {
+  const raw = await callModel([{ role: "system", content: segmentSystemPrompt(language) }, { role: "user", content }], stage);
   try {
     return parseItems(raw);
   } catch {
@@ -73,11 +74,11 @@ function check(item: Prepared, output: string | undefined, parseError?: string):
   return validateTranslation(item.source, output, item.matches, item.protectedInput.placeholders).errors;
 }
 
-async function translateBatch(items: Prepared[]): Promise<Map<number, string>> {
+async function translateBatch(items: Prepared[], language: TargetLanguage): Promise<Map<number, string>> {
   const terms = terminologyInstructions(items.flatMap((item) => item.matches));
   const payload = JSON.stringify(items.map((item) => ({ id: item.id, text: item.protectedInput.text })), null, 1);
 
-  const first = await requestItems(`Terminology for this submission:\n${terms}\n\nItems:\n${payload}`, "Initial translation");
+  const first = await requestItems(language, `Terminology for this submission:\n${terms}\n\nItems:\n${payload}`, "Initial translation");
   const outputs = typeof first === "string" ? new Map<number, string>() : first;
   const failed = items
     .map((item) => ({ item, errors: check(item, outputs.get(item.id), typeof first === "string" ? first : undefined) }))
@@ -95,7 +96,8 @@ async function translateBatch(items: Prepared[]): Promise<Map<number, string>> {
     1,
   );
   const repaired = await requestItems(
-    `Repair these candidate translations. For each item, fix the listed problems and return {"id", "text"} with the corrected Arabic.\n\nTerminology:\n${terms}\n\nItems:\n${repairPayload}`,
+    language,
+    `Repair these candidate translations. For each item, fix the listed problems and return {"id", "text"} with the corrected ${language.englishName}.\n\nTerminology:\n${terms}\n\nItems:\n${repairPayload}`,
     "Validation repair",
   );
 
@@ -112,9 +114,9 @@ async function translateBatch(items: Prepared[]): Promise<Map<number, string>> {
   return outputs;
 }
 
-export async function translateSegments(segments: string[], rules: GlossaryRule[]) {
+export async function translateSegments(segments: string[], rules: GlossaryRule[], language: TargetLanguage) {
   const prepared = prepare(segments, rules);
-  const results = await Promise.all(batch(prepared).map(translateBatch));
+  const results = await Promise.all(batch(prepared).map((items) => translateBatch(items, language)));
   const outputs = new Map(results.flatMap((result) => [...result]));
 
   const translations = prepared.map((item) =>

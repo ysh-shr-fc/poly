@@ -6,7 +6,7 @@ const rules = parseGlossary(`Rule,Target Language,Term,Revised by,Date,Match Lev
 صمام,ar,valve,Asleif,2025.12.30,inflected,grammatical
 صندوق الصمام,ar,valve box,Asleif,2025.12.30,phrase,exact
 Rain Bird,ar,Rain Bird,Asleif,2025.12.30,whole_word,exact
-Cycle + Soak™,ar,Cycle + Soak™,Asleif,2025.12.09,exact,exact`);
+Cycle + Soak™,ar,Cycle + Soak™,Asleif,2025.12.09,exact,exact`, "ar");
 
 describe("glossary matcher", () => {
   it("selects the longest overlapping term", () => {
@@ -36,7 +36,7 @@ describe("glossary matcher", () => {
   it("merges case variants of identity-preservation rules", () => {
     const caseVariants = parseGlossary(`Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
 CirrusPRO,ar,CirrusPRO,Asleif,2025.12.30,whole_word,exact
-CIRRUSPRO,ar,CIRRUSPRO,Asleif,2025.12.30,whole_word,exact`);
+CIRRUSPRO,ar,CIRRUSPRO,Asleif,2025.12.30,whole_word,exact`, "ar");
     expect(caseVariants).toHaveLength(1);
     const matches = findMatches("CirrusPRO and CIRRUSPRO", caseVariants);
     expect(matches.map((match) => match.matchedText)).toEqual(["CirrusPRO", "CIRRUSPRO"]);
@@ -45,7 +45,7 @@ CIRRUSPRO,ar,CIRRUSPRO,Asleif,2025.12.30,whole_word,exact`);
   it("uses the first CSV entry when duplicate terms conflict", () => {
     const conflicts = parseGlossary(`Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
 الترجمة الأولى,ar,Controller,Asleif,2025.12.30,whole_word,exact
-الترجمة الثانية,ar,CONTROLLER,Asleif,2025.12.31,exact,grammatical`);
+الترجمة الثانية,ar,CONTROLLER,Asleif,2025.12.31,exact,grammatical`, "ar");
     expect(conflicts).toHaveLength(1);
     expect(conflicts[0]).toMatchObject({
       source: "Controller",

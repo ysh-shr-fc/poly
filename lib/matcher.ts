@@ -27,11 +27,10 @@ function visibleRanges(input: string): Array<{ text: string; offset: number }> {
   return ranges;
 }
 
-export function findMatches(input: string, rules: GlossaryRule[], language = "ar"): TermMatch[] {
+export function findMatches(input: string, rules: GlossaryRule[]): TermMatch[] {
   const candidates: TermMatch[] = [];
   for (const range of visibleRanges(input)) {
     for (const rule of rules) {
-      if (rule.language !== language) continue;
       const pattern = sourcePattern(rule);
       for (const found of range.text.matchAll(new RegExp(pattern.source, pattern.flags))) {
         const localStart = found.index ?? 0;

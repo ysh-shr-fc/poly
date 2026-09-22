@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Terminology Translator",
-  description: "English to Arabic translation with controlled irrigation terminology.",
+  description: "Glossary-controlled translation of English irrigation content into multiple languages.",
   icons: { icon: "/favicon.svg" },
 };
 
