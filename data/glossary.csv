@@ -1,0 +1,12 @@
+Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
+من الخزان إلى الرشاش,ar,reservoir-to-rotor,Asleif,2025.12.30,phrase,exact
+Cycle + Soak™,ar,Cycle + Soak™,Asleif,2025.12.09,exact,exact
+Rain Bird,ar,Rain Bird,,,whole_word,exact
+صمام,ar,valve,,,inflected,grammatical
+صندوق الصمام,ar,valve box,,,phrase,exact
+ملف لولبي,ar,solenoid,,,inflected,grammatical
+الحاجز المطاط,ar,diaphragm,,,inflected,grammatical
+حاجز الضغط المتوازن المرن,ar,balanced pressure diaphragm,,,phrase,exact
+معدل التدفق,ar,flow rate,,,phrase,exact
+مدخل,ar,inlet,,,inflected,grammatical
+مرشّ,ar,sprinkler,,,inflected,grammatical
