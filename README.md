@@ -57,6 +57,72 @@ CSV order defines duplicate priority. Terms are compared case-insensitively, and
 
 The loader rejects conflicting duplicates. Matching happens only in visible text, never inside HTML tags. Longest overlapping phrases take precedence.
 
+## API
+
+The web form and other systems use the same endpoint.
+
+### Authentication
+
+Send a key as `Authorization: Bearer <key>`. Keys live in the `TRANSLATOR_API_KEYS` environment variable as comma-separated `name:key` pairs, one per caller, so a caller can be revoked by deleting its entry and redeploying:
+
+```bash
+openssl rand -hex 32          # generate a key (at least 32 characters)
+# TRANSLATOR_API_KEYS=cms-prod:<key>,crm:<key>
+```
+
+Requests from the app's own pages (the web form) are accepted without a key. Everything else needs a key. Never commit keys.
+
+**A key used from browser code can be copied by anyone who can see that code.** Give each browser-side caller its own key, keep the rate limits below in place, and rotate it if it leaks. For anything public-facing, call the API from a server instead.
+
+### Browsers (CORS)
+
+Set `TRANSLATOR_ALLOWED_ORIGINS` to a comma-separated list of exact origins (e.g. `https://app.example.com`). Listed origins can read responses, including errors, and preflight (`OPTIONS`) requests are answered without a key. CORS only controls which web pages can read responses; it does not authenticate anyone. If Vercel Authentication is enabled for the deployment, browsers get a login redirect on the preflight and the call fails, so disable it for production.
+
+### Endpoints
+
+`POST /api/translate` (JSON body):
+
+| Field | Required | Notes |
+| --- | --- | --- |
+| `text` | yes | Up to 50,000 characters. |
+| `language` | yes | A code from `GET /api/languages`, e.g. `ar`, `es-MX`. |
+| `format` | no | `text`, `json`, or `xml`. Detected from `filename` or the content when omitted. |
+| `filename` | no | Only used to detect the format. |
+
+```bash
+curl https://YOUR-APP/api/translate \
+  -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
+  -d '{"text": "Rain Bird valves last longer.", "language": "es-MX"}'
+```
+
+The response contains `translation`, `format`, `language`, `matches` (glossary terms applied), `validation`, and `glossarySize`. XML is translated in place with its markup untouched; JSON keeps its keys and structure.
+
+`GET /api/languages` lists the available target languages as `{ languages: [{ code, englishName, nativeName, dir }] }`.
+
+### Errors
+
+Every error is `{ "error": { "code": "...", "message": "..." } }`, and every response carries an `X-Request-Id` header (also in the logs).
+
+| Status | `code` | Meaning |
+| --- | --- | --- |
+| 400 | `invalid_request` | Not JSON, wrong content type, missing `text`, or an unknown `format`. |
+| 400 | `unsupported_language` | No glossary for `language`; the body lists `available` codes. |
+| 401 | `unauthorized` | Missing or wrong key. |
+| 413 | `too_large` | More than 50,000 characters. |
+| 422 | `invalid_document` | Malformed XML or JSON, or no translatable text. |
+| 422 | `validation_failed` | The translation failed the glossary or structure checks after one retry. |
+| 429 | `rate_limited` | Per-key limit reached; see `Retry-After`. |
+| 502 | `upstream_error` | The model provider failed or timed out. |
+| 500 | `internal_error` | Anything else. |
+
+Requests are synchronous and can take a minute or more for large documents; the function limit is 300 seconds.
+
+### Rate limits
+
+API keys are limited to 30 requests per minute and 500,000 characters per day each (`TRANSLATOR_RATE_PER_MINUTE`, `TRANSLATOR_DAILY_CHARS`). The counters live in Upstash Redis, added from the Vercel Marketplace, which provides `UPSTASH_REDIS_REST_URL` and `UPSTASH_REDIS_REST_TOKEN` (or the `KV_REST_API_*` equivalents). **Without those variables, or if the store is unreachable, limiting is skipped and a warning is logged.** The web form is not rate limited.
+
+The full contract is in [docs/openapi.yaml](docs/openapi.yaml).
+
 ## Deploy to Vercel
 
 1. Push this folder to a Git repository.

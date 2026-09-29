@@ -1,0 +1,106 @@
+openapi: 3.1.0
+info:
+  title: Terminology Translator API
+  version: 1.0.0
+  description: Glossary-controlled translation of English text, JSON, and XML.
+servers:
+  - url: https://YOUR-APP.vercel.app
+security:
+  - bearerKey: []
+paths:
+  /api/translate:
+    post:
+      summary: Translate a document
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [text, language]
+              properties:
+                text: { type: string, maxLength: 50000 }
+                language: { type: string, examples: [ar, es-MX] }
+                format: { type: string, enum: [text, json, xml] }
+                filename: { type: string, description: Used only to detect the format. }
+      responses:
+        "200":
+          description: Translated document
+          headers:
+            X-Request-Id: { schema: { type: string } }
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  format: { type: string, enum: [text, json, xml] }
+                  language: { $ref: "#/components/schemas/Language" }
+                  translation: { type: string }
+                  matches:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        source: { type: string }
+                        matchedText: { type: string }
+                        target: { type: string }
+                        ruleType: { type: string, enum: [translate, preserve] }
+                        matchLevel: { type: string }
+                        enforcement: { type: string }
+                  validation:
+                    type: object
+                    properties:
+                      valid: { type: boolean }
+                      errors: { type: array, items: { type: string } }
+                      warnings: { type: array, items: { type: string } }
+                  glossarySize: { type: integer }
+        "400": { $ref: "#/components/responses/Error" }
+        "401": { $ref: "#/components/responses/Error" }
+        "413": { $ref: "#/components/responses/Error" }
+        "422": { $ref: "#/components/responses/Error" }
+        "429": { $ref: "#/components/responses/Error" }
+        "502": { $ref: "#/components/responses/Error" }
+  /api/languages:
+    get:
+      summary: List target languages that have a glossary
+      responses:
+        "200":
+          description: Available languages
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  languages:
+                    type: array
+                    items: { $ref: "#/components/schemas/Language" }
+        "401": { $ref: "#/components/responses/Error" }
+components:
+  securitySchemes:
+    bearerKey:
+      type: http
+      scheme: bearer
+      description: A key from TRANSLATOR_API_KEYS.
+  schemas:
+    Language:
+      type: object
+      properties:
+        code: { type: string, examples: [pt-BR] }
+        englishName: { type: string }
+        nativeName: { type: string }
+        dir: { type: string, enum: [ltr, rtl] }
+  responses:
+    Error:
+      description: >-
+        Error. Codes: invalid_request, unsupported_language (includes `available`), unauthorized, too_large,
+        invalid_document, validation_failed, rate_limited (see Retry-After), upstream_error, internal_error.
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              error:
+                type: object
+                properties:
+                  code: { type: string }
+                  message: { type: string }

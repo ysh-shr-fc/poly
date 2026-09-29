@@ -146,7 +146,7 @@ export default function Translator({ languages }: { languages: TargetLanguage[] 
         body: JSON.stringify({ text: source, format, language: language.code }),
       });
       const body = await response.json();
-      if (!response.ok) throw new Error(body.error || "Translation failed.");
+      if (!response.ok) throw new Error((typeof body.error === "string" ? body.error : body.error?.message) || "Translation failed.");
       setResult(body);
     } catch (caught) {
       setError(caught instanceof Error ? caught.message : "Translation failed.");

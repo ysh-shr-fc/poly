@@ -23,7 +23,9 @@ export async function callModel(messages: ChatMessage[], stage = "translation"):
     if (error instanceof Error && (error.name === "TimeoutError" || error.name === "AbortError")) {
       throw new Error(`${stage} timed out after ${Math.round(timeoutMs / 1000)} seconds while waiting for ${model}.`);
     }
-    throw error;
+    const cause = error instanceof Error ? (error.cause as { code?: string; message?: string } | undefined) : undefined;
+    const detail = cause?.code || cause?.message || (error instanceof Error ? error.message : String(error));
+    throw new Error(`Translation provider is unreachable: ${detail}`);
   }
 
   if (!response.ok) {
