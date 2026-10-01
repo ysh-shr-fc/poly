@@ -1,0 +1,711 @@
+Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
+Cycle + Soak™,id,Cycle + Soak™,Asleif,12/09/2025,whole_word,exact
+Cycle + Soak™,id,Cycle & Soak,Asleif,12/09/2025,whole_word,exact
+Smart,id,Smart,Alison,12/29/2025,whole_word,exact
+Slip Fit™,id,Slip Fit™,Alison,12/29/2025,whole_word,exact
+ET Spreadsheet™,id,ET Spreadsheet™,Alison,12/29/2025,whole_word,exact
+The Intelligent Use of Water®,id,The Intelligent Use of Water®,Alison,12/29/2025,whole_word,exact
+Select Contractor®,id,Select Contractor®,Alison,12/29/2025,whole_word,exact
+Minimum ET™,id,Minimum ET™,Alison,12/29/2025,whole_word,exact
+T-Bird™,id,T-Bird™,Alison,12/29/2025,whole_word,exact
+Screen™,id,Screen™,Alison,12/29/2025,whole_word,exact
+Course Manager™,id,Course Manager™,Alison,12/29/2025,whole_word,exact
+Flograph™,id,Flograph™,Alison,12/29/2025,whole_word,exact
+UNI-Spray™,id,UNI-Spray™,Alison,12/29/2025,whole_word,exact
+Rain Watch™,id,Rain Watch™,Alison,12/29/2025,whole_word,exact
+Course Data Builder™,id,Course Data Builder™,Alison,12/29/2025,whole_word,exact
+Falcon®,id,Falcon®,Alison,12/29/2025,whole_word,exact
+GritX™,id,GritX™,Alison,12/29/2025,whole_word,exact
+Floguard™,id,Floguard™,Alison,12/29/2025,whole_word,exact
+MIM™,id,MIM™,Alison,12/29/2025,whole_word,exact
+MAXI™,id,MAXI™,Alison,12/29/2025,whole_word,exact
+EAGLE’s Tail™,id,EAGLE’s Tail™,Alison,12/29/2025,whole_word,exact
+IC CONNECT™,id,IC CONNECT™,Alison,12/29/2025,whole_word,exact
+System™,id,System™,Alison,12/29/2025,whole_word,exact
+Cirrus™,id,Cirrus™,Alison,12/29/2025,whole_word,exact
+Clam Shell™,id,Clam Shell™,Alison,12/29/2025,whole_word,exact
+Bird®,id,Bird®,Alison,12/29/2025,whole_word,exact
+MDI™,id,MDI™,Alison,12/29/2025,whole_word,exact
+Flo-Watch™,id,Flo-Watch™,Alison,12/29/2025,whole_word,exact
+MIMS™,id,MIMS™,Alison,12/29/2025,whole_word,exact
+Cycle & Soak™,id,Cycle & Soak™,Alison,12/29/2025,whole_word,exact
+Seal-A-Matic™,id,Seal-A-Matic™,Alison,12/29/2025,whole_word,exact
+Smart Sensors™,id,Smart Sensors™,Alison,12/29/2025,whole_word,exact
+Star Bird™,id,Star Bird™,Alison,12/29/2025,whole_word,exact
+urugan kembali,id,Backfill,,08/06/2026,whole_word,exact
+balanced-pressure diaphragm,id,Balanced pressure diaphragm,,08/06/2026,whole_word,exact
+kabel daya AC,id,AC power cord,,08/06/2026,whole_word,exact
+misting / pengabutan halus,id,Misting,,08/06/2026,whole_word,exact
+stopkontak AC,id,AC power outlet,,08/06/2026,whole_word,exact
+shutdown saat debit rendah/nol,id,Low- or zero-flow shutdown,,08/06/2026,whole_word,exact
+pengukuran debit mekanis,id,Mechanical flow rate measurement,,08/06/2026,whole_word,exact
+blank tubing,id,Blank Tubing,,08/06/2026,whole_word,exact
+di bawah elevasi tanah,id,Below grade,,08/06/2026,whole_word,exact
+knock-out jalur pipa,id,Pipe hole knock-outs,,08/06/2026,whole_word,exact
+packing seal pompa,id,Pump packing seal,,08/06/2026,whole_word,exact
+Alligator juniper,id,Alligator Juniper,,08/06/2026,whole_word,exact
+basin / bak,id,Basin,,08/06/2026,whole_word,exact
+union fitting,id,Union fittings,,08/06/2026,whole_word,exact
+sambungan kabel,id,Wire splice,,08/06/2026,whole_word,exact
+battery-operated controller,id,Battery-Operated Controller,,08/06/2026,whole_word,exact
+Air Relief Valve (ARV),id,Air Relief Valve (ARV),,08/06/2026,whole_word,exact
+alat/kendaraan berban karet,id,Rubber-tired machinery,,08/06/2026,whole_word,exact
+tekanan statis,id,static pressure,,08/06/2026,whole_word,exact
+basket filter,id,Basket Filter,,08/06/2026,whole_word,exact
+tubing tertekuk/kinking,id,Kinking,,08/06/2026,whole_word,exact
+manual valve,id,Manual valve,,08/06/2026,whole_word,exact
+"""turn-and-lock"" key",id,"""turn and lock"" key",,08/06/2026,whole_word,exact
+AC controller,id,AC controller,,08/06/2026,whole_word,exact
+spray body,id,spray body,,08/06/2026,whole_word,exact
+PII yang dianonimkan,id,Anonymized PII,,08/06/2026,whole_word,exact
+spray body,id,Spray Body,,08/06/2026,whole_word,exact
+Cache River,id,Cache River,,08/06/2026,whole_word,exact
+spray nozzle,id,Spray nozzle,,08/06/2026,whole_word,exact
+emitter dengan pasak,id,Spiked emitter,,08/06/2026,whole_word,exact
+bubbler,id,Bubbler,,08/06/2026,whole_word,exact
+captive spring,id,Captive spring,,08/06/2026,whole_word,exact
+Buckner Valve,id,Buckner Valve,,08/06/2026,whole_word,exact
+cartridge,id,Cartridge,,08/06/2026,whole_word,exact
+Boot Camp / pelatihan intensif,id,Boot Camp,,08/06/2026,whole_word,exact
+operasi manual satu valve,id,Manual single valve,,08/06/2026,whole_word,exact
+sistem irigasi overhead spray,id,Overhead spray irrigation system,,08/06/2026,whole_word,exact
+booster pump,id,Booster Pump,,08/06/2026,whole_word,exact
+debit tambahan maksimum,id,Maximum additional flow rate,,08/06/2026,whole_word,exact
+part-circle rotor,id,Part circle rotor,,08/06/2026,whole_word,exact
+Buna-N,id,Buna-N,,08/06/2026,whole_word,exact
+Central Controller Package,id,Central Controller Package,,08/06/2026,whole_word,exact
+waterpass,id,Bubble Level,,08/06/2026,whole_word,exact
+distance-control flap (DA),id,Distance control flap (DA),,08/06/2026,whole_word,exact
+engineering plastic,id,Engineered plastics,,08/06/2026,whole_word,exact
+block rotor,id,Block Rotors,,08/06/2026,whole_word,exact
+bracket,id,Brackets,,08/06/2026,whole_word,exact
+easy-clean filter,id,Easy Clean Filter,,08/06/2026,whole_word,exact
+debit aliran maju,id,Forward flow rate,,08/06/2026,whole_word,exact
+body-to-bonnet seal,id,Body-to-bonnet seal,,08/06/2026,whole_word,exact
+board,id,Board,,08/06/2026,whole_word,exact
+lonjakan,id,Surge,,08/06/2026,whole_word,exact
+kehilangan tekanan akibat gesekan,id,friction loss,,08/06/2026,whole_word,exact
+centrifugal sand separator,id,Centrifugal Sand Separator,,08/06/2026,whole_word,exact
+dripline,id,Dripline,,08/06/2026,whole_word,exact
+pengunci manual valve,id,Lock manual valve,,08/06/2026,whole_word,exact
+radius busur nozzle,id,Nozzles’ arc radii,,08/06/2026,whole_word,exact
+terminal common (COM),id,COM terminals,,08/06/2026,whole_word,exact
+tanpa flow control,id,Non-Flow Control,,08/06/2026,whole_word,exact
+circuit board / PCB,id,Circuit board,,08/06/2026,whole_word,exact
+fitting,id,Fitting,,08/06/2026,whole_word,exact
+flow monitor/transmitter,id,Flow Monitor/Transmitter,,08/06/2026,whole_word,exact
+glass-filled nylon,id,Glass Filled Nylon,,08/06/2026,whole_word,exact
+conduit,id,Conduit,,08/06/2026,whole_word,exact
+nilai ET,id,ET rates,,08/06/2026,whole_word,exact
+flushing / pembilasan,id,Flushing,,08/06/2026,whole_word,exact
+compression fitting,id,Compression Fittings,,08/06/2026,whole_word,exact
+pilot valve,id,Pilot valves,,08/06/2026,whole_word,exact
+pengupas kabel,id,Wire Stripper,,08/06/2026,whole_word,exact
+co-molded wiper seal,id,Co-molded wiper seal,,08/06/2026,whole_word,exact
+nozzle tree / set nozzle,id,Nozzle tree,,08/06/2026,whole_word,exact
+swing pipe,id,Swing Pipe,,08/06/2026,whole_word,exact
+coupling,id,Coupling,,08/06/2026,whole_word,exact
+filter screen,id,Filter screen,,08/06/2026,whole_word,exact
+luas penampang konduktor,id,Conductor cross section,,08/06/2026,whole_word,exact
+die-cast PJ arm,id,Die-cast PJ arm,,08/06/2026,whole_word,exact
+sistem irigasi mikro,id,Micro-Irrigation System,,08/06/2026,whole_word,exact
+coupler,id,Coupler,,08/06/2026,whole_word,exact
+emitter,id,Emitter,,08/06/2026,whole_word,exact
+Factory-Trained designation,id,Factory Trained designation,,08/06/2026,whole_word,exact
+circuit breaker / MCB,id,Circuit Breaker,,08/06/2026,whole_word,exact
+perangkat aplikasi air,id,Emission Device,,08/06/2026,whole_word,exact
+Control Zone Kit,id,Control Zone Kit,,08/06/2026,whole_word,exact
+elbow header dripline,id,Dripline Header elbows,,08/06/2026,whole_word,exact
+swing joint assembly,id,Swing joint assembly,,08/06/2026,whole_word,exact
+check valve,id,Check valve,,08/06/2026,whole_word,exact
+communication board,id,Communication board,,08/06/2026,whole_word,exact
+header dripline,id,Dripline Header,,08/06/2026,whole_word,exact
+air daur ulang / non-potable,id,Reclaimed water,,08/06/2026,whole_word,exact
+double O-ring,id,Double O Ring,,08/06/2026,whole_word,exact
+straight-bore nozzle,id,Straight Bore Nozzle,,08/06/2026,whole_word,exact
+debit station,id,Station Flow Rate,,08/06/2026,whole_word,exact
+edge guard,id,Edge Guard,,08/06/2026,whole_word,exact
+drum,id,Drum,,08/06/2026,whole_word,exact
+controller,id,Controller,,08/06/2026,whole_word,exact
+impeller,id,Impeller,,08/06/2026,whole_word,exact
+inlet,id,Inlet,,08/06/2026,whole_word,exact
+Matched Precipitation Rate (MPR) nozzle,id,Matched Precipitation Rate Nozzles,,08/06/2026,whole_word,exact
+micro-spray,id,Micro-spray,,08/06/2026,whole_word,exact
+pressure-regulating module,id,Pressure regulating module,,08/06/2026,whole_word,exact
+kontaminan,id,Contaminants,,08/06/2026,whole_word,exact
+pancaran air kontinu,id,Continuous water stream,,08/06/2026,whole_word,exact
+pendinginan tanaman,id,Crop cooling,,08/06/2026,whole_word,exact
+shutdown saat debit tinggi,id,High-flow shutdown,,08/06/2026,whole_word,exact
+pipa corrugated,id,Corrugated Pipe,,08/06/2026,whole_word,exact
+full-circle bubbler,id,Full-Circle Bubbler,,08/06/2026,whole_word,exact
+flange,id,Flange,,08/06/2026,whole_word,exact
+evapotranspirasi (ET),id,Evapotranspiration (ET),,08/06/2026,whole_word,exact
+sprinkler head,id,Head,,08/06/2026,whole_word,exact
+high-flow inline pressure regulator,id,High Flow Inline Pressure Regulators,,08/06/2026,whole_word,exact
+PFR-RS riser,id,PFR-RS Riser,,08/06/2026,whole_word,exact
+full circle / 360°,id,Full Circle,,08/06/2026,whole_word,exact
+pola kipas 360°,id,Full circle Fan,,08/06/2026,whole_word,exact
+dial pengatur tekanan,id,Pressure regulating dial,,08/06/2026,whole_word,exact
+saldo akun distributor,id,Distributor account balance,,08/06/2026,whole_word,exact
+flush / pembilasan,id,Flush,,08/06/2026,whole_word,exact
+pancaran 360°,id,Full circle stream,,08/06/2026,whole_word,exact
+full-circle nozzle,id,Full Circle Nozzles,,08/06/2026,whole_word,exact
+bagian depan nozzle,id,Nozzle front,,08/06/2026,whole_word,exact
+selubung kabel,id,Wire jacket,,08/06/2026,whole_word,exact
+header / pipa header,id,Header,,08/06/2026,whole_word,exact
+large-capacity screen filter,id,Large-Capacity Screen Filter,,08/06/2026,whole_word,exact
+zona ketahanan tanaman,id,Plant hardiness zones,,08/06/2026,whole_word,exact
+insert fitting,id,Insert fitting,,08/06/2026,whole_word,exact
+rotor head,id,Rotor heads,,08/06/2026,whole_word,exact
+spray head irigasi,id,Irrigation spray head,,08/06/2026,whole_word,exact
+motorized valve,id,Motorized valves,,08/06/2026,whole_word,exact
+onboard capacitor,id,Onboard Capacitor,,08/06/2026,whole_word,exact
+impeller flow sensor,id,Impeller Flow Sensors,,08/06/2026,whole_word,exact
+latching solenoid,id,Latching solenoid,,08/06/2026,whole_word,exact
+Max Coil Holding,id,Max Coil Holding,,08/06/2026,whole_word,exact
+plant factor / faktor tanaman,id,Plant factor,,08/06/2026,whole_word,exact
+long-range rotor,id,Long-Range Rotor,,08/06/2026,whole_word,exact
+lengthwise slitter,id,Lengthwise slitter,,08/06/2026,whole_word,exact
+LOC fitting,id,LOC fittings,,08/06/2026,whole_word,exact
+male adapter / adaptor ulir luar,id,Male Adapter,,08/06/2026,whole_word,exact
+kemampuan operasi debit rendah,id,Low flow operating capability,,08/06/2026,whole_word,exact
+low-flow emitter,id,Low flow emitters,,08/06/2026,whole_word,exact
+PCT Bubbler,id,PCT Bubbler,,08/06/2026,whole_word,exact
+swing joint fitting,id,Swing joint fitting,,08/06/2026,whole_word,exact
+low-angle nozzle housing,id,Low angle nozzle housing,,08/06/2026,whole_word,exact
+teraerasi / aerasi,id,aerated (aeration),,08/06/2026,whole_word,exact
+dripline,id,dripline,,08/06/2026,whole_word,exact
+sambungan ulir luar × ulir luar,id,Male x Male threaded connections,,08/06/2026,whole_word,exact
+status station,id,Station Health,,08/06/2026,whole_word,exact
+sistem sprinkler,id,Sprinkler system,,08/06/2026,whole_word,exact
+inlet ulir luar,id,Male threaded inlet,,08/06/2026,whole_word,exact
+plug berulir,id,Threaded plug,,08/06/2026,whole_word,exact
+kebutuhan air,id,Water requirements,,08/06/2026,whole_word,exact
+bunga jantan,id,Male flower,,08/06/2026,whole_word,exact
+low-angle nozzle,id,Low Angle Nozzle,,08/06/2026,whole_word,exact
+low-head drainage,id,Low head drainage,,08/06/2026,whole_word,exact
+kabel irigasi multi-konduktor,id,Multi-Conductor Irrigation Cable,,08/06/2026,whole_word,exact
+maksimum program dalam antrean,id,Max PGMs Stacked,,08/06/2026,whole_word,exact
+solenoid valve,id,Solenoid valves,,08/06/2026,whole_word,exact
+valve box,id,Valve box,,08/06/2026,whole_word,exact
+sistem manifold,id,Manifold System,,08/06/2026,whole_word,exact
+debit rendah,id,Low Flow,,08/06/2026,whole_word,exact
+"pressure-compensating point-source emitter, debit sedang",id,Pressure Compensating Point-Source Medium-Flow Emitters,,08/06/2026,whole_word,exact
+debit,id,Rate of Flow,,08/06/2026,whole_word,exact
+sistem irigasi manual,id,Manually operated irrigation systems,,08/06/2026,whole_word,exact
+stem kembali turun,id,Stem retraction,,08/06/2026,whole_word,exact
+trip / pemutusan proteksi,id,Trip,,08/06/2026,whole_word,exact
+multi-outlet device,id,Multi-Outlet Device,,08/06/2026,whole_word,exact
+mounting bracket,id,Mounting Bracket,,08/06/2026,whole_word,exact
+run time maksimum per station,id,Maximum station run time,,08/06/2026,whole_word,exact
+turf / rumput,id,Turf,,08/06/2026,whole_word,exact
+debit sedang,id,Medium Flow,,08/06/2026,whole_word,exact
+sumber air permukaan alami,id,Natural surface water resources,,08/06/2026,whole_word,exact
+pressure-compensating inline emitter,id,Pressure-compensating inline emitter,,08/06/2026,whole_word,exact
+ultrasonic flow sensor,id,Ultrasonic Flow Sensor,,08/06/2026,whole_word,exact
+Non-Irr-SimulStations,id,Non-Irr-Simulstations,,08/06/2026,whole_word,exact
+spray head,id,Spray Heads,,08/06/2026,whole_word,exact
+mekanisme pegas,id,Spring action,,08/06/2026,whole_word,exact
+kapasitas multi-valve,id,Multi-valve capacity,,08/06/2026,whole_word,exact
+operasi part-circle,id,Part circle operation,,08/06/2026,whole_word,exact
+sod cup,id,Sod Cup,,08/06/2026,whole_word,exact
+National Pipe Thread (NPT),id,National Pipe Thread,,08/06/2026,whole_word,exact
+NEMA enclosure,id,NEMA enclosure,,08/06/2026,whole_word,exact
+controller dengan K-factor dan offset,id,Offset controllers,,08/06/2026,whole_word,exact
+bed semak dengan dripline di permukaan,id,On-surface shrub bed areas,,08/06/2026,whole_word,exact
+Point Source Emitter Calculation Tool,id,Point Source Emitter Calculation Tool,,08/06/2026,whole_word,exact
+wire nut / konektor kabel,id,Wire nuts,,08/06/2026,whole_word,exact
+riser berulir NPT,id,NPT threaded risers,,08/06/2026,whole_word,exact
+ping decoder,id,Pinging decoders,,08/06/2026,whole_word,exact
+slip union,id,Slip unions,,08/06/2026,whole_word,exact
+irigasi overhead,id,Overhead irrigation,,08/06/2026,whole_word,exact
+laju aplikasi air,id,application rate,,08/06/2026,whole_word,exact
+PC Diffuser,id,PC-Diffuser,,08/06/2026,whole_word,exact
+area basah/lembap,id,Wet/damp locations,,08/06/2026,whole_word,exact
+zona irigasi,id,zone,,08/06/2026,whole_word,exact
+pilot flow,id,Pilot flow,,08/06/2026,whole_word,exact
+adaptor ulir,id,Thread adapters,,08/06/2026,whole_word,exact
+penyiraman,id,watering,,08/06/2026,whole_word,exact
+plunger,id,Plunger,,08/06/2026,whole_word,exact
+pulse decoder,id,Pulse decoder,,08/06/2026,whole_word,exact
+jaringan pipa,id,Pipe network,,08/06/2026,whole_word,exact
+tinggi pop-up sampai tengah nozzle,id,Pop-Up Height to Mid-Nozzle,,08/06/2026,whole_word,exact
+mesh stainless steel,id,SS Mesh,,08/06/2026,whole_word,exact
+Cycle Time station,id,Station Cycle Time,,08/06/2026,whole_word,exact
+pop-up spray head,id,Pop-Up Spray Heads,,08/06/2026,whole_word,exact
+pressure compensating / kompensasi tekanan,id,Pressure Compensating,,08/06/2026,whole_word,exact
+surge protection device,id,Surge Device,,08/06/2026,whole_word,exact
+PRS in-stem pressure regulator,id,PRS in-stem pressure regulator,,08/06/2026,whole_word,exact
+pipa header PVC,id,PVC headers,,08/06/2026,whole_word,exact
+pump station,id,Pump station,,08/06/2026,whole_word,exact
+pressure-activated wiper seal,id,Pressure-activated wiper seal,,08/06/2026,whole_word,exact
+rain-sensor shutoff,id,Rain Sensor shutoff,,08/06/2026,whole_word,exact
+pulse sensor,id,Pulse sensors,,08/06/2026,whole_word,exact
+pancaran berputar,id,Rotating streams,,08/06/2026,whole_word,exact
+pulse-input flow monitor,id,Pulse input type flow monitor,,08/06/2026,whole_word,exact
+rear nozzle plug,id,Rear nozzle plug,,08/06/2026,whole_word,exact
+triple-blade wiper seal,id,Triple-Blade Wiper Seal,,08/06/2026,whole_word,exact
+mekanisme ratchet,id,Ratchet mechanism,,08/06/2026,whole_word,exact
+Quick Pair Broadcast Mode,id,Quick Pair Broadcast Mode,,08/06/2026,whole_word,exact
+quick-coupling valve,id,Quick-coupling valve,,08/06/2026,whole_word,exact
+Residential Control Zone Kit,id,Residential Control Zone Kit,,08/06/2026,whole_word,exact
+quick elbow coupling,id,Quick elbow coupling,,08/06/2026,whole_word,exact
+self-flushing,id,Self-flushing action,,08/06/2026,whole_word,exact
+sprinkler head,id,Sprinkler head,,08/06/2026,whole_word,exact
+flush valve,id,flush valve,,08/06/2026,whole_word,exact
+selector service key,id,Selector Service Tool/Key,,08/06/2026,whole_word,exact
+scrubber,id,Scrubber,,08/06/2026,whole_word,exact
+Variable Arc Nozzle untuk spray head,id,Spray Head Variable Arc Nozzles,,08/06/2026,whole_word,exact
+jarak tanam rapat,id,dense planting,,08/06/2026,whole_word,exact
+square-pattern nozzle,id,Square Pattern Nozzle,,08/06/2026,whole_word,exact
+filtrasi,id,filtration,,08/06/2026,whole_word,exact
+Soak Time station,id,Station Soak Time,,08/06/2026,whole_word,exact
+surge protection,id,Surge Protection,,08/06/2026,whole_word,exact
+debit variabel,id,Variable flow rates,,08/06/2026,whole_word,exact
+lonjakan tekanan,id,Surge pressure,,08/06/2026,whole_word,exact
+aliran lurus,id,Straight-through flow,,08/06/2026,whole_word,exact
+kapasitas beban station,id,Station Load Capacity,,08/06/2026,whole_word,exact
+pasak pengikat tubing,id,Tie-Down Stake,,08/06/2026,whole_word,exact
+threaded union,id,Threaded unions,,08/06/2026,whole_word,exact
+supply header / pipa header suplai,id,supply header,,08/06/2026,whole_word,exact
+nozzle,id,nozzle,,08/06/2026,whole_word,exact
+turf track,id,Turf track,,08/06/2026,whole_word,exact
+Two-Wire Driver Board,id,Two-Wire Driver Board,,08/06/2026,whole_word,exact
+vane / sirip,id,Vane,,08/06/2026,whole_word,exact
+debit valve,id,Valve Flow,,08/06/2026,whole_word,exact
+valve seat,id,Valve Seat,,08/06/2026,whole_word,exact
+status kabel,id,Wire Health,,08/06/2026,whole_word,exact
+jalur two-wire,id,Two-wire path,,08/06/2026,whole_word,exact
+program,id,program,,08/06/2026,whole_word,exact
+irigasi tetes,id,Drip,,08/06/2026,whole_word,exact
+berkelas beban,id,Load rated,,08/06/2026,whole_word,exact
+barb bawaan,id,Pre-installed barbs,,08/06/2026,whole_word,exact
+surge grounding plate,id,Surge Grounding Plate,,08/06/2026,whole_word,exact
+jarak tanam renggang,id,sparse planting,,08/06/2026,whole_word,exact
+Branch™,id,Branch™,Alison,12/29/2025,whole_word,exact
+Flow-Shield™,id,Flow-Shield™,Alison,12/29/2025,whole_word,exact
+Course View™,id,Course View™,Alison,12/29/2025,whole_word,exact
+Rain Check™,id,Rain Check™,Alison,12/29/2025,whole_word,exact
+ASA plastic enclosure,id,ASA plastic enclosure,,08/06/2026,whole_word,exact
+kabel kontrol irigasi,id,Irrigation wire,,08/06/2026,whole_word,exact
+lock-type fitting,id,Lock Type Fittings,,08/06/2026,whole_word,exact
+master valve / pump start relay,id,Master valve/pump start relay,,08/06/2026,whole_word,exact
+zona perakaran,id,Plant root zone,,08/06/2026,whole_word,exact
+irigasi tetes point-source,id,Point source drip irrigation,,08/06/2026,whole_word,exact
+macet/seret,id,Binding,,08/06/2026,whole_word,exact
+jet breaker,id,Jet-Breaker,,08/06/2026,whole_word,exact
+Precision Jet (PJ) spoon/deflector,id,Precision Jet (PJ) spoon,,08/06/2026,whole_word,exact
+screen anyaman stainless steel,id,SS woven wire mesh screen,,08/06/2026,whole_word,exact
+square atrium grate,id,Square Atrium Grate,,08/06/2026,whole_word,exact
+WatchDog* Weather Station,id,WatchDog* weather station,,08/06/2026,whole_word,exact
+solenoid valve,id,Valve solenoids,,08/06/2026,whole_word,exact
+backflush,id,Backflush,,08/06/2026,whole_word,exact
+driver board,id,Driver Board,,08/06/2026,whole_word,exact
+Line Surge Protector (LSP),id,LSP (line surge protectors),,08/06/2026,whole_word,exact
+mulsa,id,Mulch,,08/06/2026,whole_word,exact
+modular controller,id,Modular controller,,08/06/2026,whole_word,exact
+O-ring seal,id,O-Ring seal,,08/06/2026,whole_word,exact
+rotary nozzle,id,Rotary nozzle,,08/06/2026,whole_word,exact
+kelas beban,id,Load rating,,08/06/2026,whole_word,exact
+nozzle turret,id,Nozzle turret,,08/06/2026,whole_word,exact
+multi-stream nozzle,id,Nozzles with multiple streams,,08/06/2026,whole_word,exact
+Ping Station,id,Ping Station,,08/06/2026,whole_word,exact
+pipe thread sealant,id,Pipe dope,,08/06/2026,whole_word,exact
+tubing emitter bawah tanah,id,Underground emitter tubing,,08/06/2026,whole_word,exact
+knock-out,id,Knock-outs,,08/06/2026,whole_word,exact
+Smart Connection Module,id,Smart Connection Module,,08/06/2026,whole_word,exact
+water jet sprinkler,id,Water Jet Sprinklers,,08/06/2026,whole_word,exact
+AirFibr pitch,id,AirFibr pitch,,08/06/2026,whole_word,exact
+Manual MV Water Window,id,Manual MV Water Window,,08/06/2026,whole_word,exact
+debit maksimum,id,Maximum Flow,,08/06/2026,whole_word,exact
+kapasitas multi-station,id,Multiple Station Capacity,,08/06/2026,whole_word,exact
+jalur kabel output,id,Output Wire Path,,08/06/2026,whole_word,exact
+part-circle golf rotor,id,Part Circle Golf Rotors,,08/06/2026,whole_word,exact
+rotor,id,rotor,,08/06/2026,whole_word,exact
+penguncian,id,Locking,,08/06/2026,whole_word,exact
+PC emitter diffuser cap,id,PC Emitter Diffuser Cap,,08/06/2026,whole_word,exact
+selubung PE,id,PE jacket,,08/06/2026,whole_word,exact
+round catch basin,id,Round Catch Basin,,08/06/2026,whole_word,exact
+turfgrass / rumput turf,id,Turfgrass,,08/06/2026,whole_word,exact
+barrel / body,id,Barrel,,08/06/2026,whole_word,exact
+barb,id,Barb,,08/06/2026,whole_word,exact
+impact sprinkler,id,Impact Sprinklers,,08/06/2026,whole_word,exact
+kabel master valve (MV),id,MV Wire,,08/06/2026,whole_word,exact
+opposing nozzle,id,Opposing Nozzle,,08/06/2026,whole_word,exact
+pressure regulator,id,Pressure regulator,,08/06/2026,whole_word,exact
+Quick Pair Technology,id,Quick pair technology,,08/06/2026,whole_word,exact
+belokan pipa,id,Pipe bends,,08/06/2026,whole_word,exact
+full-circle low-flow sprinkler,id,Full circle low-flow sprinkler,,08/06/2026,whole_word,exact
+kehilangan akibat evaporasi,id,Evaporative loss,,08/06/2026,whole_word,exact
+faceplate / panel depan,id,Faceplate,,08/06/2026,whole_word,exact
+fogging / pengabutan sangat halus,id,Fogging,,08/06/2026,whole_word,exact
+heavy-duty check valve,id,Heavy-Duty Check Valve,,08/06/2026,whole_word,exact
+grounding plate,id,Grounding Plate,,08/06/2026,whole_word,exact
+hydraulic suction,id,Hydraulic Suction,,08/06/2026,whole_word,exact
+Integrated Control (IC),id,Integrated Control (IC),,08/06/2026,whole_word,exact
+area semak dan groundcover,id,Shrub and groundcover areas,,08/06/2026,whole_word,exact
+hari penyiraman,id,water days,,08/06/2026,whole_word,exact
+Seasonal Adjust / penyesuaian musiman,id,seasonal adjust,,08/06/2026,whole_word,exact
+Zero Learned Flow,id,Zero Learned Flow,,08/06/2026,whole_word,exact
+nozzle hemat air,id,Water-saving nozzle,,08/06/2026,whole_word,exact
+callbacks,id,Call Backs,,08/06/2026,whole_word,exact
+insert,id,Insert,,08/06/2026,whole_word,exact
+impact rotor,id,Impact Rotors,,08/06/2026,whole_word,exact
+debit nominal,id,Nominal Flow,,08/06/2026,whole_word,exact
+port nozzle utama,id,Primary nozzle port,,08/06/2026,whole_word,exact
+forecast jadwal irigasi,id,Irrigation schedule forecasting,,08/06/2026,whole_word,exact
+insert flow sensor,id,Insert Flow Sensor,,08/06/2026,whole_word,exact
+low-precipitation-rate nozzle,id,Low Precipitation Rate Nozzles,,08/06/2026,whole_word,exact
+shielded flow-sensor cable,id,Shielded flow sensing cable,,08/06/2026,whole_word,exact
+impact sprinkler,id,Impact sprinkler,,08/06/2026,whole_word,exact
+MWELO,id,MWELO,,08/06/2026,whole_word,exact
+tubing,id,Tubing,,08/06/2026,whole_word,exact
+posisi dial IQ Settings,id,IQ Settings dial position,,08/06/2026,whole_word,exact
+NCC communication cartridge,id,NCC communications cartridges,,08/06/2026,whole_word,exact
+PGA cutaway,id,PGA Cutaway,,08/06/2026,whole_word,exact
+valve bonnet,id,Bonnet,,08/06/2026,whole_word,exact
+kabel isolasi ganda PVC-PE,id,Double PVC-PE insulation cable,,08/06/2026,whole_word,exact
+kaki penyangga,id,Leg,,08/06/2026,whole_word,exact
+mapped controller,id,Mapped Controllers,,08/06/2026,whole_word,exact
+debit nozzle,id,Nozzle flow,,08/06/2026,whole_word,exact
+part-circle / reverse full-circle,id,Part/reverse full circle,,08/06/2026,whole_word,exact
+selubung isolasi PE,id,PE insulation jacket,,08/06/2026,whole_word,exact
+bolt-hole knock-out,id,Bolt Hole Knock-out,,08/06/2026,whole_word,exact
+male valve connector,id,Male Valve Connectors,,08/06/2026,whole_word,exact
+kulit batang mengelupas,id,Peeling bark,,08/06/2026,whole_word,exact
+quarter-circle nozzle (90°),id,Quarter nozzle,,08/06/2026,whole_word,exact
+scrubbing action,id,Scrubbing action,,08/06/2026,whole_word,exact
+fitting conduit kabel,id,Wire conduit fitting,,08/06/2026,whole_word,exact
+sprinkler,id,sprinkler,,08/06/2026,whole_word,exact
+locking grate,id,Locking grate,,08/06/2026,whole_word,exact
+debit maksimum yang diizinkan,id,Max Allowable Flow Rate,,08/06/2026,whole_word,exact
+teknologi multi-stream,id,Multi-stream technology,,08/06/2026,whole_word,exact
+dudukan nozzle,id,Nozzle base,,08/06/2026,whole_word,exact
+spray body,id,Spray sprinkler body,,08/06/2026,whole_word,exact
+smart controller,id,Smart Controller,,08/06/2026,whole_word,exact
+water meter / meter air,id,Water Meter,,08/06/2026,whole_word,exact
+Drainage Pop-Up Valve (DPUV),id,Drainage Pop-Up Valve (DPUV),,08/06/2026,whole_word,exact
+siklus backflush manual,id,Manual backflush cycle,,08/06/2026,whole_word,exact
+emitter anti-sumbat,id,Non-clogging emitters,,08/06/2026,whole_word,exact
+tahan vandalisme/manipulasi,id,Vandal/Tamper Resistant,,08/06/2026,whole_word,exact
+controller,id,controller,,08/06/2026,whole_word,exact
+center collar,id,Center collar,,08/06/2026,whole_word,exact
+filter kapasitas besar,id,Large-Capacity Filter,,08/06/2026,whole_word,exact
+nozzle,id,Nozzle,,08/06/2026,whole_word,exact
+sudut keluaran nozzle,id,Nozzle outlet trajectory,,08/06/2026,whole_word,exact
+part-circle,id,Part circle,,08/06/2026,whole_word,exact
+tingkat akses pengguna,id,Tiered user access,,08/06/2026,whole_word,exact
+ulir,id,Thread,,08/06/2026,whole_word,exact
+rotary nozzle,id,rotary nozzle,,08/06/2026,whole_word,exact
+casing controller plastik,id,Plastic controller case,,08/06/2026,whole_word,exact
+kunci pipa,id,Pipe Wrench,,08/06/2026,whole_word,exact
+layout switchback / jalur bolak-balik,id,Switchbacks,,08/06/2026,whole_word,exact
+kabel suplai,id,Supply wire,,08/06/2026,whole_word,exact
+operasi station manual,id,manual station,,08/06/2026,whole_word,exact
+kehilangan tekanan,id,pressure loss,,08/06/2026,whole_word,exact
+grate / kisi drainase,id,Grate,,08/06/2026,whole_word,exact
+manual flush valve,id,Manual flush valve,,08/06/2026,whole_word,exact
+Master Valve Water Window,id,Master Valve Water Window,,08/06/2026,whole_word,exact
+unit multi-zona,id,Multi-zone units,,08/06/2026,whole_word,exact
+pressure-compensating emitter,id,Pressure-compensating emitter,,08/06/2026,whole_word,exact
+jarak antarbaris dripline,id,Row spacing,,08/06/2026,whole_word,exact
+HDPE,id,HDPE (High-density polyethylene),,08/06/2026,whole_word,exact
+full-circle nozzle,id,Full Nozzles,,08/06/2026,whole_word,exact
+internal bleed,id,Internal bleed,,08/06/2026,whole_word,exact
+Intelligent Valve Module (IVM),id,Intelligent Valve Modules (IVM),,08/06/2026,whole_word,exact
+PC diffuser cap,id,PC Diffuser Cap,,08/06/2026,whole_word,exact
+Two-Driver Board,id,Two-Driver Board,,08/06/2026,whole_word,exact
+ruang terminal kabel,id,Wire bay,,08/06/2026,whole_word,exact
+ukuran kabel (AWG),id,Wire gauge,,08/06/2026,whole_word,exact
+communication multiplexer,id,Communication Multiplexer,,08/06/2026,whole_word,exact
+NCC cartridge,id,NCC cartridge,,08/06/2026,whole_word,exact
+self-piercing inlet barb,id,Self-piercing inlet barbs,,08/06/2026,whole_word,exact
+aliran balik akibat sifon,id,back siphoning,,08/06/2026,whole_word,exact
+aksi kapiler,id,capillary action,,08/06/2026,whole_word,exact
+debit,id,flow rate,,08/06/2026,whole_word,exact
+intrusi akar,id,root intrusion,,08/06/2026,whole_word,exact
+sump / bak penampung,id,Sump,,08/06/2026,whole_word,exact
+Environmental Stress Cracking (ESCR),id,Environmental Stress Cracking (ESCR),,08/06/2026,whole_word,exact
+Flat Emitter Technology,id,FLAT EMITTER TECHNOLOGY,,08/06/2026,whole_word,exact
+output cutoff debit tinggi,id,High flow cutoff outputs,,08/06/2026,whole_word,exact
+hydraulic-suction scanning screen filter,id,Hydraulic Suction Scanning Screen Filter,,08/06/2026,whole_word,exact
+Internet-Connected Water Meter (ICWM),id,Internet Connected Water Meters (ICWM),,08/06/2026,whole_word,exact
+outlet ulir luar,id,Male threaded outlet,,08/06/2026,whole_word,exact
+permukaan pemasangan,id,Mounting surface,,08/06/2026,whole_word,exact
+area pembibitan,id,Nurseries,,08/06/2026,whole_word,exact
+reinforced turret,id,Reinforced turret,,08/06/2026,whole_word,exact
+pohon hackberry,id,Hackberry Tree,,08/06/2026,whole_word,exact
+Low Flow DV Valve,id,Low Flow DV Valve,,08/06/2026,whole_word,exact
+soil-moisture sensor,id,Moisture Sensor,,08/06/2026,whole_word,exact
+enclosure NEMA tahan cuaca,id,Weatherproof NEMA enclosure,,08/06/2026,whole_word,exact
+ET Override,id,ET Override,,08/06/2026,whole_word,exact
+pola 360°,id,Full circle pattern,,08/06/2026,whole_word,exact
+selang,id,Hose,,08/06/2026,whole_word,exact
+laju presipitasi (mm/jam),id,precipitation rate,,08/06/2026,whole_word,exact
+distribution tubing,id,Distribution Tubing,,08/06/2026,whole_word,exact
+jumlah maksimum gabungan station ICM dan satellite,id,Maximum Combined ICM and Satellite Stations,,08/06/2026,whole_word,exact
+Flow Shutoff (+),id,Plus (+) Flow shutoff,,08/06/2026,whole_word,exact
+sprinkler,id,Sprinkler,,08/06/2026,whole_word,exact
+run time sprinkler,id,Sprinkler run times,,08/06/2026,whole_word,exact
+irigasi spray,id,Spray Irrigation,,08/06/2026,whole_word,exact
+inlet berulir,id,Threaded Inlet,,08/06/2026,whole_word,exact
+manifold tee,id,Manifold Tee,,08/06/2026,whole_word,exact
+mister nozzle,id,Misters,,08/06/2026,whole_word,exact
+seri/pola nozzle,id,Nozzle Series/Pattern,,08/06/2026,whole_word,exact
+alignment pola nozzle,id,Nozzle pattern alignment,,08/06/2026,whole_word,exact
+station,id,Station,,08/06/2026,whole_word,exact
+low-profile emitter,id,Low-profile emitter,,08/06/2026,whole_word,exact
+manifold,id,Manifold,,08/06/2026,whole_word,exact
+master valve / pump,id,Master Valve /Pump,,08/06/2026,whole_word,exact
+micro-sprinkler,id,Micro-Sprinkler,,08/06/2026,whole_word,exact
+di atas / bawah permukaan,id,On/Sub Surface,,08/06/2026,whole_word,exact
+diaphragm / diafragma,id,Diaphragm,,08/06/2026,whole_word,exact
+square atrium drain,id,Square Atrium,,08/06/2026,whole_word,exact
+kabel kontrol valve,id,valve wires,,08/06/2026,whole_word,exact
+Cluster Control Unit (CCU),id,Cluster Control Unit (CCU),,08/06/2026,whole_word,exact
+figure-8 end closure,id,Figure 8 end closures,,08/06/2026,whole_word,exact
+misting 360°,id,Full circle mist,,08/06/2026,whole_word,exact
+ET-based intelligence,id,Evapotranspiration (ET) intelligence,,08/06/2026,whole_word,exact
+inline emitter,id,Inline emitter,,08/06/2026,whole_word,exact
+stainless-steel mesh screen,id,SS Mesh Screen,,08/06/2026,whole_word,exact
+large-capacity disc filter,id,Large-Capacity Disc Filter,,08/06/2026,whole_word,exact
+emitter berulir,id,Threaded emitter,,08/06/2026,whole_word,exact
+limpasan air,id,Water run-off,,08/06/2026,whole_word,exact
+Golf Black Solenoid,id,Golf Black Solenoid,,08/06/2026,whole_word,exact
+High-Impact Polystyrene (HIPS),id,High-Impact Polystyrene (HIPS),,08/06/2026,whole_word,exact
+Pressure Vacuum Breaker (PVB),id,Pressure vacuum breaker (PVB),,08/06/2026,whole_word,exact
+cap berulir,id,Threaded cap,,08/06/2026,whole_word,exact
+tipping-bucket rain gauge sensor,id,Tipping Rain Gauge Sensor,,08/06/2026,whole_word,exact
+pola 360°,id,Full pattern,,08/06/2026,whole_word,exact
+faktor jenis tanaman,id,Plant species factor,,08/06/2026,whole_word,exact
+pressure-regulating valve,id,Pressure-regulating valve,,08/06/2026,whole_word,exact
+jalur kabel,id,Wire path,,08/06/2026,whole_word,exact
+pori-pori,id,pores,,08/06/2026,whole_word,exact
+hose-end sprinkler,id,Hose end sprinklers,,08/06/2026,whole_word,exact
+housing rotor,id,Rotor case,,08/06/2026,whole_word,exact
+self-cleaning solenoid,id,Self-Cleaning Solenoid,,08/06/2026,whole_word,exact
+High-Flow Commercial Control Zone Kit,id,High Flow Commercial Control Zone Kits,,08/06/2026,whole_word,exact
+ketahanan terhadap tekukan,id,Kink resistance,,08/06/2026,whole_word,exact
+nozzle housing,id,Nozzle housing,,08/06/2026,whole_word,exact
+tempat arbitrase,id,Place of arbitration,,08/06/2026,whole_word,exact
+rentang radius,id,Radius Range,,08/06/2026,whole_word,exact
+Quick-Check Basket Filter,id,Quick-Check Basket Filter,,08/06/2026,whole_word,exact
+snap-fit connector,id,Snap fit connectors,,08/06/2026,whole_word,exact
+laju aplikasi station,id,Station rate,,08/06/2026,whole_word,exact
+kemampuan menahan beda elevasi,id,hold back,,08/06/2026,whole_word,exact
+pembongkaran turf/rumput,id,turf removal,,08/06/2026,whole_word,exact
+stainless steel sinter multilapis,id,Multi-layer sintered SS,,08/06/2026,whole_word,exact
+sudut pancaran nozzle,id,Nozzle trajectory,,08/06/2026,whole_word,exact
+rain gauge / penakar hujan,id,Raingauge,,08/06/2026,whole_word,exact
+spiral-barb elbow,id,Spiral Barb Elbow,,08/06/2026,whole_word,exact
+station,id,station,,08/06/2026,whole_word,exact
+latching relay,id,Latching Relay,,08/06/2026,whole_word,exact
+seal kedap air,id,Water-tight seal,,08/06/2026,whole_word,exact
+luas permukaan filtrasi maksimum,id,Maximum filtering surface,,08/06/2026,whole_word,exact
+shrub adapter,id,Shrub Adapters,,08/06/2026,whole_word,exact
+screw terminal block,id,Screw terminal blocks,,08/06/2026,whole_word,exact
+rotating barb,id,Rotating barb,,08/06/2026,whole_word,exact
+solenoid,id,Solenoid,,08/06/2026,whole_word,exact
+multiple weather stations,id,Multiple Weather Station,,08/06/2026,whole_word,exact
+model multi-station,id,Multi-station models,,08/06/2026,whole_word,exact
+pengaturan busur part-circle,id,Part-circle adjustment,,08/06/2026,whole_word,exact
+kondisi lonjakan,id,Surge conditions,,08/06/2026,whole_word,exact
+area vertical garden,id,Vertical green spaces,,08/06/2026,whole_word,exact
+mounting hardware,id,Mounting hardware,,08/06/2026,whole_word,exact
+pressure-compensating heavy-wall dripline,id,Pressure compensating heavywall dripline,,08/06/2026,whole_word,exact
+RBY filter dengan pressure regulator,id,Pressure regulating RBY filter,,08/06/2026,whole_word,exact
+panjang lateral maksimum,id,Maximum Lateral Length,,08/06/2026,whole_word,exact
+rentang debit kerja,id,Operating Flow Range,,08/06/2026,whole_word,exact
+pressure-compensating full-circle bubbler,id,Pressure Compensating Full-Circle Bubblers,,08/06/2026,whole_word,exact
+potted latching solenoid,id,Potted latching solenoid,,08/06/2026,whole_word,exact
+pulse transmitter,id,Pulse Transmitter,,08/06/2026,whole_word,exact
+retrofit,id,Retrofitting,,08/06/2026,whole_word,exact
+irigasi manual,id,Manual irrigation,,08/06/2026,whole_word,exact
+impact sprinkler plastik,id,Plastic Impact Sprinkler,,08/06/2026,whole_word,exact
+busur utama rotor,id,Primary rotor arc,,08/06/2026,whole_word,exact
+pulse monitor,id,Pulse Monitor,,08/06/2026,whole_word,exact
+shielded cable,id,Shielded wire,,08/06/2026,whole_word,exact
+inlet rotor,id,Rotor inlet,,08/06/2026,whole_word,exact
+station controller,id,Station controller,,08/06/2026,whole_word,exact
+"pressure-compensating emitter, debit rendah",id,Pressure Compensating Low-Flow Emitters,,08/06/2026,whole_word,exact
+radial bearing,id,Radial Bearing,,08/06/2026,whole_word,exact
+retract spring,id,Retract spring,,08/06/2026,whole_word,exact
+jarak pancaran,id,Throw,,08/06/2026,whole_word,exact
+valve-in-head sprinkler,id,Valve-in-head sprinklers,,08/06/2026,whole_word,exact
+kapasitas station modular,id,Modular station capacity,,08/06/2026,whole_word,exact
+model berulir,id,Threaded models,,08/06/2026,whole_word,exact
+inlet bawah ulir dalam NPT,id,NPT female bottom threaded inlet,,08/06/2026,whole_word,exact
+Out-of-Valve-Box Programming,id,Out-of-Valve Box Programming,,08/06/2026,whole_word,exact
+tekanan dinamis,id,dynamic pressure,,08/06/2026,whole_word,exact
+perbedaan elevasi,id,elevation change,,08/06/2026,whole_word,exact
+vacuum air relief valve,id,Vacuum air relief valve,,08/06/2026,whole_word,exact
+Wide Flow,id,Wide Flow,,08/06/2026,whole_word,exact
+sensor hujan,id,rain sensor,,08/06/2026,whole_word,exact
+microcontroller lock-up,id,Micro-controller lock-up,,08/06/2026,whole_word,exact
+irigasi point-source,id,Point source irrigation,,08/06/2026,whole_word,exact
+radius,id,Radius,,08/06/2026,whole_word,exact
+status valve,id,Valve health,,08/06/2026,whole_word,exact
+filter,id,filter,,08/06/2026,whole_word,exact
+Station Stacking / antrean station,id,Station Stacking,,08/06/2026,whole_word,exact
+zona tanaman,id,Planting zone,,08/06/2026,whole_word,exact
+pressure-compensating threaded bubbler,id,Pressure-Compensating Threaded Bubblers,,08/06/2026,whole_word,exact
+irigasi terprogram,id,Programmed irrigation,,08/06/2026,whole_word,exact
+twist-lock fitting,id,Twist Lock Fittings,,08/06/2026,whole_word,exact
+weather sensor / sensor cuaca,id,Weather Sensor,,08/06/2026,whole_word,exact
+pipa irigasi,id,Watering pipes,,08/06/2026,whole_word,exact
+pressure-compensating low-volume spray nozzle,id,Pressure-compensated low-volume spray nozzle,,08/06/2026,whole_word,exact
+master valve,id,master valve,,08/06/2026,whole_word,exact
+bawah permukaan tanah,id,sub-surface,,08/06/2026,whole_word,exact
+station delay / jeda antar-station,id,station delay,,08/06/2026,whole_word,exact
+controller pengkabelan konvensional,id,Traditionally-wired controller,,08/06/2026,whole_word,exact
+TRACKS,id,TRACKS,,08/06/2026,whole_word,exact
+pengelolaan sumber daya air,id,Water resource management,,08/06/2026,whole_word,exact
+flush header / pipa header pembilas,id,flush header,,08/06/2026,whole_word,exact
+potable-water flow-control handle,id,Potable flow control handle,,08/06/2026,whole_word,exact
+pasak,id,Stake,,08/06/2026,whole_word,exact
+station delay / jeda antar-station,id,Station Delay,,08/06/2026,whole_word,exact
+tipping-bucket rain gauge,id,Tipping bucket rain can,,08/06/2026,whole_word,exact
+Variable Arc Nozzle,id,Variable Arc Nozzle,,08/06/2026,whole_word,exact
+wall-mount enclosure,id,Wall Mount Enclosure,,08/06/2026,whole_word,exact
+Two-Wire Satellite Interface Board,id,Two-Wire Satellite Interface Board,,08/06/2026,whole_word,exact
+tahan UV,id,UV stabilized,,08/06/2026,whole_word,exact
+valve box,id,valve box,,08/06/2026,whole_word,exact
+Precision Jet tube,id,Precision Jet tube,,08/06/2026,whole_word,exact
+terminal block,id,Terminal Strip,,08/06/2026,whole_word,exact
+bawah permukaan tanah,id,Subsurface,,08/06/2026,whole_word,exact
+two-wire sensor decoder,id,Two-Wire Decoder Sensor Decoder,,08/06/2026,whole_word,exact
+locking ring valve box,id,Valve box locking ring,,08/06/2026,whole_word,exact
+fasilitas pengolahan air,id,Water treatment facility,,08/06/2026,whole_word,exact
+run time / durasi penyiraman,id,run time,,08/06/2026,whole_word,exact
+pop-up rotor,id,Pop-up rotor,,08/06/2026,whole_word,exact
+pump start relay / valve,id,Pump start relay valve,,08/06/2026,whole_word,exact
+strip nozzle,id,Strip Nozzles,,08/06/2026,whole_word,exact
+bubbler,id,bubbler,,08/06/2026,whole_word,exact
+kontraktor,id,contractor,,08/06/2026,whole_word,exact
+Control Zone Kit,id,control zone kit,,08/06/2026,whole_word,exact
+End Feed (suplai dari ujung),id,end feed,,08/06/2026,whole_word,exact
+emitter,id,emitter,,08/06/2026,whole_word,exact
+check valve pada emitter,id,emitter check valve,,08/06/2026,whole_word,exact
+emitter berulir,id,Thread emitter,,08/06/2026,whole_word,exact
+pengelola irigasi,id,Water managers,,08/06/2026,whole_word,exact
+valve-in-head rotor,id,Valve-in-head rotors,,08/06/2026,whole_word,exact
+Center Feed (suplai dari tengah),id,center feed,,08/06/2026,whole_word,exact
+check valve,id,check valve,,08/06/2026,whole_word,exact
+pipa tiga lapis,id,Triple Wall Pipe,,08/06/2026,whole_word,exact
+smart irrigation control,id,Smart Control,,08/06/2026,whole_word,exact
+zona spray,id,Spray zone,,08/06/2026,whole_word,exact
+tee flow sensor,id,Tee Sensor,,08/06/2026,whole_word,exact
+check valve di bawah sprinkler head,id,Under-the-head check valves,,08/06/2026,whole_word,exact
+Quick-Change Nozzle,id,Quick-Change Nozzle,,08/06/2026,whole_word,exact
+locking grate tahan vandalisme,id,Vandal resistant locking grate,,08/06/2026,whole_word,exact
+kompensasi tekanan,id,pressure compensation,,08/06/2026,whole_word,exact
+rotor,id,Rotor,,08/06/2026,whole_word,exact
+rotor macet pada posisi naik,id,Stuck-up rotors,,08/06/2026,whole_word,exact
+sistem two-wire,id,Two-Wire,,08/06/2026,whole_word,exact
+Vale Iron Ore Facility,id,Valé Iron Ore Facility,,08/06/2026,whole_word,exact
+zona penyiraman,id,Watering zone,,08/06/2026,whole_word,exact
+tee fitting,id,Tee Fitting,,08/06/2026,whole_word,exact
+Super Jumbo body,id,Super Jumbo Body,,08/06/2026,whole_word,exact
+weather station,id,Weather Station,,08/06/2026,whole_word,exact
+riser,id,riser,,08/06/2026,whole_word,exact
+valve,id,valve,,08/06/2026,whole_word,exact
+Smart Weather™,id,Smart Weather™,Alison,12/29/2025,whole_word,exact
+Cost Estimator™,id,Cost Estimator™,Alison,12/29/2025,whole_word,exact
+Pump Monitor™,id,Pump Monitor™,Alison,12/29/2025,whole_word,exact
+RD1800™,id,RD1800™,Alison,12/29/2025,whole_word,exact
+Rain Net™,id,Rain Net™,Alison,12/29/2025,whole_word,exact
+QuickStart™,id,QuickStart™,Alison,12/29/2025,whole_word,exact
+Black Bird®,id,Black Bird®,Alison,12/29/2025,whole_word,exact
+Flow Optimizer™,id,Flow Optimizer™,Alison,12/29/2025,whole_word,exact
+Maxi-Paw™,id,Maxi-Paw™,Alison,12/29/2025,whole_word,exact
+MAXICOM®,id,MAXICOM®,Alison,12/29/2025,whole_word,exact
+Rain Bird Factory Trained™,id,Rain Bird Factory Trained™,Alison,12/29/2025,whole_word,exact
+Software Features,id,Software Features,Alison,12/29/2025,whole_word,exact
+The Intelligent Use of Water™,id,The Intelligent Use of Water™,Alison,12/29/2025,whole_word,exact
+Tough Bird®,id,Tough Bird®,Alison,12/29/2025,whole_word,exact
+Map Import™,id,Map Import™,Alison,12/29/2025,whole_word,exact
+Memory Arc®,id,Memory Arc®,Alison,12/29/2025,whole_word,exact
+Product Features,id,Product Features,Alison,12/29/2025,whole_word,exact
+RAINBIRD®,id,RAINBIRD®,Alison,12/29/2025,whole_word,exact
+Soil Manager™,id,Soil Manager™,Alison,12/29/2025,whole_word,exact
+Flowatch™,id,Flowatch™,Alison,12/29/2025,whole_word,exact
+Xerigation®,id,Xerigation®,Alison,12/29/2025,whole_word,exact
+Preferred Drip Installer™,id,Preferred Drip Installer™,Alison,12/29/2025,whole_word,exact
+QuickIRR™ /Quick IRR™,id,QuickIRR™ /Quick IRR™,Alison,12/29/2025,whole_word,exact
+Micro Bird Spinner®,id,Micro Bird Spinner®,Alison,12/29/2025,whole_word,exact
+Program Builder™,id,Program Builder™,Alison,12/29/2025,whole_word,exact
+Micro Bird®,id,Micro Bird®,Alison,12/29/2025,whole_word,exact
+Designer Notes™,id,Designer Notes™,Alison,12/29/2025,whole_word,exact
+Front Office™,id,Front Office™,Alison,12/29/2025,whole_word,exact
+Shrub Bug™,id,Shrub Bug™,Alison,12/29/2025,whole_word,exact
+Mini-Paw®,id,Mini-Paw®,Alison,12/29/2025,whole_word,exact
+Easy Rain®,id,Easy Rain®,Alison,12/29/2025,whole_word,exact
+Rain Bird Messenger™,id,Rain Bird Messenger™,Alison,12/29/2025,whole_word,exact
+Map Office™,id,Map Office™,Alison,12/29/2025,whole_word,exact
+Monitor Log™,id,Monitor Log™,Alison,12/29/2025,whole_word,exact
+Smartweather™,id,Smartweather™,Alison,12/29/2025,whole_word,exact
+Flo-Manager®,id,Flo-Manager®,Alison,12/29/2025,whole_word,exact
+Sure Pop®,id,Sure Pop®,Alison,12/29/2025,whole_word,exact
+Rain Bird®,id,Rain Bird®,Alison,12/29/2025,whole_word,exact
+Rain Can®,id,Rain Can®,Alison,12/29/2025,whole_word,exact
+Water Bird® *,id,Water Bird® *,Alison,12/29/2025,whole_word,exact
+Pump™/SmartPump™,id,Pump™/SmartPump™,Alison,12/29/2025,whole_word,exact
+Mini Bird®,id,Mini Bird®,Alison,12/29/2025,whole_word,exact
+Timeless Compatibility™,id,Timeless Compatibility™,Alison,12/29/2025,whole_word,exact
+Pump Profiling™,id,Pump Profiling™,Alison,12/29/2025,whole_word,exact
+Flo-Guard™,id,Flo-Guard™,Alison,12/29/2025,whole_word,exact
+1800®,id,1800®,Alison,12/29/2025,whole_word,exact
+Map Utilities™,id,Map Utilities™,Alison,12/29/2025,whole_word,exact
+SimpleIRR™ /Simple IRR™,id,SimpleIRR™ /Simple IRR™,Alison,12/29/2025,whole_word,exact
+CirrusPRO™,id,CirrusPRO™,Alison,12/29/2025,whole_word,exact
+ClimateMinder®,id,ClimateMinder®,Alison,12/29/2025,whole_word,exact
+Rain Clock™,id,Rain Clock™,Alison,12/29/2025,whole_word,exact
+Rain Bird Academy™,id,Rain Bird Academy™,Alison,12/29/2025,whole_word,exact
+Xeri-Bird™,id,Xeri-Bird™,Alison,12/29/2025,whole_word,exact
+LP™,id,LP™,Alison,12/29/2025,whole_word,exact
+Hole View™,id,Hole View™,Alison,12/29/2025,whole_word,exact
+TG-25™,id,TG-25™,Alison,12/29/2025,whole_word,exact
+PJ™,id,PJ™,Alison,12/29/2025,whole_word,exact
+ET Checkbook™,id,ET Checkbook™,Alison,12/29/2025,whole_word,exact
+Top Serviceable Rock,id,Top Serviceable Rock,Alison,12/29/2025,whole_word,exact
+Course Monitor™,id,Course Monitor™,Alison,12/29/2025,whole_word,exact
+Xeri-Bubblers™,id,Xeri-Bubblers™,Alison,12/29/2025,whole_word,exact
+StratusLT™,id,StratusLT™,Alison,12/29/2025,whole_word,exact
+Quick Flush™,id,Quick Flush™,Alison,12/29/2025,whole_word,exact
+TBOS-II™,id,TBOS-II™,Alison,12/29/2025,whole_word,exact
+LFX™,id,LFX™,Alison,12/29/2025,whole_word,exact
+EAGLE™,id,EAGLE™,Alison,12/29/2025,whole_word,exact
+Rain Curtain™,id,Rain Curtain™,Alison,12/29/2025,whole_word,exact
+Flo-Graph™,id,Flo-Graph™,Alison,12/29/2025,whole_word,exact
+Copper Shield™,id,Copper Shield™,Alison,12/29/2025,whole_word,exact
+SDC-1™,id,SDC-1™,Alison,12/29/2025,whole_word,exact
+EAGLE’s Nest™,id,EAGLE’s Nest™,Alison,12/29/2025,whole_word,exact
+Course Designer™,id,Course Designer™,Alison,12/29/2025,whole_word,exact
+Rain Bucket™,id,Rain Bucket™,Alison,12/29/2025,whole_word,exact
+Talon™,id,Talon™,Alison,12/29/2025,whole_word,exact
+MIM-LINK™,id,MIM-LINK™,Alison,12/29/2025,whole_word,exact
+MI Series™,id,MI Series™,Alison,12/29/2025,whole_word,exact
+IC System™,id,IC System™,Alison,12/29/2025,whole_word,exact
+Dryrun™,id,Dryrun™,Alison,12/29/2025,whole_word,exact
+ExactEdge™,id,ExactEdge™,Alison,12/29/2025,whole_word,exact
+Nimbus™,id,Nimbus™,Alison,12/29/2025,whole_word,exact
+CCS™,id,CCS™,Alison,12/29/2025,whole_word,exact
+Xeri-Bug™,id,Xeri-Bug™,Alison,12/29/2025,whole_word,exact
+Sensor Decorder™,id,Sensor Decorder™,Alison,12/29/2025,whole_word,exact
+Maxi-Bird™,id,Maxi-Bird™,Alison,12/29/2025,whole_word,exact
+CIRRUSPRO™,id,CIRRUSPRO™,Alison,12/29/2025,whole_word,exact
+The FREEDOM System™,id,The FREEDOM System™,Alison,12/29/2025,whole_word,exact
+LNK™,id,LNK™,Alison,12/29/2025,whole_word,exact
+LINK™,id,LINK™,Alison,12/29/2025,whole_word,exact
+Xeri-Spray™,id,Xeri-Spray™,Alison,12/29/2025,whole_word,exact
+Pop-Top™,id,Pop-Top™,Alison,12/29/2025,whole_word,exact
+IQ™,id,IQ™,Alison,12/29/2025,whole_word,exact
+Micro-Quick™,id,Micro-Quick™,Alison,12/29/2025,whole_word,exact
+Stratus™,id,Stratus™,Alison,12/29/2025,whole_word,exact
+LF™,id,LF™,Alison,12/29/2025,whole_word,exact
+Integrated Sensor,id,Integrated Sensor,Alison,12/29/2025,whole_word,exact
+ICS™,id,ICS™,Alison,12/29/2025,whole_word,exact
+Lpn™,id,Lpn™,Alison,12/29/2025,whole_word,exact
+FREEDOM-Pad™,id,FREEDOM-Pad™,Alison,12/29/2025,whole_word,exact
+CYCLIK™,id,CYCLIK™,Alison,12/29/2025,whole_word,exact
+Rain Bird,id,Rain Bird,,,whole_word,exact
