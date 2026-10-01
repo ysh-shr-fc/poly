@@ -159,130 +159,151 @@ export default function Translator({ languages }: { languages: TargetLanguage[] 
     if (result) await navigator.clipboard.writeText(result.translation);
   }
 
+  const outputName = translatedFilename(format, language.code, fileName || undefined);
+
   return (
-    <main>
+    <>
       <header className="topbar">
-        <div>
-          <h1>English to {language.englishName}: Eval. Yash rebuild</h1>
-          <p>{languages.length} target language{languages.length === 1 ? "" : "s"} · glossary controlled</p>
+        <div className="brand">
+          <img src="/favicon.png" alt="" width={26} height={26} />
+          <span className="name">CopyGlot</span>
+          <span className="sep">/</span>
+          <span className="page">Translate</span>
         </div>
         <span className="status"><i /> Ready</span>
       </header>
 
-      <section className="workspace" aria-label="Translation workspace">
-        <article
-          className={`editor sourceEditor ${dragging ? "dragging" : ""}`}
-          onDragEnter={onDragEnter}
-          onDragOver={(event) => event.preventDefault()}
-          onDragLeave={onDragLeave}
-          onDrop={onDrop}
-        >
-          <div className="panelHead">
-            <div><span className="eyebrow">Source</span><h2>English</h2></div>
-            <div className="headActions">
-              <button className="textButton" onClick={() => fileInput.current?.click()}>Open file</button>
-              <button className="textButton" onClick={() => { setSource(EXAMPLE); setFileName(""); setResult(null); }}>Use example</button>
-            </div>
-            <input
-              ref={fileInput}
-              type="file"
-              accept={ACCEPTED_EXTENSIONS.join(",")}
-              hidden
-              onChange={(event) => { void loadFile(event.target.files?.[0]); event.target.value = ""; }}
-            />
-          </div>
-          {fileName && (
-            <div className="fileChip">
-              <span>{fileName}</span>
-              <button className="textButton" onClick={clearFile} aria-label={`Remove ${fileName}`}>Remove</button>
-            </div>
-          )}
-          <textarea
-            className={format !== "text" ? "code" : ""}
-            value={source}
-            onChange={(event) => setSource(event.target.value)}
-            placeholder="Paste text, HTML, JSON or XML here, or drop a .txt, .json, .xml or .html file…"
-            aria-label="English source text"
-            spellCheck={format === "text"}
-          />
-          <div className="dropOverlay" aria-hidden="true">Drop to load file</div>
-          <div className="panelFoot"><span>{characters} / 50,000 characters</span><span>{formatLabel(format)}</span></div>
-        </article>
-
-        <article className="editor resultEditor">
-          <div className="panelHead">
-            <div>
-              <label className="eyebrow" htmlFor="targetLanguage">Translate into</label>
-              <select
-                id="targetLanguage"
-                className="languagePicker"
-                value={language.code}
-                onChange={(event) => chooseLanguage(event.target.value)}
-                disabled={loading}
-              >
-                {languages.map((candidate) => (
-                  <option key={candidate.code} value={candidate.code}>
-                    {candidate.englishName === candidate.nativeName
-                      ? candidate.englishName
-                      : `${candidate.englishName} · ${candidate.nativeName}`}
-                  </option>
-                ))}
-              </select>
-            </div>
-            <div className="headActions">
-              <button className="textButton" disabled={!result} onClick={copyResult}>Copy result</button>
-              <button className="textButton" disabled={!result} onClick={downloadResult}>Download</button>
-            </div>
-          </div>
-          <div
-            className={`output ${!result ? "empty" : ""} ${result && result.format !== "text" ? "code" : ""}`}
-            dir={result && result.format !== "text" ? "ltr" : (result?.language ?? language).dir}
-            lang={result?.language.code ?? language.code}
-          >
-            {loading ? <div className="loading"><span /><span /><span /></div> : result?.translation || "The translation will appear here"}
-          </div>
-          <div className="panelFoot">
-            <span>{result ? `${result.matches.length} glossary matches` : "Glossary checked automatically"}</span>
-            <span>{result?.validation.valid ? "Validated" : ""}</span>
-          </div>
-        </article>
-      </section>
-
-      <div className="actionRow">
-        <button className="primary" onClick={translate} disabled={!source.trim() || loading}>
-          {loading ? "Translating…" : `Translate to ${language.englishName}`}<span aria-hidden="true">→</span>
-        </button>
-      </div>
-
-      {error && (
-        <section className="errorPanel" role="alert" aria-live="assertive">
-          <div className="errorHead">
-            <strong>Error details</strong>
-            <button className="textButton" onClick={() => navigator.clipboard.writeText(error)}>Copy error</button>
-          </div>
-          <pre>{error}</pre>
-        </section>
-      )}
-
-      <section className="terminology" aria-live="polite">
-        <div className="sectionHead">
-          <div><span className="eyebrow">Applied terminology</span><h2>{result ? `${result.matches.length} matches in this submission` : "Terms will appear after translation"}</h2></div>
-          {result && <span className="count">{result.glossarySize} rules loaded</span>}
+      <main>
+        <div className="pagehead">
+          <h1>English to {language.englishName}</h1>
+          <p>{languages.length} target language{languages.length === 1 ? "" : "s"} · glossary controlled</p>
         </div>
-        {result?.matches.length ? (
-          <div className="termGrid">
-            {result.matches.map((match, index) => (
-              <div className="term" key={`${match.source}-${index}`}>
-                <div><strong>{match.matchedText}</strong><span>{match.ruleType === "preserve" ? "Preserved" : match.matchLevel}</span></div>
-                <b aria-hidden="true">→</b>
-                <div className="target" dir={result.language.dir} lang={result.language.code}><strong>{match.target}</strong><span>{match.enforcement}</span></div>
+
+        <section className="workspace" aria-label="Translation workspace">
+          <article
+            className={`card sourceCard ${dragging ? "dragging" : ""}`}
+            onDragEnter={onDragEnter}
+            onDragOver={(event) => event.preventDefault()}
+            onDragLeave={onDragLeave}
+            onDrop={onDrop}
+          >
+            <div className="cardhead">
+              <span className="label">Source</span>
+              <div className="field"><div className="icon">T</div><div className="value">English</div></div>
+              <div className="actions">
+                <button className="ghost" type="button" onClick={() => fileInput.current?.click()}>Open file</button>
+                <button className="ghost" type="button" onClick={() => { setSource(EXAMPLE); setFileName(""); setResult(null); }}>Use example</button>
               </div>
-            ))}
+              <input
+                ref={fileInput}
+                type="file"
+                accept={ACCEPTED_EXTENSIONS.join(",")}
+                hidden
+                onChange={(event) => { void loadFile(event.target.files?.[0]); event.target.value = ""; }}
+              />
+            </div>
+            {fileName && (
+              <div className="strip">
+                <span>{fileName}</span>
+                <button className="stripAction" type="button" onClick={clearFile} aria-label={`Remove ${fileName}`}>Remove</button>
+              </div>
+            )}
+            <textarea
+              className={format !== "text" ? "code" : ""}
+              value={source}
+              onChange={(event) => setSource(event.target.value)}
+              placeholder="Paste text, HTML, JSON or XML here, or drop a .txt, .json, .xml or .html file…"
+              aria-label="English source text"
+              spellCheck={format === "text"}
+            />
+            <div className="dropOverlay" aria-hidden="true">Drop to load file</div>
+            <div className="foot"><span>{characters} / 50,000 characters</span><span className="pill">{formatLabel(format)}</span></div>
+          </article>
+
+          <article className="card">
+            <div className="cardhead">
+              <span className="label">Target</span>
+              <div className="field"><div className="icon">T</div><div className="value">{language.englishName}</div></div>
+              <div className="actions">
+                <button className="ghost" type="button" disabled={!result} onClick={copyResult}>Copy result</button>
+                <button className="ghost" type="button" disabled={!result} onClick={downloadResult}>Download</button>
+              </div>
+            </div>
+            {fileName && (
+              <div className="strip">
+                <span>{outputName}</span>
+                <span className="stripNote">Output file</span>
+              </div>
+            )}
+            <div
+              className={`output ${!result ? "empty" : ""} ${result && result.format !== "text" ? "code" : ""}`}
+              dir={result && result.format !== "text" ? "ltr" : (result?.language ?? language).dir}
+              lang={result?.language.code ?? language.code}
+            >
+              {loading ? <div className="loading"><span /><span /><span /></div> : result?.translation || "The translation will appear here"}
+            </div>
+            <div className="foot">
+              <span>{result ? `${result.matches.length} glossary matches` : "Glossary checked automatically"}</span>
+              <span className="ok">{result?.validation.valid ? "Validated" : ""}</span>
+            </div>
+          </article>
+        </section>
+
+        <div className="actionrow">
+          <label className="label" htmlFor="targetLanguage">Translate into</label>
+          <div className="field">
+            <div className="icon">T</div>
+            <select
+              id="targetLanguage"
+              value={language.code}
+              onChange={(event) => chooseLanguage(event.target.value)}
+              disabled={loading}
+            >
+              {languages.map((candidate) => (
+                <option key={candidate.code} value={candidate.code}>
+                  {candidate.englishName === candidate.nativeName
+                    ? candidate.englishName
+                    : `${candidate.englishName} · ${candidate.nativeName}`}
+                </option>
+              ))}
+            </select>
           </div>
-        ) : (
-          <div className="emptyTerms">The service selects only the glossary entries that occur in the source text.</div>
+          <button className="primary" type="button" onClick={translate} disabled={!source.trim() || loading}>
+            {loading ? "Translating…" : "Translate"}<span aria-hidden="true">→</span>
+          </button>
+          <span className="note">Glossary rules are checked automatically.</span>
+        </div>
+
+        {error && (
+          <section className="errorPanel" role="alert" aria-live="assertive">
+            <div className="errorHead">
+              <strong>Error details</strong>
+              <button className="textButton" type="button" onClick={() => navigator.clipboard.writeText(error)}>Copy error</button>
+            </div>
+            <pre>{error}</pre>
+          </section>
         )}
-      </section>
-    </main>
+
+        <section className="terminology" aria-live="polite">
+          <div className="sectionhead">
+            <div><span className="label">Applied terminology</span><h2>{result ? `${result.matches.length} matches in this submission` : "Terms will appear after translation"}</h2></div>
+            {result && <span className="sub">{result.glossarySize} rules loaded</span>}
+          </div>
+          {result?.matches.length ? (
+            <div className="termGrid">
+              {result.matches.map((match, index) => (
+                <div className="term" key={`${match.source}-${index}`}>
+                  <div><strong>{match.matchedText}</strong><span>{match.ruleType === "preserve" ? "Preserved" : match.matchLevel.replace(/_/g, " ")}</span></div>
+                  <b className="arrow" aria-hidden="true">→</b>
+                  <div className="target" dir={result.language.dir} lang={result.language.code}><strong>{match.target}</strong><span>{match.enforcement}</span></div>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div className="emptyTerms">The service selects only the glossary entries that occur in the source text.</div>
+          )}
+        </section>
+      </main>
+    </>
   );
 }
