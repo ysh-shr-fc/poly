@@ -1,0 +1,711 @@
+Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
+Cycle + Soak™,vi,Cycle + Soak™,Asleif,12/09/2025,whole_word,exact
+System™,vi,System™,Alison,12/29/2025,whole_word,exact
+LFX™,vi,LFX™,Alison,12/29/2025,whole_word,exact
+LNK™,vi,LNK™,Alison,12/29/2025,whole_word,exact
+Front Office™,vi,Front Office™,Alison,12/29/2025,whole_word,exact
+IC CONNECT™,vi,IC CONNECT™,Alison,12/29/2025,whole_word,exact
+Rain Clock™,vi,Rain Clock™,Alison,12/29/2025,whole_word,exact
+Software Features,vi,Software Features,Alison,12/29/2025,whole_word,exact
+Slip Fit™,vi,Slip Fit™,Alison,12/29/2025,whole_word,exact
+Easy Rain®,vi,Easy Rain®,Alison,12/29/2025,whole_word,exact
+Rain Bird Messenger™,vi,Rain Bird Messenger™,Alison,12/29/2025,whole_word,exact
+Rain Bird®,vi,Rain Bird®,Alison,12/29/2025,whole_word,exact
+Sure Pop®,vi,Sure Pop®,Alison,12/29/2025,whole_word,exact
+Rain Bucket™,vi,Rain Bucket™,Alison,12/29/2025,whole_word,exact
+Copper Shield™,vi,Copper Shield™,Alison,12/29/2025,whole_word,exact
+Nimbus™,vi,Nimbus™,Alison,12/29/2025,whole_word,exact
+Monitor Log™,vi,Monitor Log™,Alison,12/29/2025,whole_word,exact
+Quick Flush™,vi,Quick Flush™,Alison,12/29/2025,whole_word,exact
+Bird®,vi,Bird®,Alison,12/29/2025,whole_word,exact
+Mini Bird®,vi,Mini Bird®,Alison,12/29/2025,whole_word,exact
+Pump Profiling™,vi,Pump Profiling™,Alison,12/29/2025,whole_word,exact
+ET Checkbook™,vi,ET Checkbook™,Alison,12/29/2025,whole_word,exact
+The Intelligent Use of Water®,vi,The Intelligent Use of Water®,Alison,12/29/2025,whole_word,exact
+Rain Bird Factory Trained™,vi,Rain Bird Factory Trained™,Alison,12/29/2025,whole_word,exact
+QuickIRR™ /Quick IRR™,vi,QuickIRR™ /Quick IRR™,Alison,12/29/2025,whole_word,exact
+MI Series™,vi,MI Series™,Alison,12/29/2025,whole_word,exact
+Product Features,vi,Product Features,Alison,12/29/2025,whole_word,exact
+Mini-Paw®,vi,Mini-Paw®,Alison,12/29/2025,whole_word,exact
+RAINBIRD®,vi,RAINBIRD®,Alison,12/29/2025,whole_word,exact
+Preferred Drip Installer™,vi,Preferred Drip Installer™,Alison,12/29/2025,whole_word,exact
+Map Import™,vi,Map Import™,Alison,12/29/2025,whole_word,exact
+LF™,vi,LF™,Alison,12/29/2025,whole_word,exact
+CirrusPRO™,vi,CirrusPRO™,Alison,12/29/2025,whole_word,exact
+Map Utilities™,vi,Map Utilities™,Alison,12/29/2025,whole_word,exact
+Timeless Compatibility™,vi,Timeless Compatibility™,Alison,12/29/2025,whole_word,exact
+QuickStart™,vi,QuickStart™,Alison,12/29/2025,whole_word,exact
+Course Designer™,vi,Course Designer™,Alison,12/29/2025,whole_word,exact
+Smartweather™,vi,Smartweather™,Alison,12/29/2025,whole_word,exact
+Dryrun™,vi,Dryrun™,Alison,12/29/2025,whole_word,exact
+Xeri-Bird™,vi,Xeri-Bird™,Alison,12/29/2025,whole_word,exact
+The Intelligent Use of Water™,vi,The Intelligent Use of Water™,Alison,12/29/2025,whole_word,exact
+T-Bird™,vi,T-Bird™,Alison,12/29/2025,whole_word,exact
+Maxi-Bird™,vi,Maxi-Bird™,Alison,12/29/2025,whole_word,exact
+Xerigation®,vi,Xerigation®,Alison,12/29/2025,whole_word,exact
+Program Builder™,vi,Program Builder™,Alison,12/29/2025,whole_word,exact
+Course Data Builder™,vi,Course Data Builder™,Alison,12/29/2025,whole_word,exact
+Sensor Decorder™,vi,Sensor Decorder™,Alison,12/29/2025,whole_word,exact
+Flo-Watch™,vi,Flo-Watch™,Alison,12/29/2025,whole_word,exact
+Flowatch™,vi,Flowatch™,Alison,12/29/2025,whole_word,exact
+Flow Optimizer™,vi,Flow Optimizer™,Alison,12/29/2025,whole_word,exact
+Flo-Guard™,vi,Flo-Guard™,Alison,12/29/2025,whole_word,exact
+Cycle & Soak™,vi,Cycle & Soak™,Alison,12/29/2025,whole_word,exact
+CCS™,vi,CCS™,Alison,12/29/2025,whole_word,exact
+EAGLE’s Tail™,vi,EAGLE’s Tail™,Alison,12/29/2025,whole_word,exact
+Clam Shell™,vi,Clam Shell™,Alison,12/29/2025,whole_word,exact
+IQ™,vi,IQ™,Alison,12/29/2025,whole_word,exact
+SDC-1™,vi,SDC-1™,Alison,12/29/2025,whole_word,exact
+Mối nối dây,vi,Wire splice,,08/06/2026,whole_word,exact
+Sức Khỏe Dây Điện,vi,Wire Health,,08/06/2026,whole_word,exact
+Thước đo dây,vi,Wire gauge,,08/06/2026,whole_word,exact
+Khu vực tưới nước,vi,Watering zone,,08/06/2026,whole_word,exact
+Thời gian tưới ngâm,vi,Station Soak Time,,08/06/2026,whole_word,exact
+Bộ phát có gai,vi,Spiked emitter,,08/06/2026,whole_word,exact
+Ống tưới nước,vi,Watering pipes,,08/06/2026,whole_word,exact
+Dòng Chảy Rộng,vi,Wide Flow,,08/06/2026,whole_word,exact
+Dụng cụ tuốt dây,vi,Wire Stripper,,08/06/2026,whole_word,exact
+Tưới nước,vi,watering,,08/06/2026,whole_word,exact
+Không gian xanh thẳng đứng,vi,Vertical green spaces,,08/06/2026,whole_word,exact
+Phun sương,vi,Misters,,08/06/2026,whole_word,exact
+trạm thủ công,vi,manual station,,08/06/2026,whole_word,exact
+Đa tạp,vi,Manifold,,08/06/2026,whole_word,exact
+"""Những khu vực ẩm ướt/ẩm thấp""",vi,Wet/damp locations,,08/06/2026,whole_word,exact
+"""Những nhà quản lý nguồn nước""",vi,Water managers,,08/06/2026,whole_word,exact
+Vòi phun nước dạng tia.,vi,Water Jet Sprinklers,,08/06/2026,whole_word,exact
+Khối đầu nối vít,vi,Screw terminal blocks,,08/06/2026,whole_word,exact
+Phun sương,vi,Misting,,08/06/2026,whole_word,exact
+khu vực,vi,zone,,08/06/2026,whole_word,exact
+Tủ gắn tường,vi,Wall Mount Enclosure,,08/06/2026,whole_word,exact
+Vỏ bọc NEMA chống thời tiết,vi,Weatherproof NEMA enclosure,,08/06/2026,whole_word,exact
+Đầu vòi tiết kiệm nước,vi,Water-saving nozzle,,08/06/2026,whole_word,exact
+hộp van,vi,valve box,,08/06/2026,whole_word,exact
+Gioăng kín nước,vi,Water-tight seal,,08/06/2026,whole_word,exact
+Yêu cầu về nước,vi,Water requirements,,08/06/2026,whole_word,exact
+Cửa vào rotor,vi,Rotor inlet,,08/06/2026,whole_word,exact
+Các thiết bị đa vùng,vi,Multi-zone units,,08/06/2026,whole_word,exact
+Phun 360 độ,vi,Full Circle,,08/06/2026,whole_word,exact
+Dòng Chảy Không Học Hỏi,vi,Zero Learned Flow,,08/06/2026,whole_word,exact
+Dưới bề mặt,vi,Subsurface,,08/06/2026,whole_word,exact
+Lỗ đục ống,vi,Pipe hole knock-outs,,08/06/2026,whole_word,exact
+Dòng chảy nước.,vi,Water run-off,,08/06/2026,whole_word,exact
+Van chính cửa sổ nước,vi,Master Valve Water Window,,08/06/2026,whole_word,exact
+Chống phá hoại/Chống giả mạo,vi,Vandal/Tamper Resistant,,08/06/2026,whole_word,exact
+Bộ tín hiệu,vi,Cartridge,,08/06/2026,whole_word,exact
+Cánh quạt,vi,Vane,,08/06/2026,whole_word,exact
+Trạm thời tiết WatchDog*,vi,WatchDog* weather station,,08/06/2026,whole_word,exact
+Tưới nhỏ giọt từ nguồn điểm,vi,Point source drip irrigation,,08/06/2026,whole_word,exact
+Vòi phun nước có van trong đầu,vi,Valve-in-head sprinklers,,08/06/2026,whole_word,exact
+Đầu PVC,vi,PVC headers,,08/06/2026,whole_word,exact
+vòi phun,vi,nozzle,,08/06/2026,whole_word,exact
+Đầu nhỏ giọt không tắc nghẽn,vi,Non-clogging emitters,,08/06/2026,whole_word,exact
+Số lượng PGM tối đa được xếp chồng,vi,Max PGMs Stacked,,08/06/2026,whole_word,exact
+Đầu nối LOC,vi,LOC fittings,,08/06/2026,whole_word,exact
+Rô-to van trong đầu,vi,Valve-in-head rotors,,08/06/2026,whole_word,exact
+van,vi,valve,,08/06/2026,whole_word,exact
+Bộ lọc dễ vệ sinh,vi,Easy Clean Filter,,08/06/2026,whole_word,exact
+Ổn định tia UV,vi,UV stabilized,,08/06/2026,whole_word,exact
+Hai dây,vi,Two-Wire,,08/06/2026,whole_word,exact
+Lưới khóa chống phá hoại,vi,Vandal resistant locking grate,,08/06/2026,whole_word,exact
+DẤU VẾT,vi,TRACKS,,08/06/2026,whole_word,exact
+Khớp nối union,vi,Union fittings,,08/06/2026,whole_word,exact
+Đầu nối tự xuyên.,vi,Self-piercing inlet barbs,,08/06/2026,whole_word,exact
+Đế van,vi,Valve Seat,,08/06/2026,whole_word,exact
+Đường dẫn dây đầu ra,vi,Output Wire Path,,08/06/2026,whole_word,exact
+Cánh quạt,vi,Impeller,,08/06/2026,whole_word,exact
+Ống tưới nhỏ giọt ngầm,vi,Underground emitter tubing,,08/06/2026,whole_word,exact
+Điều Khiển Thông Minh,vi,Smart Control,,08/06/2026,whole_word,exact
+Hệ thống tưới phun qua ngọn,vi,Overhead spray irrigation system,,08/06/2026,whole_word,exact
+Sức khỏe van,vi,Valve health,,08/06/2026,whole_word,exact
+Màn hình lưu lượng loại đầu vào xung,vi,Pulse input type flow monitor,,08/06/2026,whole_word,exact
+Cơ Sở Quặng Sắt Valé,vi,Valé Iron Ore Facility,,08/06/2026,whole_word,exact
+Cọc neo buộc,vi,Tie-Down Stake,,08/06/2026,whole_word,exact
+Loại bỏ cỏ.,vi,turf removal,,08/06/2026,whole_word,exact
+Núm điều chỉnh áp suất,vi,Pressure regulating dial,,08/06/2026,whole_word,exact
+Cỏ sân golf,vi,Turfgrass,,08/06/2026,whole_word,exact
+Lưới thép không gỉ,vi,SS Mesh Screen,,08/06/2026,whole_word,exact
+Van xả khí (ARV),vi,Air Relief Valve (ARV),,08/06/2026,whole_word,exact
+Bo mạch hai trình điều khiển,vi,Two-Driver Board,,08/06/2026,whole_word,exact
+Ống dẫn,vi,Tubing,,08/06/2026,whole_word,exact
+Nút bịt ren,vi,Threaded plug,,08/06/2026,whole_word,exact
+Bãi cỏ,vi,Turf,,08/06/2026,whole_word,exact
+Khóa,vi,Locking,,08/06/2026,whole_word,exact
+Cảm biến Tee,vi,Tee Sensor,,08/06/2026,whole_word,exact
+Cải tạo nâng cấp,vi,Retrofitting,,08/06/2026,whole_word,exact
+Thiết bị chống đột biến,vi,Surge Device,,08/06/2026,whole_word,exact
+Bảo vệ chống tăng điện,vi,Surge Protection,,08/06/2026,whole_word,exact
+Tốc độ dòng chảy,vi,Rate of Flow,,08/06/2026,whole_word,exact
+Đường ngoằn ngoèo,vi,Switchbacks,,08/06/2026,whole_word,exact
+Bộ phát luồng,vi,Thread emitter,,08/06/2026,whole_word,exact
+Trạm,vi,station,,08/06/2026,whole_word,exact
+Đầu rô-to,vi,Rotor heads,,08/06/2026,whole_word,exact
+Bộ phát xung,vi,Pulse Transmitter,,08/06/2026,whole_word,exact
+Vỏ vòi phun,vi,Nozzle housing,,08/06/2026,whole_word,exact
+Van điều khiển bằng tay,vi,Manual valve,,08/06/2026,whole_word,exact
+Tấm tiếp đất chống sét,vi,Surge Grounding Plate,,08/06/2026,whole_word,exact
+Phụ kiện nối hình chữ T,vi,Tee Fitting,,08/06/2026,whole_word,exact
+Tưới qua ngọn,vi,Overhead irrigation,,08/06/2026,whole_word,exact
+Bộ chuyển đổi ren,vi,Thread adapters,,08/06/2026,whole_word,exact
+Đầu phun sprinkler,vi,Sprinkler head,,08/06/2026,whole_word,exact
+Rô-to,vi,rotor,,08/06/2026,whole_word,exact
+Nắp có ren,vi,Threaded cap,,08/06/2026,whole_word,exact
+Tăng vọt,vi,Surge,,08/06/2026,whole_word,exact
+Dây cấp nguồn,vi,Supply wire,,08/06/2026,whole_word,exact
+Lưu lượng van,vi,Station Flow Rate,,08/06/2026,whole_word,exact
+Van rơ-le khởi động bơm,vi,Pump start relay valve,,08/06/2026,whole_word,exact
+Thời gian chờ,vi,Station Stacking,,08/06/2026,whole_word,exact
+PC-Diffuser,vi,PC-Diffuser,,08/06/2026,whole_word,exact
+Thu hồi thân cây,vi,Stem retraction,,08/06/2026,whole_word,exact
+Bộ lọc khí PCT,vi,PCT Bubbler,,08/06/2026,whole_word,exact
+Cánh quạt bị kẹt,vi,Stuck-up rotors,,08/06/2026,whole_word,exact
+Nhiều Trạm Công Suất,vi,Multiple Station Capacity,,08/06/2026,whole_word,exact
+Bộ điều khiển,vi,Controller,,08/06/2026,whole_word,exact
+Hố thu,vi,Sump,,08/06/2026,whole_word,exact
+Bình xịt cơ thể,vi,Spray Body,,08/06/2026,whole_word,exact
+Mạng lưới đường ống,vi,Pipe network,,08/06/2026,whole_word,exact
+Tỷ lệ trạm,vi,Station rate,,08/06/2026,whole_word,exact
+Cắt lớp PGA,vi,PGA Cutaway,,08/06/2026,whole_word,exact
+Trạng thái van,vi,Station Health,,08/06/2026,whole_word,exact
+đầu mục cung cấp,vi,supply header,,08/06/2026,whole_word,exact
+Mô-đun Kết nối Thông minh,vi,Smart Connection Module,,08/06/2026,whole_word,exact
+Bộ chuyển đổi Shrub,vi,Shrub Adapters,,08/06/2026,whole_word,exact
+bên dưới bề mặt,vi,sub-surface,,08/06/2026,whole_word,exact
+Đang ping các bộ giải mã,vi,Pinging decoders,,08/06/2026,whole_word,exact
+Phần/vòng tròn đảo ngược hoàn chỉnh,vi,Part/reverse full circle,,08/06/2026,whole_word,exact
+Bộ lọc màn hình dung lượng lớn,vi,Large-Capacity Screen Filter,,08/06/2026,whole_word,exact
+Trì hoãn van,vi,station delay,,08/06/2026,whole_word,exact
+Bộ điều khiển thông minh,vi,Smart Controller,,08/06/2026,whole_word,exact
+Ổ bi hướng kính,vi,Radial Bearing,,08/06/2026,whole_word,exact
+Thìa Precision Jet (PJ),vi,Precision Jet (PJ) spoon,,08/06/2026,whole_word,exact
+Ống đứng PFR-RS,vi,PFR-RS Riser,,08/06/2026,whole_word,exact
+Dòng chảy trực tiếp,vi,Straight-through flow,,08/06/2026,whole_word,exact
+Dây điện có lớp bảo vệ,vi,Shielded wire,,08/06/2026,whole_word,exact
+Khu vực cây bụi và thảm phủ đất,vi,Shrub and groundcover areas,,08/06/2026,whole_word,exact
+Vòi phun xoay,vi,Rotary nozzle,,08/06/2026,whole_word,exact
+Khu vực phun.,vi,Spray zone,,08/06/2026,whole_word,exact
+Dây nhỏ giọt thành dày bù áp.,vi,Pressure compensating heavywall dripline,,08/06/2026,whole_word,exact
+Bộ tạo bong bóng toàn vòng bù áp suất,vi,Pressure Compensating Full-Circle Bubblers,,08/06/2026,whole_word,exact
+Hút thủy lực,vi,Hydraulic Suction,,08/06/2026,whole_word,exact
+Hệ thống phun nước,vi,Sprinkler system,,08/06/2026,whole_word,exact
+bù áp suất,vi,pressure compensation,,08/06/2026,whole_word,exact
+Vùng thấm 360 độ,vi,Full circle pattern,,08/06/2026,whole_word,exact
+Lưới thoát nước hình vuông.,vi,Square Atrium Grate,,08/06/2026,whole_word,exact
+Lưu lượng thấp,vi,Low Flow,,08/06/2026,whole_word,exact
+Đầu nối nén,vi,Compression Fittings,,08/06/2026,whole_word,exact
+Vòi phun dạng hình vuông,vi,Square Pattern Nozzle,,08/06/2026,whole_word,exact
+Bộ phát thấp cấu hình,vi,Low-profile emitter,,08/06/2026,whole_word,exact
+Van điện từ,vi,Solenoid valves,,08/06/2026,whole_word,exact
+Ngắt dòng Plus (+),vi,Plus (+) Flow shutoff,,08/06/2026,whole_word,exact
+Đầu phun,vi,Spray Heads,,08/06/2026,whole_word,exact
+Địa điểm trọng tài,vi,Place of arbitration,,08/06/2026,whole_word,exact
+Khớp nối trượt,vi,Slip unions,,08/06/2026,whole_word,exact
+Hệ số cây trồng,vi,Plant factor,,08/06/2026,whole_word,exact
+Công cụ/Chìa khóa Dịch vụ Bộ chọn,vi,Selector Service Tool/Key,,08/06/2026,whole_word,exact
+Điều chỉnh một phần hình tròn,vi,Part-circle adjustment,,08/06/2026,whole_word,exact
+Bộ điều khiển được ánh xạ,vi,Mapped Controllers,,08/06/2026,whole_word,exact
+Dụng cụ cọ rửa,vi,Scrubber,,08/06/2026,whole_word,exact
+Máy đo nhịp tim,vi,Pulse Monitor,,08/06/2026,whole_word,exact
+Bộ ghép kênh truyền thông,vi,Communication Multiplexer,,08/06/2026,whole_word,exact
+Sân AirFibr,vi,AirFibr pitch,,08/06/2026,whole_word,exact
+Dây nguồn AC,vi,AC power cord,,08/06/2026,whole_word,exact
+Rô-to,vi,Rotor,,08/06/2026,whole_word,exact
+Cảm biến lưu lượng,vi,Insert Flow Sensor,,08/06/2026,whole_word,exact
+Cầu dao điện,vi,Circuit Breaker,,08/06/2026,whole_word,exact
+Dòng chảy xoay,vi,Rotating streams,,08/06/2026,whole_word,exact
+Nắp bịt vòi phía sau,vi,Rear nozzle plug,,08/06/2026,whole_word,exact
+Công nghệ đa luồng,vi,Multi-stream technology,,08/06/2026,whole_word,exact
+Tấm tiếp đất,vi,Grounding Plate,,08/06/2026,whole_word,exact
+Lưỡi xoay,vi,Rotating barb,,08/06/2026,whole_word,exact
+bộ phận nâng,vi,riser,,08/06/2026,whole_word,exact
+Yếu tố loài thực vật,vi,Plant species factor,,08/06/2026,whole_word,exact
+Vỉ,vi,Grate,,08/06/2026,whole_word,exact
+Bán kính,vi,Radius,,08/06/2026,whole_word,exact
+tổn thất áp suất,vi,pressure loss,,08/06/2026,whole_word,exact
+Lưu lượng tối đa cho phép,vi,Max Allowable Flow Rate,,08/06/2026,whole_word,exact
+Thu hồi lò xo,vi,Retract spring,,08/06/2026,whole_word,exact
+Đầu phun thay đổi nhanh,vi,Quick-Change Nozzle,,08/06/2026,whole_word,exact
+Dòng/Vân phun,vi,Nozzle Series/Pattern,,08/06/2026,whole_word,exact
+Nước tái sử dụng,vi,Reclaimed water,,08/06/2026,whole_word,exact
+Các gai được lắp đặt sẵn,vi,Pre-installed barbs,,08/06/2026,whole_word,exact
+Công nghệ ghép nối nhanh,vi,Quick pair technology,,08/06/2026,whole_word,exact
+Bộ điều áp áp suất trong thân PRS,vi,PRS in-stem pressure regulator,,08/06/2026,whole_word,exact
+Bộ phát nước bù áp lực tuyến tính,vi,Pressure-compensating inline emitter,,08/06/2026,whole_word,exact
+chương trình,vi,program,,08/06/2026,whole_word,exact
+Trạm bơm,vi,Pump station,,08/06/2026,whole_word,exact
+Bù áp suất,vi,Pressure Compensating,,08/06/2026,whole_word,exact
+Cáp tưới tiêu đa lõi,vi,Multi-Conductor Irrigation Cable,,08/06/2026,whole_word,exact
+Đầu nhỏ giọt lưu lượng thấp bù áp.,vi,Pressure Compensating Low-Flow Emitters,,08/06/2026,whole_word,exact
+Cánh quạt bật lên,vi,Pop-up rotor,,08/06/2026,whole_word,exact
+Vòi phun có lưu lượng mưa thấp,vi,Low Precipitation Rate Nozzles,,08/06/2026,whole_word,exact
+Vỏ điều khiển bằng nhựa,vi,Plastic controller case,,08/06/2026,whole_word,exact
+Uốn cong,vi,Kinking,,08/06/2026,whole_word,exact
+Bộ lọc điều chỉnh áp suất RBY,vi,Pressure regulating RBY filter,,08/06/2026,whole_word,exact
+Ống phản lực chính xác,vi,Precision Jet tube,,08/06/2026,whole_word,exact
+Mô-đun điều chỉnh áp suất,vi,Pressure regulating module,,08/06/2026,whole_word,exact
+Hoạt động một phần vòng tròn,vi,Part circle operation,,08/06/2026,whole_word,exact
+Cửa sổ nước MV thủ công,vi,Manual MV Water Window,,08/06/2026,whole_word,exact
+Thùng,vi,Barrel,,08/06/2026,whole_word,exact
+Vỏ cây bong tróc,vi,Peeling bark,,08/06/2026,whole_word,exact
+Nylon gia cường sợi thủy tinh,vi,Glass Filled Nylon,,08/06/2026,whole_word,exact
+Gioăng gạt nước kích hoạt bằng áp suất,vi,Pressure-activated wiper seal,,08/06/2026,whole_word,exact
+Van điều khiển thí điểm,vi,Pilot valves,,08/06/2026,whole_word,exact
+Phạm vi lưu lượng vận hành,vi,Operating Flow Range,,08/06/2026,whole_word,exact
+Tụ điện tích hợp,vi,Onboard Capacitor,,08/06/2026,whole_word,exact
+Xả nước,vi,Flushing,,08/06/2026,whole_word,exact
+Phần hình tròn,vi,Part circle,,08/06/2026,whole_word,exact
+Khu vực bồn cây bụi trên bề mặt,vi,On-surface shrub bed areas,,08/06/2026,whole_word,exact
+Ràng buộc,vi,Binding,,08/06/2026,whole_word,exact
+Bộ điều khiển bù,vi,Offset controllers,,08/06/2026,whole_word,exact
+Bộ điều khiển chạy bằng pin,vi,Battery-Operated Controller,,08/06/2026,whole_word,exact
+Mặt trước vòi phun,vi,Nozzle front,,08/06/2026,whole_word,exact
+Căn chỉnh mẫu vòi phun,vi,Nozzle pattern alignment,,08/06/2026,whole_word,exact
+Dung tích đa van,vi,Multi-valve capacity,,08/06/2026,whole_word,exact
+Dòng chảy vòi phun,vi,Nozzle flow,,08/06/2026,whole_word,exact
+Cây Bách Xù Cá Sấu,vi,Alligator Juniper,,08/06/2026,whole_word,exact
+Bề mặt lắp đặt,vi,Mounting surface,,08/06/2026,whole_word,exact
+Van xả thủ công,vi,Manual flush valve,,08/06/2026,whole_word,exact
+Lọc,vi,filtration,,08/06/2026,whole_word,exact
+Thời gian hoạt động tối đa của trạm,vi,Maximum station run time,,08/06/2026,whole_word,exact
+Lưu lượng trung bình,vi,Medium Flow,,08/06/2026,whole_word,exact
+Lưu lượng tối đa,vi,Maximum Flow,,08/06/2026,whole_word,exact
+hệ thống hút ngược,vi,back siphoning,,08/06/2026,whole_word,exact
+Bộ bảo vệ chống tăng áp đường dây (LSP),vi,LSP (line surge protectors),,08/06/2026,whole_word,exact
+Kết nối ren ngoài x ren ngoài,vi,Male x Male threaded connections,,08/06/2026,whole_word,exact
+Hệ thống tưới tiêu vận hành thủ công,vi,Manually operated irrigation systems,,08/06/2026,whole_word,exact
+Van Buckner,vi,Buckner Valve,,08/06/2026,whole_word,exact
+Đầu nối van nam,vi,Male Valve Connectors,,08/06/2026,whole_word,exact
+Tê ống góp,vi,Manifold Tee,,08/06/2026,whole_word,exact
+Hoa đực,vi,Male flower,,08/06/2026,whole_word,exact
+Khóa van thủ công,vi,Lock manual valve,,08/06/2026,whole_word,exact
+Bộ lọc đĩa dung lượng lớn,vi,Large-Capacity Disc Filter,,08/06/2026,whole_word,exact
+Bo mạch điều khiển,vi,Driver Board,,08/06/2026,whole_word,exact
+Nam châm điện chốt,vi,Latching solenoid,,08/06/2026,whole_word,exact
+Béc phun 360 độ,vi,Full Circle Nozzles,,08/06/2026,whole_word,exact
+Ống nối góc của đường ống nhỏ giọt,vi,Dripline Header elbows,,08/06/2026,whole_word,exact
+Các mô-đun van thông minh (IVM),vi,Intelligent Valve Modules (IVM),,08/06/2026,whole_word,exact
+Điều khiển tích hợp (IC),vi,Integrated Control (IC),,08/06/2026,whole_word,exact
+Ống dẫn,vi,Hose,,08/06/2026,whole_word,exact
+Cổ áo trung tâm,vi,Center collar,,08/06/2026,whole_word,exact
+Dòng chảy nội,vi,Internal bleed,,08/06/2026,whole_word,exact
+Đầu ra ngắt lưu lượng cao,vi,High flow cutoff outputs,,08/06/2026,whole_word,exact
+Béc tưới góc 360 độ,vi,Full-Circle Bubbler,,08/06/2026,whole_word,exact
+Bảng mạch,vi,Circuit board,,08/06/2026,whole_word,exact
+Ổ cắm điện AC,vi,AC power outlet,,08/06/2026,whole_word,exact
+Cuộn dây điện từ màu đen Golf,vi,Golf Black Solenoid,,08/06/2026,whole_word,exact
+Đầu ống nhỏ giọt,vi,Dripline Header,,08/06/2026,whole_word,exact
+Thiết bị phát thải,vi,Emission Device,,08/06/2026,whole_word,exact
+Quạt phun 360 độ,vi,Full circle Fan,,08/06/2026,whole_word,exact
+Đầu nhỏ giọt dẹp,vi,FLAT EMITTER TECHNOLOGY,,08/06/2026,whole_word,exact
+Các đầu bịt hình số 8,vi,Figure 8 end closures,,08/06/2026,whole_word,exact
+Đàu nhỏ giọt ghim có van một chiều,vi,emitter check valve,,08/06/2026,whole_word,exact
+Đàu nhỏ giọt ghim,vi,emitter,,08/06/2026,whole_word,exact
+kết thúc nguồn cấp dữ liệu,vi,end feed,,08/06/2026,whole_word,exact
+Dây nhỏ giọt,vi,Dripline,,08/06/2026,whole_word,exact
+tưới gốc,vi,bubbler,,08/06/2026,whole_word,exact
+bộ điều khiển,vi,controller,,08/06/2026,whole_word,exact
+"Nút ""Xoay và khoá""",vi,"""turn and lock"" key",,08/06/2026,whole_word,exact
+Gioăng thân với nắp,vi,Body-to-bonnet seal,,08/06/2026,whole_word,exact
+Rổ lọc,vi,Basket Filter,,08/06/2026,whole_word,exact
+Ống trơn,vi,Blank Tubing,,08/06/2026,whole_word,exact
+Màng ngăn áp suất cân bằng,vi,Balanced pressure diaphragm,,08/06/2026,whole_word,exact
+tỷ lệ áp dụng,vi,application rate,,08/06/2026,whole_word,exact
+Đồng hồ nước,vi,Water Meter,,08/06/2026,whole_word,exact
+Cuộc gọi lại,vi,Call Backs,,08/06/2026,whole_word,exact
+Cuộn cảm,vi,Solenoid,,08/06/2026,whole_word,exact
+Dây nhỏ giọt,vi,dripline,,08/06/2026,whole_word,exact
+Rain Check™,vi,Rain Check™,Alison,12/29/2025,whole_word,exact
+Đầu nối dây,vi,Wire nuts,,08/06/2026,whole_word,exact
+Nam châm điện chốt có vỏ bọc.,vi,Potted latching solenoid,,08/06/2026,whole_word,exact
+Béc nhỏ giọt gắn trên ống,vi,Inline emitter,,08/06/2026,whole_word,exact
+Lỗ bu lông đục sẵn,vi,Bolt Hole Knock-out,,08/06/2026,whole_word,exact
+Máy tạo bọt,vi,Bubbler,,08/06/2026,whole_word,exact
+Cảm biến thời tiết,vi,Weather Sensor,,08/06/2026,whole_word,exact
+Bộ giải mã cảm biến hai dây,vi,Two-Wire Decoder Sensor Decoder,,08/06/2026,whole_word,exact
+Vòng khóa hộp van,vi,Valve box locking ring,,08/06/2026,whole_word,exact
+Ống xoay,vi,Swing Pipe,,08/06/2026,whole_word,exact
+Bán kính cung của vòi phun,vi,Nozzles’ arc radii,,08/06/2026,whole_word,exact
+Lớp phủ đất,vi,Mulch,,08/06/2026,whole_word,exact
+Chu kỳ xả ngược thủ công,vi,Manual backflush cycle,,08/06/2026,whole_word,exact
+hành động mao dẫn,vi,capillary action,,08/06/2026,whole_word,exact
+Vỏ dây điện,vi,Wire jacket,,08/06/2026,whole_word,exact
+Cảm biến lưu lượng siêu âm,vi,Ultrasonic Flow Sensor,,08/06/2026,whole_word,exact
+Thân siêu lớn,vi,Super Jumbo Body,,08/06/2026,whole_word,exact
+Gioăng làm kín bơm,vi,Pump packing seal,,08/06/2026,whole_word,exact
+Áo cách nhiệt PE,vi,PE insulation jacket,,08/06/2026,whole_word,exact
+Các mô phỏng không kích thích.,vi,Non-Irr-Simulstations,,08/06/2026,whole_word,exact
+Dự báo lịch tưới tiêu,vi,Irrigation schedule forecasting,,08/06/2026,whole_word,exact
+Đầu phun tưới.,vi,Irrigation spray head,,08/06/2026,whole_word,exact
+Bộ điều khiển có dây truyền thống,vi,Traditionally-wired controller,,08/06/2026,whole_word,exact
+Ngừng hoạt động khi lưu lượng thấp hoặc bằng không,vi,Low- or zero-flow shutdown,,08/06/2026,whole_word,exact
+Làm mát cây trồng,vi,Crop cooling,,08/06/2026,whole_word,exact
+Trồng dày đặc,vi,dense planting,,08/06/2026,whole_word,exact
+Đầu phun vòi phun biến đổi góc,vi,Spray Head Variable Arc Nozzles,,08/06/2026,whole_word,exact
+Hệ thống ống hàn sẵn,vi,Manifold System,,08/06/2026,whole_word,exact
+Dưới tiêu chuẩn,vi,Below grade,,08/06/2026,whole_word,exact
+Công Cụ Tính Toán Nguồn Phát Điểm,vi,Point Source Emitter Calculation Tool,,08/06/2026,whole_word,exact
+Lỗ chân lông,vi,pores,,08/06/2026,whole_word,exact
+Polystyrene chịu va đập cao (HIPS),vi,High-Impact Polystyrene (HIPS),,08/06/2026,whole_word,exact
+Thiết bị giám sát/dẫn truyền lưu lượng,vi,Flow Monitor/Transmitter,,08/06/2026,whole_word,exact
+Chất gây ô nhiễm,vi,Contaminants,,08/06/2026,whole_word,exact
+Bổ sung,vi,Backfill,,08/06/2026,whole_word,exact
+Bộ điều khiển AC,vi,AC controller,,08/06/2026,whole_word,exact
+Phụ kiện ống luồn dây điện,vi,Wire conduit fitting,,08/06/2026,whole_word,exact
+Khoang dây,vi,Wire bay,,08/06/2026,whole_word,exact
+Van xả khí chân không,vi,Vacuum air relief valve,,08/06/2026,whole_word,exact
+Đầu phun một phần tư,vi,Quarter nozzle,,08/06/2026,whole_word,exact
+Chiều dài ngang tối đa,vi,Maximum Lateral Length,,08/06/2026,whole_word,exact
+Thoát nước áp suất thấp,vi,Low head drainage,,08/06/2026,whole_word,exact
+Trạm Thời Tiết,vi,Weather Station,,08/06/2026,whole_word,exact
+Ngày nước,vi,water days,,08/06/2026,whole_word,exact
+Bo mạch điều khiển hai dây,vi,Two-Wire Driver Board,,08/06/2026,whole_word,exact
+Thùng đo mưa kiểu lật.,vi,Tipping bucket rain can,,08/06/2026,whole_word,exact
+Xâm nhập rễ,vi,root intrusion,,08/06/2026,whole_word,exact
+Bộ Lọc Giỏ Kiểm Tra Nhanh,vi,Quick-Check Basket Filter,,08/06/2026,whole_word,exact
+Chân,vi,Leg,,08/06/2026,whole_word,exact
+Đầu,vi,Head,,08/06/2026,whole_word,exact
+Chứng nhận đào tạo tại nhà máy,vi,Factory Trained designation,,08/06/2026,whole_word,exact
+Khớp nối,vi,Coupler,,08/06/2026,whole_word,exact
+Công suất trạm mô-đun,vi,Modular station capacity,,08/06/2026,whole_word,exact
+Giữ Cuộn Tối Đa,vi,Max Coil Holding,,08/06/2026,whole_word,exact
+Van đơn thủ công,vi,Manual single valve,,08/06/2026,whole_word,exact
+Đường dẫn hai dây,vi,Two-wire path,,08/06/2026,whole_word,exact
+Mô hình có ren,vi,Threaded models,,08/06/2026,whole_word,exact
+Khu vực thấm full,vi,Full pattern,,08/06/2026,whole_word,exact
+Gioăng gạt nước ba lưỡi,vi,Triple-Blade Wiper Seal,,08/06/2026,whole_word,exact
+Đầu nối kiểu gài,vi,Snap fit connectors,,08/06/2026,whole_word,exact
+Cốc Sod,vi,Sod Cup,,08/06/2026,whole_word,exact
+Lưu lượng danh định,vi,Nominal Flow,,08/06/2026,whole_word,exact
+Vị trí núm điều chỉnh cài đặt IQ,vi,IQ Settings dial position,,08/06/2026,whole_word,exact
+Phun tia 360 độ,vi,Full circle stream,,08/06/2026,whole_word,exact
+Gioăng gạt nước đúc đồng thời,vi,Co-molded wiper seal,,08/06/2026,whole_word,exact
+Cáp cách điện kép PVC-PE,vi,Double PVC-PE insulation cable,,08/06/2026,whole_word,exact
+Các thiết bị đầu cuối COM,vi,COM terminals,,08/06/2026,whole_word,exact
+Gói Bộ Điều Khiển Trung Tâm,vi,Central Controller Package,,08/06/2026,whole_word,exact
+Đường dây,vi,Wire path,,08/06/2026,whole_word,exact
+Thời gian chu kỳ van,vi,Station Cycle Time,,08/06/2026,whole_word,exact
+Cáp cảm biến dòng chảy được che chắn,vi,Shielded flow sensing cable,,08/06/2026,whole_word,exact
+Cơ sở xử lý nước,vi,Water treatment facility,,08/06/2026,whole_word,exact
+áp suất tĩnh,vi,static pressure,,08/06/2026,whole_word,exact
+Quản lý tài nguyên nước,vi,Water resource management,,08/06/2026,whole_word,exact
+Thân vòi phun tưới dạng phun.,vi,Spray sprinkler body,,08/06/2026,whole_word,exact
+Átrium Vuông,vi,Square Atrium,,08/06/2026,whole_word,exact
+Vỏ rotor,vi,Rotor case,,08/06/2026,whole_word,exact
+Đầu nối đực,vi,Male Adapter,,08/06/2026,whole_word,exact
+Máy bơm tăng áp,vi,Booster Pump,,08/06/2026,whole_word,exact
+Hệ thống tưới nhỏ giọt,vi,Micro-Irrigation System,,08/06/2026,whole_word,exact
+nhà thầu,vi,contractor,,08/06/2026,whole_word,exact
+Vòi phun biến thiên.,vi,Variable Arc Nozzle,,08/06/2026,whole_word,exact
+Hộp van,vi,Valve box,,08/06/2026,whole_word,exact
+Ống ba lớp.,vi,Triple Wall Pipe,,08/06/2026,whole_word,exact
+Chuyến đi,vi,Trip,,08/06/2026,whole_word,exact
+Trạm,vi,Station,,08/06/2026,whole_word,exact
+Bề mặt lọc tối đa,vi,Maximum filtering surface,,08/06/2026,whole_word,exact
+Bảo vệ cạnh,vi,Edge Guard,,08/06/2026,whole_word,exact
+Cánh tay PJ đúc khuôn,vi,Die-cast PJ arm,,08/06/2026,whole_word,exact
+Dây van,vi,valve wires,,08/06/2026,whole_word,exact
+Dòng chảy van,vi,Valve Flow,,08/06/2026,whole_word,exact
+Vòng đệm kín O-Ring,vi,O-Ring seal,,08/06/2026,whole_word,exact
+Vòi phun với nhiều dòng chảy,vi,Nozzles with multiple streams,,08/06/2026,whole_word,exact
+Van điều khiển bằng động cơ,vi,Motorized valves,,08/06/2026,whole_word,exact
+Đầu xả,vi,flush header,,08/06/2026,whole_word,exact
+Ống dẫn,vi,Conduit,,08/06/2026,whole_word,exact
+Cảm biến đo lượng mưa kiểu lật,vi,Tipping Rain Gauge Sensor,,08/06/2026,whole_word,exact
+Đầu,vi,Header,,08/06/2026,whole_word,exact
+Chương trình huấn luyện cơ bản,vi,Boot Camp,,08/06/2026,whole_word,exact
+Bo mạch giao diện vệ tinh hai dây,vi,Two-Wire Satellite Interface Board,,08/06/2026,whole_word,exact
+Van một chiều dưới đầu,vi,Under-the-head check valves,,08/06/2026,whole_word,exact
+Khớp nối ren,vi,Threaded unions,,08/06/2026,whole_word,exact
+Chuỗi,vi,Thread,,08/06/2026,whole_word,exact
+Bộ phát ren,vi,Threaded emitter,,08/06/2026,whole_word,exact
+Dải đầu nối,vi,Terminal Strip,,08/06/2026,whole_word,exact
+Hành động lò xo,vi,Spring action,,08/06/2026,whole_word,exact
+Cơ chế bánh cóc,vi,Ratchet mechanism,,08/06/2026,whole_word,exact
+Van nối nhanh,vi,Quick-coupling valve,,08/06/2026,whole_word,exact
+Trên/Dưới Bề Mặt,vi,On/Sub Surface,,08/06/2026,whole_word,exact
+Phụ kiện,vi,Fitting,,08/06/2026,whole_word,exact
+nắp đậy,vi,Bonnet,,08/06/2026,whole_word,exact
+Lưu lượng biến đổi,vi,Variable flow rates,,08/06/2026,whole_word,exact
+Áp suất tăng đột ngột,vi,Surge pressure,,08/06/2026,whole_word,exact
+tỷ lệ lượng mưa,vi,precipitation rate,,08/06/2026,whole_word,exact
+Ghi đè ET,vi,ET Override,,08/06/2026,whole_word,exact
+Bể nước,vi,Basin,,08/06/2026,whole_word,exact
+Xịt toàn thân,vi,spray body,,08/06/2026,whole_word,exact
+Bộ dụng cụ kiểm soát khu vực dân cư,vi,Residential Control Zone Kit,,08/06/2026,whole_word,exact
+Tưới tiêu điểm nguồn,vi,Point source irrigation,,08/06/2026,whole_word,exact
+Đo lưu lượng cơ học,vi,Mechanical flow rate measurement,,08/06/2026,whole_word,exact
+Chặn rô-to,vi,Block Rotors,,08/06/2026,whole_word,exact
+Ném,vi,Throw,,08/06/2026,whole_word,exact
+Khớp nối xoay,vi,Swing joint fitting,,08/06/2026,whole_word,exact
+Cảm biến mưa,vi,rain sensor,,08/06/2026,whole_word,exact
+Khu vực trồng trọt,vi,Planting zone,,08/06/2026,whole_word,exact
+Mỏ lết ống,vi,Pipe Wrench,,08/06/2026,whole_word,exact
+Nhà trẻ,vi,Nurseries,,08/06/2026,whole_word,exact
+Bộ điều khiển mô-đun,vi,Modular controller,,08/06/2026,whole_word,exact
+Khả năng vận hành lưu lượng thấp,vi,Low flow operating capability,,08/06/2026,whole_word,exact
+Đầu vào,vi,Inlet,,08/06/2026,whole_word,exact
+Mặt bích,vi,Flange,,08/06/2026,whole_word,exact
+Độ bốc thoát hơi nước ET,vi,ET rates,,08/06/2026,whole_word,exact
+Lưới thép không gỉ,vi,SS Mesh,,08/06/2026,whole_word,exact
+Bể thu nước tròn,vi,Round Catch Basin,,08/06/2026,whole_word,exact
+Thời gian chạy,vi,run time,,08/06/2026,whole_word,exact
+Khớp nối khuỷu tay nhanh,vi,Quick elbow coupling,,08/06/2026,whole_word,exact
+Bộ tạo bọt ren bù áp suất,vi,Pressure-Compensating Threaded Bubblers,,08/06/2026,whole_word,exact
+Hộp mực truyền thông NCC,vi,NCC communications cartridges,,08/06/2026,whole_word,exact
+Cảm biến độ ẩm,vi,Moisture Sensor,,08/06/2026,whole_word,exact
+Van DV lưu lượng thấp,vi,Low Flow DV Valve,,08/06/2026,whole_word,exact
+Bộ điều áp gắn trên ống,vi,High Flow Inline Pressure Regulators,,08/06/2026,whole_word,exact
+Cây Hackberry,vi,Hackberry Tree,,08/06/2026,whole_word,exact
+Nhựa kỹ thuật,vi,Engineered plastics,,08/06/2026,whole_word,exact
+Vòi phun sương 360 đô,vi,Full circle mist,,08/06/2026,whole_word,exact
+PII đã được ẩn danh,vi,Anonymized PII,,08/06/2026,whole_word,exact
+Rửa ngược,vi,Backflush,,08/06/2026,whole_word,exact
+Đường đua cỏ,vi,Turf track,,08/06/2026,whole_word,exact
+Tay cầm điều khiển dòng chảy nước uống,vi,Potable flow control handle,,08/06/2026,whole_word,exact
+Chiều cao bật lên đến giữa vòi phun,vi,Pop-Up Height to Mid-Nozzle,,08/06/2026,whole_word,exact
+Rơ-le chốt,vi,Latching Relay,,08/06/2026,whole_word,exact
+tổn thất ma sát,vi,friction loss,,08/06/2026,whole_word,exact
+Phụ kiện khóa xoay,vi,Twist Lock Fittings,,08/06/2026,whole_word,exact
+Quỹ đạo đầu ra của vòi phun,vi,Nozzle outlet trajectory,,08/06/2026,whole_word,exact
+MWELO,vi,MWELO,,08/06/2026,whole_word,exact
+Lưu lượng bổ sung tối đa,vi,Maximum additional flow rate,,08/06/2026,whole_word,exact
+Lưới khóa,vi,Locking grate,,08/06/2026,whole_word,exact
+Béc phun cánh đập Rotor,vi,Impact Rotors,,08/06/2026,whole_word,exact
+Cuộn dây van điện từ,vi,Valve solenoids,,08/06/2026,whole_word,exact
+Cụm khớp nối xoay,vi,Swing joint assembly,,08/06/2026,whole_word,exact
+Đầu vào có ren,vi,Threaded Inlet,,08/06/2026,whole_word,exact
+Khả năng chịu tải của van,vi,Station Load Capacity,,08/06/2026,whole_word,exact
+Cổ phần,vi,Stake,,08/06/2026,whole_word,exact
+Tưới phun,vi,Spray Irrigation,,08/06/2026,whole_word,exact
+Quyền truy cập người dùng theo cấp độ,vi,Tiered user access,,08/06/2026,whole_word,exact
+Bộ điều khiển van,vi,Station controller,,08/06/2026,whole_word,exact
+Luồng thí điểm,vi,Pilot flow,,08/06/2026,whole_word,exact
+Chất bôi trơn ống,vi,Pipe dope,,08/06/2026,whole_word,exact
+Độ bốc thoát hơi nước ET thông minh,vi,Evapotranspiration (ET) intelligence,,08/06/2026,whole_word,exact
+Ống gân xoắn,vi,Corrugated Pipe,,08/06/2026,whole_word,exact
+Điều kiện tăng đột biến,vi,Surge conditions,,08/06/2026,whole_word,exact
+Vòi phun dạng dải,vi,Strip Nozzles,,08/06/2026,whole_word,exact
+Van điều áp,vi,Pressure-regulating valve,,08/06/2026,whole_word,exact
+Tài nguyên nước mặt tự nhiên,vi,Natural surface water resources,,08/06/2026,whole_word,exact
+Vi phun,vi,Micro-spray,,08/06/2026,whole_word,exact
+Hành động chà rửa,vi,Scrubbing action,,08/06/2026,whole_word,exact
+Khoảng cách giữa các hàng,vi,Row spacing,,08/06/2026,whole_word,exact
+Vòng quay cánh quạt chính,vi,Primary rotor arc,,08/06/2026,whole_word,exact
+Van một chiều chịu tải nặng,vi,Heavy-Duty Check Valve,,08/06/2026,whole_word,exact
+Lưu lượng,vi,flow rate,,08/06/2026,whole_word,exact
+Cánh điều chỉnh khoảng cách (DA),vi,Distance control flap (DA),,08/06/2026,whole_word,exact
+trồng thưa,vi,sparse planting,,08/06/2026,whole_word,exact
+Thiết bị đo lượng mưa,vi,Raingauge,,08/06/2026,whole_word,exact
+Vòi phun đối diện,vi,Opposing Nozzle,,08/06/2026,whole_word,exact
+Ống HDPE,vi,HDPE (High-density polyethylene),,08/06/2026,whole_word,exact
+Tháp pháo gia cố,vi,Reinforced turret,,08/06/2026,whole_word,exact
+Bộ điều áp,vi,Pressure regulator,,08/06/2026,whole_word,exact
+Trạm Ping,vi,Ping Station,,08/06/2026,whole_word,exact
+Tình trạng treo vi điều khiển,vi,Micro-controller lock-up,,08/06/2026,whole_word,exact
+Bộ điều khiển cụm (CCU),vi,Cluster Control Unit (CCU),,08/06/2026,whole_word,exact
+Màng lọc,vi,Filter screen,,08/06/2026,whole_word,exact
+Dòng nước liên tục,vi,Continuous water stream,,08/06/2026,whole_word,exact
+Đầu phun nước bật lên,vi,Pop-Up Spray Heads,,08/06/2026,whole_word,exact
+Cây vòi phun,vi,Nozzle tree,,08/06/2026,whole_word,exact
+van chính,vi,master valve,,08/06/2026,whole_word,exact
+Máy cắt dọc,vi,Lengthwise slitter,,08/06/2026,whole_word,exact
+Hành động tự xả nước,vi,Self-flushing action,,08/06/2026,whole_word,exact
+Vòi phun nước,vi,Sprinkler,,08/06/2026,whole_word,exact
+Vòi phun.,vi,Spray nozzle,,08/06/2026,whole_word,exact
+Solenoid tự làm sạch,vi,Self-Cleaning Solenoid,,08/06/2026,whole_word,exact
+Ống uốn,vi,Pipe bends,,08/06/2026,whole_word,exact
+Rôto hình bán nguyệt,vi,Part circle rotor,,08/06/2026,whole_word,exact
+Chế độ Phát Sóng Ghép Nhanh,vi,Quick Pair Broadcast Mode,,08/06/2026,whole_word,exact
+áp suất động lực học,vi,dynamic pressure,,08/06/2026,whole_word,exact
+Nắp khuếch tán PC,vi,PC Diffuser Cap,,08/06/2026,whole_word,exact
+Đế vòi phun,vi,Nozzle base,,08/06/2026,whole_word,exact
+Đầu nối dạng gắm,vi,Barb,,08/06/2026,whole_word,exact
+Vỏ bọc NEMA,vi,NEMA enclosure,,08/06/2026,whole_word,exact
+Quỹ đạo vòi phun,vi,Nozzle trajectory,,08/06/2026,whole_word,exact
+Nhỏ giọt,vi,Drip,,08/06/2026,whole_word,exact
+Đàu nhỏ giọt ghim,vi,Emitter,,08/06/2026,whole_word,exact
+Đầu ra có ren ngoài,vi,Male threaded outlet,,08/06/2026,whole_word,exact
+Mặt nạ bảo vệ,vi,Faceplate,,08/06/2026,whole_word,exact
+van một chiều,vi,check valve,,08/06/2026,whole_word,exact
+Van Xả Nước Bật Lên (DPUV),vi,Drainage Pop-Up Valve (DPUV),,08/06/2026,whole_word,exact
+sự thay đổi độ cao,vi,elevation change,,08/06/2026,whole_word,exact
+Bảng giao tiếp,vi,Communication board,,08/06/2026,whole_word,exact
+Trì hoãn van,vi,Station Delay,,08/06/2026,whole_word,exact
+Tưới tiêu thủ công,vi,Manual irrigation,,08/06/2026,whole_word,exact
+Vòi phun lỗ thẳng,vi,Straight Bore Nozzle,,08/06/2026,whole_word,exact
+Khuỷu nối ren xoắn,vi,Spiral Barb Elbow,,08/06/2026,whole_word,exact
+Áo khoác PE,vi,PE jacket,,08/06/2026,whole_word,exact
+Không kiểm soát luồng,vi,Non-Flow Control,,08/06/2026,whole_word,exact
+Ren ống quốc gia,vi,National Pipe Thread,,08/06/2026,whole_word,exact
+sục khí (quá trình sục khí),vi,aerated (aeration),,08/06/2026,whole_word,exact
+Cảm biến nhịp tim,vi,Pulse sensors,,08/06/2026,whole_word,exact
+Hộp mực NCC,vi,NCC cartridge,,08/06/2026,whole_word,exact
+Giữ lại,vi,hold back,,08/06/2026,whole_word,exact
+Nứt do ứng suất môi trường (ESCR),vi,Environmental Stress Cracking (ESCR),,08/06/2026,whole_word,exact
+Van một chiều,vi,Check valve,,08/06/2026,whole_word,exact
+Sông Cache,vi,Cache River,,08/06/2026,whole_word,exact
+Vỏ nhựa ASA,vi,ASA plastic enclosure,,08/06/2026,whole_word,exact
+Lưới thép không gỉ dạng đan.,vi,SS woven wire mesh screen,,08/06/2026,whole_word,exact
+Máy móc lốp cao su,vi,Rubber-tired machinery,,08/06/2026,whole_word,exact
+Phạm vi bán kính,vi,Radius Range,,08/06/2026,whole_word,exact
+Trạm Thời Tiết Đa Điểm,vi,Multiple Weather Station,,08/06/2026,whole_word,exact
+Tổn thất bay hơi,vi,Evaporative loss,,08/06/2026,whole_word,exact
+Lưu lượng dòng chảy xuôi,vi,Forward flow rate,,08/06/2026,whole_word,exact
+Thời gian hoạt động của hệ thống phun nước,vi,Sprinkler run times,,08/06/2026,whole_word,exact
+Thiết bị ngắt chân không áp suất (PVB),vi,Pressure vacuum breaker (PVB),,08/06/2026,whole_word,exact
+Nắp khuếch tán phát xạ PC,vi,PC Emitter Diffuser Cap,,08/06/2026,whole_word,exact
+Phụ kiện loại khóa,vi,Lock Type Fittings,,08/06/2026,whole_word,exact
+Vòi phun góc thấp,vi,Low Angle Nozzle,,08/06/2026,whole_word,exact
+Ngừng hoạt động lưu lượng cao,vi,High-flow shutdown,,08/06/2026,whole_word,exact
+hệ thống phun nước,vi,sprinkler,,08/06/2026,whole_word,exact
+Tháp phun vòi,vi,Nozzle turret,,08/06/2026,whole_word,exact
+Vòi phun nước tưới sân golf dạng vòng cung.,vi,Part Circle Golf Rotors,,08/06/2026,whole_word,exact
+Vòi phun vi mô,vi,Micro-Sprinkler,,08/06/2026,whole_word,exact
+Đầu phát nước lưu lượng thấp,vi,Low flow emitters,,08/06/2026,whole_word,exact
+Được định mức tải,vi,Load rated,,08/06/2026,whole_word,exact
+Ống nhánh,vi,Distribution Tubing,,08/06/2026,whole_word,exact
+Vùng rễ cây,vi,Plant root zone,,08/06/2026,whole_word,exact
+Vỏ đầu phun góc thấp,vi,Low angle nozzle housing,,08/06/2026,whole_word,exact
+Vòi phun nước cuối ống.,vi,Hose end sprinklers,,08/06/2026,whole_word,exact
+Pít-tông,vi,Plunger,,08/06/2026,whole_word,exact
+Rơ-le khởi động van/chạy bơm chính,vi,Master valve/pump start relay,,08/06/2026,whole_word,exact
+Lò xo bị nén,vi,Captive spring,,08/06/2026,whole_word,exact
+vòi phun xoay,vi,rotary nozzle,,08/06/2026,whole_word,exact
+Cảm biến mưa ngừng hoạt động,vi,Rain Sensor shutoff,,08/06/2026,whole_word,exact
+Vòi phun nước tác động bằng nhựa,vi,Plastic Impact Sprinkler,,08/06/2026,whole_word,exact
+Các vùng chịu lạnh của cây trồng,vi,Plant hardiness zones,,08/06/2026,whole_word,exact
+Loại trực tiếp,vi,Knock-outs,,08/06/2026,whole_word,exact
+Phun sương,vi,Fogging,,08/06/2026,whole_word,exact
+điều chỉnh theo mùa,vi,seasonal adjust,,08/06/2026,whole_word,exact
+Tưới tiêu theo chương trình,vi,Programmed irrigation,,08/06/2026,whole_word,exact
+Bộ giải mã xung,vi,Pulse decoder,,08/06/2026,whole_word,exact
+bộ lọc,vi,filter,,08/06/2026,whole_word,exact
+nắp van,vi,Diaphragm,,08/06/2026,whole_word,exact
+Mô hình đa trạm,vi,Multi-station models,,08/06/2026,whole_word,exact
+Tổng số tối đa các trạm ICM và vệ tinh.,vi,Maximum Combined ICM and Satellite Stations,,08/06/2026,whole_word,exact
+Vòi phun có tốc độ tưới đồng đều,vi,Matched Precipitation Rate Nozzles,,08/06/2026,whole_word,exact
+Khả năng chịu tải,vi,Load rating,,08/06/2026,whole_word,exact
+Dây tín hiệu van,vi,Irrigation wire,,08/06/2026,whole_word,exact
+Bộ lọc màn hình quét hút thủy lực,vi,Hydraulic Suction Scanning Screen Filter,,08/06/2026,whole_word,exact
+Vòng đệm đôi,vi,Double O Ring,,08/06/2026,whole_word,exact
+Dấu ngoặc,vi,Brackets,,08/06/2026,whole_word,exact
+Cổng vòi phun chính,vi,Primary nozzle port,,08/06/2026,whole_word,exact
+Vòi phun áp suất bù áp lưu lượng thấp,vi,Pressure-compensated low-volume spray nozzle,,08/06/2026,whole_word,exact
+Vòi phun,vi,Nozzle,,08/06/2026,whole_word,exact
+Thiết bị đa ổ cắm,vi,Multi-Outlet Device,,08/06/2026,whole_word,exact
+Phụ kiện lắp đặt,vi,Mounting hardware,,08/06/2026,whole_word,exact
+Đầu nhỏ giọt bù áp.,vi,Pressure-compensating emitter,,08/06/2026,whole_word,exact
+Đầu vào ren trong NPT phía dưới,vi,NPT female bottom threaded inlet,,08/06/2026,whole_word,exact
+Ống nối ren NPT,vi,NPT threaded risers,,08/06/2026,whole_word,exact
+Đầu vào ren ngoài,vi,Male threaded inlet,,08/06/2026,whole_word,exact
+Bộ lọc dung lượng lớn,vi,Large-Capacity Filter,,08/06/2026,whole_word,exact
+Máy Phá Jet,vi,Jet-Breaker,,08/06/2026,whole_word,exact
+Phụ kiện gắm,vi,Insert fitting,,08/06/2026,whole_word,exact
+Đầu nhỏ giọt điểm nguồn lưu lượng trung bình bù áp.,vi,Pressure Compensating Point-Source Medium-Flow Emitters,,08/06/2026,whole_word,exact
+Thép không gỉ thiêu kết nhiều lớp,vi,Multi-layer sintered SS,,08/06/2026,whole_word,exact
+Béc phun cánh đập,vi,Impact sprinkler,,08/06/2026,whole_word,exact
+Xả,vi,Flush,,08/06/2026,whole_word,exact
+Vòi phun đầy đủ,vi,Full Nozzles,,08/06/2026,whole_word,exact
+bảng,vi,Board,,08/06/2026,whole_word,exact
+Lập trình ngoài hộp van,vi,Out-of-Valve Box Programming,,08/06/2026,whole_word,exact
+Cảm biến lưu lượng cánh quạt,vi,Impeller Flow Sensors,,08/06/2026,whole_word,exact
+Giá đỡ lắp đặt,vi,Mounting Bracket,,08/06/2026,whole_word,exact
+Rô-to Tầm Xa,vi,Long-Range Rotor,,08/06/2026,whole_word,exact
+Số dư tài khoản nhà phân phối,vi,Distributor account balance,,08/06/2026,whole_word,exact
+Khả năng chống xoắn,vi,Kink resistance,,08/06/2026,whole_word,exact
+Đồng hồ nước kết nối Internet (ICWM),vi,Internet Connected Water Meters (ICWM),,08/06/2026,whole_word,exact
+Vòi phun 360 độ,vi,Full circle low-flow sprinkler,,08/06/2026,whole_word,exact
+Trống,vi,Drum,,08/06/2026,whole_word,exact
+Bộ kit điều khiển van,vi,control zone kit,,08/06/2026,whole_word,exact
+Dây van tổng,vi,MV Wire,,08/06/2026,whole_word,exact
+Van chính / Bơm,vi,Master Valve /Pump,,08/06/2026,whole_word,exact
+Bộ kit kiểm soát quá lưu lượng ở van,vi,High Flow Commercial Control Zone Kits,,08/06/2026,whole_word,exact
+Béc phun cánh đập,vi,Impact Sprinklers,,08/06/2026,whole_word,exact
+van xả,vi,flush valve,,08/06/2026,whole_word,exact
+Bộ kit điều khiển van,vi,Control Zone Kit,,08/06/2026,whole_word,exact
+Thước thủy,vi,Bubble Level,,08/06/2026,whole_word,exact
+Chèn,vi,Insert,,08/06/2026,whole_word,exact
+Buna-N,vi,Buna-N,,08/06/2026,whole_word,exact
+nguồn cấp trung tâm,vi,center feed,,08/06/2026,whole_word,exact
+"""Thoát hơi nước và bốc hơi (ET)""",vi,Evapotranspiration (ET),,08/06/2026,whole_word,exact
+Liên kết,vi,Coupling,,08/06/2026,whole_word,exact
+Tiết diện dây dẫn,vi,Conductor cross section,,08/06/2026,whole_word,exact
+Bộ phận tách cát ly tâm,vi,Centrifugal Sand Separator,,08/06/2026,whole_word,exact
+Rain Bird Academy™,vi,Rain Bird Academy™,Alison,12/29/2025,whole_word,exact
+Tough Bird®,vi,Tough Bird®,Alison,12/29/2025,whole_word,exact
+Integrated Sensor,vi,Integrated Sensor,Alison,12/29/2025,whole_word,exact
+ET Spreadsheet™,vi,ET Spreadsheet™,Alison,12/29/2025,whole_word,exact
+Xeri-Bug™,vi,Xeri-Bug™,Alison,12/29/2025,whole_word,exact
+Falcon®,vi,Falcon®,Alison,12/29/2025,whole_word,exact
+Cost Estimator™,vi,Cost Estimator™,Alison,12/29/2025,whole_word,exact
+Flow-Shield™,vi,Flow-Shield™,Alison,12/29/2025,whole_word,exact
+Flo-Graph™,vi,Flo-Graph™,Alison,12/29/2025,whole_word,exact
+Xeri-Spray™,vi,Xeri-Spray™,Alison,12/29/2025,whole_word,exact
+MAXICOM®,vi,MAXICOM®,Alison,12/29/2025,whole_word,exact
+Smart Weather™,vi,Smart Weather™,Alison,12/29/2025,whole_word,exact
+GritX™,vi,GritX™,Alison,12/29/2025,whole_word,exact
+LINK™,vi,LINK™,Alison,12/29/2025,whole_word,exact
+Branch™,vi,Branch™,Alison,12/29/2025,whole_word,exact
+ClimateMinder®,vi,ClimateMinder®,Alison,12/29/2025,whole_word,exact
+Flograph™,vi,Flograph™,Alison,12/29/2025,whole_word,exact
+PJ™,vi,PJ™,Alison,12/29/2025,whole_word,exact
+Rain Watch™,vi,Rain Watch™,Alison,12/29/2025,whole_word,exact
+Star Bird™,vi,Star Bird™,Alison,12/29/2025,whole_word,exact
+UNI-Spray™,vi,UNI-Spray™,Alison,12/29/2025,whole_word,exact
+Map Office™,vi,Map Office™,Alison,12/29/2025,whole_word,exact
+Talon™,vi,Talon™,Alison,12/29/2025,whole_word,exact
+Seal-A-Matic™,vi,Seal-A-Matic™,Alison,12/29/2025,whole_word,exact
+Xeri-Bubblers™,vi,Xeri-Bubblers™,Alison,12/29/2025,whole_word,exact
+StratusLT™,vi,StratusLT™,Alison,12/29/2025,whole_word,exact
+MIM™,vi,MIM™,Alison,12/29/2025,whole_word,exact
+TG-25™,vi,TG-25™,Alison,12/29/2025,whole_word,exact
+Lpn™,vi,Lpn™,Alison,12/29/2025,whole_word,exact
+Micro-Quick™,vi,Micro-Quick™,Alison,12/29/2025,whole_word,exact
+RD1800™,vi,RD1800™,Alison,12/29/2025,whole_word,exact
+The FREEDOM System™,vi,The FREEDOM System™,Alison,12/29/2025,whole_word,exact
+Top Serviceable Rock,vi,Top Serviceable Rock,Alison,12/29/2025,whole_word,exact
+MIM-LINK™,vi,MIM-LINK™,Alison,12/29/2025,whole_word,exact
+Maxi-Paw™,vi,Maxi-Paw™,Alison,12/29/2025,whole_word,exact
+Smart Sensors™,vi,Smart Sensors™,Alison,12/29/2025,whole_word,exact
+Pop-Top™,vi,Pop-Top™,Alison,12/29/2025,whole_word,exact
+Shrub Bug™,vi,Shrub Bug™,Alison,12/29/2025,whole_word,exact
+Stratus™,vi,Stratus™,Alison,12/29/2025,whole_word,exact
+FREEDOM-Pad™,vi,FREEDOM-Pad™,Alison,12/29/2025,whole_word,exact
+MAXI™,vi,MAXI™,Alison,12/29/2025,whole_word,exact
+IC System™,vi,IC System™,Alison,12/29/2025,whole_word,exact
+LP™,vi,LP™,Alison,12/29/2025,whole_word,exact
+ICS™,vi,ICS™,Alison,12/29/2025,whole_word,exact
+EAGLE’s Nest™,vi,EAGLE’s Nest™,Alison,12/29/2025,whole_word,exact
+EAGLE™,vi,EAGLE™,Alison,12/29/2025,whole_word,exact
+CIRRUSPRO™,vi,CIRRUSPRO™,Alison,12/29/2025,whole_word,exact
+CYCLIK™,vi,CYCLIK™,Alison,12/29/2025,whole_word,exact
+Cirrus™,vi,Cirrus™,Alison,12/29/2025,whole_word,exact
+Cycle + Soak™,vi,Cycle & Soak,Asleif,12/09/2025,whole_word,exact
+Soil Manager™,vi,Soil Manager™,Alison,12/29/2025,whole_word,exact
+Micro Bird®,vi,Micro Bird®,Alison,12/29/2025,whole_word,exact
+Pump Monitor™,vi,Pump Monitor™,Alison,12/29/2025,whole_word,exact
+Course Monitor™,vi,Course Monitor™,Alison,12/29/2025,whole_word,exact
+1800®,vi,1800®,Alison,12/29/2025,whole_word,exact
+Minimum ET™,vi,Minimum ET™,Alison,12/29/2025,whole_word,exact
+Micro Bird Spinner®,vi,Micro Bird Spinner®,Alison,12/29/2025,whole_word,exact
+Designer Notes™,vi,Designer Notes™,Alison,12/29/2025,whole_word,exact
+Flo-Manager®,vi,Flo-Manager®,Alison,12/29/2025,whole_word,exact
+Rain Can®,vi,Rain Can®,Alison,12/29/2025,whole_word,exact
+Water Bird® *,vi,Water Bird® *,Alison,12/29/2025,whole_word,exact
+Select Contractor®,vi,Select Contractor®,Alison,12/29/2025,whole_word,exact
+Floguard™,vi,Floguard™,Alison,12/29/2025,whole_word,exact
+Memory Arc®,vi,Memory Arc®,Alison,12/29/2025,whole_word,exact
+Smart,vi,Smart,Alison,12/29/2025,whole_word,exact
+Black Bird®,vi,Black Bird®,Alison,12/29/2025,whole_word,exact
+SimpleIRR™ /Simple IRR™,vi,SimpleIRR™ /Simple IRR™,Alison,12/29/2025,whole_word,exact
+Course View™,vi,Course View™,Alison,12/29/2025,whole_word,exact
+MIMS™,vi,MIMS™,Alison,12/29/2025,whole_word,exact
+Rain Net™,vi,Rain Net™,Alison,12/29/2025,whole_word,exact
+Course Manager™,vi,Course Manager™,Alison,12/29/2025,whole_word,exact
+TBOS-II™,vi,TBOS-II™,Alison,12/29/2025,whole_word,exact
+Pump™/SmartPump™,vi,Pump™/SmartPump™,Alison,12/29/2025,whole_word,exact
+Hole View™,vi,Hole View™,Alison,12/29/2025,whole_word,exact
+ExactEdge™,vi,ExactEdge™,Alison,12/29/2025,whole_word,exact
+Rain Curtain™,vi,Rain Curtain™,Alison,12/29/2025,whole_word,exact
+MDI™,vi,MDI™,Alison,12/29/2025,whole_word,exact
+Screen™,vi,Screen™,Alison,12/29/2025,whole_word,exact
+Rain Bird,vi,Rain Bird,,,whole_word,exact
