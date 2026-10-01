@@ -1,0 +1,571 @@
+Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
+Tel ek yeri,tr,Wire splice,,,whole_word,exact
+Hava koşullarına dayanıklı NEMA muhafaza,tr,Weatherproof NEMA enclosure,,,whole_word,exact
+Su akışı,tr,Water run-off,,,whole_word,exact
+Tel kılıf,tr,Wire jacket,,,whole_word,exact
+Vandalizme dayanıklı kilitli ızgara,tr,Vandal resistant locking grate,,,whole_word,exact
+Tel yolu,tr,Wire path,,,whole_word,exact
+Kademeli kullanıcı erişimi,tr,Tiered user access,,,whole_word,exact
+İZLER,tr,TRACKS,,,whole_word,exact
+Bağlama Kazığı,tr,Tie-Down Stake,,,whole_word,exact
+Çim çimi,tr,Turfgrass,,,whole_word,exact
+Tel somunları,tr,Wire nuts,,,whole_word,exact
+Valf solenoidleri,tr,Valve solenoids,,,whole_word,exact
+Dişli kapak,tr,Threaded cap,,,whole_word,exact
+Kare Atrium Izgara,tr,Square Atrium Grate,,,whole_word,exact
+Su gereksinimleri,tr,Water requirements,,,whole_word,exact
+Manuel sulama,tr,Manual irrigation,,,whole_word,exact
+Kartuş,tr,Cartridge,,,whole_word,exact
+Ana valf/pompa çalıştırma rölesi,tr,Master valve/pump start relay,,,whole_word,exact
+Büyük Kapasiteli Disk Filtre,tr,Large-Capacity Disc Filter,,,whole_word,exact
+Sifon,tr,Flush,,,whole_word,exact
+Tambur,tr,Drum,,,whole_word,exact
+HDPE (Yüksek yoğunluklu polietilen),tr,HDPE (High-density polyethylene),,,whole_word,exact
+Tam daire kabarcık,tr,Full-Circle Bubbler,,,whole_word,exact
+Emisyon Cihazı,tr,Emission Device,,,whole_word,exact
+Evapotranspirasyon (ET),tr,Evapotranspiration (ET),,,whole_word,exact
+Barrel,tr,Barrel,,,whole_word,exact
+Bitki türü faktörü,tr,Plant species factor,,,whole_word,exact
+Büyük Kapasiteli Filtre,tr,Large-Capacity Filter,,,whole_word,exact
+Dağıtım Borusu,tr,Distribution Tubing,,,whole_word,exact
+Pano,tr,Board,,,whole_word,exact
+Vana yuvası,tr,Valve Seat,,,whole_word,exact
+Kablo bölmesi,tr,Wire bay,,,whole_word,exact
+Spiral Dikenli Dirsek,tr,Spiral Barb Elbow,,,whole_word,exact
+Dikey yeşil alanlar,tr,Vertical green spaces,,,whole_word,exact
+Dönen çengelli,tr,Rotating barb,,,whole_word,exact
+Boru deliği çıkıntıları,tr,Pipe hole knock-outs,,,whole_word,exact
+Islak/nemli yerler,tr,Wet/damp locations,,,whole_word,exact
+İstasyon Hızı,tr,Station rate,,,whole_word,exact
+PE yalıtım kılıfı,tr,PE insulation jacket,,,whole_word,exact
+Fırçalama,tr,Scrubber,,,whole_word,exact
+Pompa salmastra contası,tr,Pump packing seal,,,whole_word,exact
+Çoklu akışlı nozullar,tr,Nozzles with multiple streams,,,whole_word,exact
+Akış Sensörü Ekleme,tr,Insert Flow Sensor,,,whole_word,exact
+İstasyon Yük Kapasitesi,tr,Station Load Capacity,,,whole_word,exact
+Darbe sensörleri,tr,Pulse sensors,,,whole_word,exact
+Nozul çıkış yörüngesi,tr,Nozzle outlet trajectory,,,whole_word,exact
+Basınç Dengeleyici Nokta Kaynaklı Orta Akışlı Emitörler,tr,Pressure Compensating Point-Source Medium-Flow Emitters,,,whole_word,exact
+Çalışma Akış Aralığı,tr,Operating Flow Range,,,whole_word,exact
+Çoklu İstasyon Kapasitesi,tr,Multiple Station Capacity,,,whole_word,exact
+Manuel kilit vanası,tr,Lock manual valve,,,whole_word,exact
+Tam Nozullar,tr,Full Nozzles,,,whole_word,exact
+Hızlı Değiştirilebilir Nozul,tr,Quick-Change Nozzle,,,whole_word,exact
+PFR-RS Yükseltici,tr,PFR-RS Riser,,,whole_word,exact
+Yüksek akışlı kapatma,tr,High-flow shutdown,,,whole_word,exact
+Tam Daire Fan,tr,Full circle Fan,,,whole_word,exact
+Çift O Halka,tr,Double O Ring,,,whole_word,exact
+Merkezi Kontrolör Paketi,tr,Central Controller Package,,,whole_word,exact
+Boyuna kesici,tr,Lengthwise slitter,,,whole_word,exact
+Buharlaşma Kaybı,tr,Evaporative loss,,,whole_word,exact
+AC güç kablosu,tr,AC power cord,,,whole_word,exact
+Devre kartı,tr,Circuit board,,,whole_word,exact
+Piston,tr,Plunger,,,whole_word,exact
+Yarıçap,tr,Radius,,,whole_word,exact
+Üç Katmanlı Boru,tr,Triple Wall Pipe,,,whole_word,exact
+Karşıt Nozul,tr,Opposing Nozzle,,,whole_word,exact
+Kıvrılma,tr,Kinking,,,whole_word,exact
+Kap,tr,Basin,,,whole_word,exact
+Yarıçap Aralığı,tr,Radius Range,,,whole_word,exact
+Cycle + Soak™,tr,Cycle + Soak™,Asleif,12/09/2025,whole_word,exact
+Cycle + Soak™,tr,Cycle & Soak,Asleif,12/09/2025,whole_word,exact
+RAINBIRD®,tr,RAINBIRD®,Alison,12/29/2025,whole_word,exact
+LNK™,tr,LNK™,Alison,12/29/2025,whole_word,exact
+Devre Kesici,tr,Circuit Breaker,,,whole_word,exact
+Akıllı Kontrol,tr,Smart Control,,,whole_word,exact
+Atış,tr,Throw,,,whole_word,exact
+Dişli,tr,Thread,,,whole_word,exact
+Kazık,tr,Stake,,,whole_word,exact
+Dişli adaptörler,tr,Thread adapters,,,whole_word,exact
+Manifold,tr,Manifold,,,whole_word,exact
+Kanca,tr,Barb,,,whole_word,exact
+dolgu,tr,Backfill,,,whole_word,exact
+MWELO,tr,MWELO,,,whole_word,exact
+Bird®,tr,Bird®,Alison,12/29/2025,whole_word,exact
+1800®,tr,1800®,Alison,12/29/2025,whole_word,exact
+Pump Profiling™,tr,Pump Profiling™,Alison,12/29/2025,whole_word,exact
+Easy Rain®,tr,Easy Rain®,Alison,12/29/2025,whole_word,exact
+ClimateMinder®,tr,ClimateMinder®,Alison,12/29/2025,whole_word,exact
+Xerigation®,tr,Xerigation®,Alison,12/29/2025,whole_word,exact
+Preferred Drip Installer™,tr,Preferred Drip Installer™,Alison,12/29/2025,whole_word,exact
+MAXICOM®,tr,MAXICOM®,Alison,12/29/2025,whole_word,exact
+Quick Flush™,tr,Quick Flush™,Alison,12/29/2025,whole_word,exact
+Map Office™,tr,Map Office™,Alison,12/29/2025,whole_word,exact
+Course Designer™,tr,Course Designer™,Alison,12/29/2025,whole_word,exact
+RD1800™,tr,RD1800™,Alison,12/29/2025,whole_word,exact
+Star Bird™,tr,Star Bird™,Alison,12/29/2025,whole_word,exact
+Rain Bucket™,tr,Rain Bucket™,Alison,12/29/2025,whole_word,exact
+Black Bird®,tr,Black Bird®,Alison,12/29/2025,whole_word,exact
+EAGLE’s Tail™,tr,EAGLE’s Tail™,Alison,12/29/2025,whole_word,exact
+QuickIRR™ /Quick IRR™,tr,QuickIRR™ /Quick IRR™,Alison,12/29/2025,whole_word,exact
+Rain Net™,tr,Rain Net™,Alison,12/29/2025,whole_word,exact
+Rain Bird Academy™,tr,Rain Bird Academy™,Alison,12/29/2025,whole_word,exact
+Mini Bird®,tr,Mini Bird®,Alison,12/29/2025,whole_word,exact
+Designer Notes™,tr,Designer Notes™,Alison,12/29/2025,whole_word,exact
+Copper Shield™,tr,Copper Shield™,Alison,12/29/2025,whole_word,exact
+Branch™,tr,Branch™,Alison,12/29/2025,whole_word,exact
+ET Checkbook™,tr,ET Checkbook™,Alison,12/29/2025,whole_word,exact
+Course Manager™,tr,Course Manager™,Alison,12/29/2025,whole_word,exact
+Smart,tr,Smart,Alison,12/29/2025,whole_word,exact
+GritX™,tr,GritX™,Alison,12/29/2025,whole_word,exact
+PJ™,tr,PJ™,Alison,12/29/2025,whole_word,exact
+SimpleIRR™ /Simple IRR™,tr,SimpleIRR™ /Simple IRR™,Alison,12/29/2025,whole_word,exact
+Pump™/SmartPump™,tr,Pump™/SmartPump™,Alison,12/29/2025,whole_word,exact
+Integrated Sensor,tr,Integrated Sensor,Alison,12/29/2025,whole_word,exact
+Rain Check™,tr,Rain Check™,Alison,12/29/2025,whole_word,exact
+MIM™,tr,MIM™,Alison,12/29/2025,whole_word,exact
+CCS™,tr,CCS™,Alison,12/29/2025,whole_word,exact
+ET Spreadsheet™,tr,ET Spreadsheet™,Alison,12/29/2025,whole_word,exact
+Course Data Builder™,tr,Course Data Builder™,Alison,12/29/2025,whole_word,exact
+StratusLT™,tr,StratusLT™,Alison,12/29/2025,whole_word,exact
+ExactEdge™,tr,ExactEdge™,Alison,12/29/2025,whole_word,exact
+Pop-Top™,tr,Pop-Top™,Alison,12/29/2025,whole_word,exact
+Micro-Quick™,tr,Micro-Quick™,Alison,12/29/2025,whole_word,exact
+Clam Shell™,tr,Clam Shell™,Alison,12/29/2025,whole_word,exact
+SDC-1™,tr,SDC-1™,Alison,12/29/2025,whole_word,exact
+MI Series™,tr,MI Series™,Alison,12/29/2025,whole_word,exact
+IQ™,tr,IQ™,Alison,12/29/2025,whole_word,exact
+IC CONNECT™,tr,IC CONNECT™,Alison,12/29/2025,whole_word,exact
+LINK™,tr,LINK™,Alison,12/29/2025,whole_word,exact
+MIM-LINK™,tr,MIM-LINK™,Alison,12/29/2025,whole_word,exact
+EAGLE’s Nest™,tr,EAGLE’s Nest™,Alison,12/29/2025,whole_word,exact
+Lpn™,tr,Lpn™,Alison,12/29/2025,whole_word,exact
+CIRRUSPRO™,tr,CIRRUSPRO™,Alison,12/29/2025,whole_word,exact
+System™,tr,System™,Alison,12/29/2025,whole_word,exact
+Cirrus™,tr,Cirrus™,Alison,12/29/2025,whole_word,exact
+Maxi-Paw™,tr,Maxi-Paw™,Alison,12/29/2025,whole_word,exact
+CYCLIK™,tr,CYCLIK™,Alison,12/29/2025,whole_word,exact
+CirrusPRO™,tr,CirrusPRO™,Alison,12/29/2025,whole_word,exact
+Maxi-Bird™,tr,Maxi-Bird™,Alison,12/29/2025,whole_word,exact
+Filtre ekranı,tr,Filter screen,,,whole_word,exact
+Bağlantı,tr,Coupling,,,whole_word,exact
+Sepet Filtre,tr,Basket Filter,,,whole_word,exact
+Orta bilezik,tr,Center collar,,,whole_word,exact
+Püskürtme Başlığı Değişken Yaylı Nozullar,tr,Spray Head Variable Arc Nozzles,,,whole_word,exact
+Kenar Koruyucu,tr,Edge Guard,,,whole_word,exact
+İki Telli Dekoder Sensör Dekoder,tr,Two-Wire Decoder Sensor Decoder,,,whole_word,exact
+Dalgalanma koruması,tr,Surge Protection,,,whole_word,exact
+Çivili yayıcı,tr,Spiked emitter,,,whole_word,exact
+Basınç Dengeleme Tam Döngü Kabarcıklar,tr,Pressure Compensating Full-Circle Bubblers,,,whole_word,exact
+Güçlendirilmiş taret,tr,Reinforced turret,,,whole_word,exact
+Vandalizme/Tahriklere Dayanıklı,tr,Vandal/Tamper Resistant,,,whole_word,exact
+Çim pist,tr,Turf track,,,whole_word,exact
+Fıskiye sistemi,tr,Sprinkler system,,,whole_word,exact
+İstasyon kontrol cihazı,tr,Station controller,,,whole_word,exact
+Yenileme,tr,Retrofitting,,,whole_word,exact
+Darbe Monitörü,tr,Pulse Monitor,,,whole_word,exact
+Tel sıyırıcı,tr,Wire Stripper,,,whole_word,exact
+Birincil nozul bağlantı noktası,tr,Primary nozzle port,,,whole_word,exact
+PCT Fıskiye,tr,PCT Bubbler,,,whole_word,exact
+Nozül Güzergahı,tr,Nozzle trajectory,,,whole_word,exact
+Açılır rotor,tr,Pop-up rotor,,,whole_word,exact
+Kilitleme,tr,Locking,,,whole_word,exact
+Çalı Adaptörleri,tr,Shrub Adapters,,,whole_word,exact
+Hızlı Bağlantı Valfi,tr,Quick-coupling valve,,,whole_word,exact
+Bitki kök bölgesi,tr,Plant root zone,,,whole_word,exact
+Artı (+) Akış kapatma,tr,Plus (+) Flow shutoff,,,whole_word,exact
+Muhafazalı Kilit Solenoidi,tr,Potted latching solenoid,,,whole_word,exact
+nozul deseni hizalaması,tr,Nozzle pattern alignment,,,whole_word,exact
+Fidanlıklar,tr,Nurseries,,,whole_word,exact
+Nem Sensörü,tr,Moisture Sensor,,,whole_word,exact
+Ana Valf Su Penceresi,tr,Master Valve Water Window,,,whole_word,exact
+Hortum ucu yağmurlama başlıkları,tr,Hose end sprinklers,,,whole_word,exact
+Ön panel,tr,Faceplate,,,whole_word,exact
+Sisleme,tr,Fogging,,,whole_word,exact
+Düşük Yağış Oranlı Nozullar,tr,Low Precipitation Rate Nozzles,,,whole_word,exact
+Mühendislik Plastikleri,tr,Engineered plastics,,,whole_word,exact
+Akıllı Valf Modülleri (IVM),tr,Intelligent Valve Modules (IVM),,,whole_word,exact
+Santrifüjlü Kum Ayırıcı,tr,Centrifugal Sand Separator,,,whole_word,exact
+Boot Camp,tr,Boot Camp,,,whole_word,exact
+Düşük Açılı Nozul,tr,Low Angle Nozzle,,,whole_word,exact
+Entegre Kontrol (IC),tr,Integrated Control (IC),,,whole_word,exact
+Kilitli Tip Bağlantı Parçaları,tr,Lock Type Fittings,,,whole_word,exact
+Oluklu boru,tr,Corrugated Pipe,,,whole_word,exact
+Pille Çalışan Kontrol Cihazı,tr,Battery-Operated Controller,,,whole_word,exact
+Sıkışmış rotorlar,tr,Stuck-up rotors,,,whole_word,exact
+Doğal yüzey su kaynakları,tr,Natural surface water resources,,,whole_word,exact
+Çok bölgeli üniteler,tr,Multi-zone units,,,whole_word,exact
+Düşük akış çalışma kapasitesi,tr,Low flow operating capability,,,whole_word,exact
+Tam Daire Sis,tr,Full circle mist,,,whole_word,exact
+Bağlama,tr,Binding,,,whole_word,exact
+NPT dişli yükselticiler,tr,NPT threaded risers,,,whole_word,exact
+Yerleşik Kondansatör,tr,Onboard Capacitor,,,whole_word,exact
+Montaj donanımı,tr,Mounting hardware,,,whole_word,exact
+Sulama programı tahmini,tr,Irrigation schedule forecasting,,,whole_word,exact
+Maksimum ek akış hızı,tr,Maximum additional flow rate,,,whole_word,exact
+Süzgeçler,tr,Misters,,,whole_word,exact
+Manifold Sistemi,tr,Manifold System,,,whole_word,exact
+Şekil 8 Uç Kapakları,tr,Figure 8 end closures,,,whole_word,exact
+İletken kesiti,tr,Conductor cross section,,,whole_word,exact
+Topraklama Plakası,tr,Grounding Plate,,,whole_word,exact
+Tam Daire Nozullar,tr,Full Circle Nozzles,,,whole_word,exact
+Sabit yay,tr,Captive spring,,,whole_word,exact
+İletişim Çoklayıcı,tr,Communication Multiplexer,,,whole_word,exact
+Map Import™,tr,Map Import™,Alison,12/29/2025,whole_word,exact
+LFX™,tr,LFX™,Alison,12/29/2025,whole_word,exact
+Darbeli sprinkler,tr,Impact sprinkler,Team,03/02/2026,whole_word,exact
+Darbeli sprinkler,tr,Impact Sprinklers,team,03/02/2026,whole_word,exact
+Plastik Darbeli sprinkler,tr,Plastic Impact Sprinkler,team,03/02/2026,whole_word,exact
+The Intelligent Use of Water® (Suyun Akıllı Kullanımı),tr,The Intelligent Use of Water®,"Alison, team","2025.12.29, 02.03.2026",whole_word,exact
+The Intelligent Use of Water™ (Suyun Akıllı Kullanımı),tr,The Intelligent Use of Water™,"Alison, team","2025.12.29, 02.03.2026",whole_word,exact
+Dryrun™,tr,Dryrun™,Alison,12/29/2025,whole_word,exact
+Değişken Yaylı Nozul,tr,Variable Arc Nozzle,,,whole_word,exact
+pilot akış,tr,Pilot flow,,,whole_word,exact
+SS Örgü,tr,SS Mesh,,,whole_word,exact
+ET oranları,tr,ET rates,,,whole_word,exact
+Besleme kablosu,tr,Supply wire,,,whole_word,exact
+AirFibr aralığı,tr,AirFibr pitch,,,whole_word,exact
+Rain Bird Factory Trained™,tr,Rain Bird Factory Trained™,Alison,12/29/2025,whole_word,exact
+Rain Can®,tr,Rain Can®,Alison,12/29/2025,whole_word,exact
+Water Bird® *,tr,Water Bird® *,Alison,12/29/2025,whole_word,exact
+Rain Bird®,tr,Rain Bird®,Alison,12/29/2025,whole_word,exact
+Tough Bird®,tr,Tough Bird®,Alison,12/29/2025,whole_word,exact
+Sure Pop®,tr,Sure Pop®,Alison,12/29/2025,whole_word,exact
+Software Features,tr,Software Features,Alison,12/29/2025,whole_word,exact
+Soil Manager™,tr,Soil Manager™,Alison,12/29/2025,whole_word,exact
+Hole View™,tr,Hole View™,Alison,12/29/2025,whole_word,exact
+Flo-Manager®,tr,Flo-Manager®,Alison,12/29/2025,whole_word,exact
+QuickStart™,tr,QuickStart™,Alison,12/29/2025,whole_word,exact
+Flow Optimizer™,tr,Flow Optimizer™,Alison,12/29/2025,whole_word,exact
+Falcon®,tr,Falcon®,Alison,12/29/2025,whole_word,exact
+Micro Bird Spinner®,tr,Micro Bird Spinner®,Alison,12/29/2025,whole_word,exact
+Memory Arc®,tr,Memory Arc®,Alison,12/29/2025,whole_word,exact
+Mini-Paw®,tr,Mini-Paw®,Alison,12/29/2025,whole_word,exact
+Micro Bird®,tr,Micro Bird®,Alison,12/29/2025,whole_word,exact
+Program Builder™,tr,Program Builder™,Alison,12/29/2025,whole_word,exact
+Pump Monitor™,tr,Pump Monitor™,Alison,12/29/2025,whole_word,exact
+Slip Fit™,tr,Slip Fit™,Alison,12/29/2025,whole_word,exact
+Select Contractor®,tr,Select Contractor®,Alison,12/29/2025,whole_word,exact
+Flo-Graph™,tr,Flo-Graph™,Alison,12/29/2025,whole_word,exact
+Flo-Guard™,tr,Flo-Guard™,Alison,12/29/2025,whole_word,exact
+Product Features,tr,Product Features,Alison,12/29/2025,whole_word,exact
+Smartweather™,tr,Smartweather™,Alison,12/29/2025,whole_word,exact
+Monitor Log™,tr,Monitor Log™,Alison,12/29/2025,whole_word,exact
+Xeri-Bubblers™,tr,Xeri-Bubblers™,Alison,12/29/2025,whole_word,exact
+Smart Sensors™,tr,Smart Sensors™,Alison,12/29/2025,whole_word,exact
+Rain Clock™,tr,Rain Clock™,Alison,12/29/2025,whole_word,exact
+Flo-Watch™,tr,Flo-Watch™,Alison,12/29/2025,whole_word,exact
+MDI™,tr,MDI™,Alison,12/29/2025,whole_word,exact
+Flowatch™,tr,Flowatch™,Alison,12/29/2025,whole_word,exact
+Course View™,tr,Course View™,Alison,12/29/2025,whole_word,exact
+Screen™,tr,Screen™,Alison,12/29/2025,whole_word,exact
+Shrub Bug™,tr,Shrub Bug™,Alison,12/29/2025,whole_word,exact
+Xeri-Bird™,tr,Xeri-Bird™,Alison,12/29/2025,whole_word,exact
+Rain Bird Messenger™,tr,Rain Bird Messenger™,Alison,12/29/2025,whole_word,exact
+Minimum ET™,tr,Minimum ET™,Alison,12/29/2025,whole_word,exact
+Seal-A-Matic™,tr,Seal-A-Matic™,Alison,12/29/2025,whole_word,exact
+Sensor Decorder™,tr,Sensor Decorder™,Alison,12/29/2025,whole_word,exact
+Stratus™,tr,Stratus™,Alison,12/29/2025,whole_word,exact
+FREEDOM-Pad™,tr,FREEDOM-Pad™,Alison,12/29/2025,whole_word,exact
+Smart Weather™,tr,Smart Weather™,Alison,12/29/2025,whole_word,exact
+Flograph™,tr,Flograph™,Alison,12/29/2025,whole_word,exact
+Flow-Shield™,tr,Flow-Shield™,Alison,12/29/2025,whole_word,exact
+TG-25™,tr,TG-25™,Alison,12/29/2025,whole_word,exact
+Timeless Compatibility™,tr,Timeless Compatibility™,Alison,12/29/2025,whole_word,exact
+Cost Estimator™,tr,Cost Estimator™,Alison,12/29/2025,whole_word,exact
+Course Monitor™,tr,Course Monitor™,Alison,12/29/2025,whole_word,exact
+Floguard™,tr,Floguard™,Alison,12/29/2025,whole_word,exact
+Rain Curtain™,tr,Rain Curtain™,Alison,12/29/2025,whole_word,exact
+Map Utilities™,tr,Map Utilities™,Alison,12/29/2025,whole_word,exact
+Cycle & Soak™,tr,Cycle & Soak™,Alison,12/29/2025,whole_word,exact
+Top Serviceable Rock,tr,Top Serviceable Rock,Alison,12/29/2025,whole_word,exact
+TBOS-II™,tr,TBOS-II™,Alison,12/29/2025,whole_word,exact
+Talon™,tr,Talon™,Alison,12/29/2025,whole_word,exact
+ICS™,tr,ICS™,Alison,12/29/2025,whole_word,exact
+Front Office™,tr,Front Office™,Alison,12/29/2025,whole_word,exact
+Xeri-Bug™,tr,Xeri-Bug™,Alison,12/29/2025,whole_word,exact
+T-Bird™,tr,T-Bird™,Alison,12/29/2025,whole_word,exact
+Rain Watch™,tr,Rain Watch™,Alison,12/29/2025,whole_word,exact
+Nimbus™,tr,Nimbus™,Alison,12/29/2025,whole_word,exact
+LF™,tr,LF™,Alison,12/29/2025,whole_word,exact
+Xeri-Spray™,tr,Xeri-Spray™,Alison,12/29/2025,whole_word,exact
+MAXI™,tr,MAXI™,Alison,12/29/2025,whole_word,exact
+LP™,tr,LP™,Alison,12/29/2025,whole_word,exact
+The FREEDOM System™,tr,The FREEDOM System™,Alison,12/29/2025,whole_word,exact
+MIMS™,tr,MIMS™,Alison,12/29/2025,whole_word,exact
+UNI-Spray™,tr,UNI-Spray™,Alison,12/29/2025,whole_word,exact
+IC System™,tr,IC System™,Alison,12/29/2025,whole_word,exact
+EAGLE™,tr,EAGLE™,Alison,12/29/2025,whole_word,exact
+Su Jeti Fıskiyeleri,tr,Water Jet Sprinklers,,,whole_word,exact
+İki telli yol,tr,Two-wire path,,,whole_word,exact
+Dişli modeller,tr,Threaded models,,,whole_word,exact
+Yeraltı,tr,Subsurface,,,whole_word,exact
+Püskürtme başlıkları,tr,Spray Heads,,,whole_word,exact
+Akıllı Kontrolör,tr,Smart Controller,,,whole_word,exact
+Arıtılmış su,tr,Reclaimed water,,,whole_word,exact
+PRS gövde içi basınç regülatörü,tr,PRS in-stem pressure regulator,,,whole_word,exact
+Kısmi çevrim,tr,Part circle,,,whole_word,exact
+Kısmi Çevrim işlemi,tr,Part circle operation,,,whole_word,exact
+Mikro Sulama Sistemi,tr,Micro-Irrigation System,,,whole_word,exact
+Uzun Menzilli Rotor,tr,Long-Range Rotor,,,whole_word,exact
+Yüksek akış kesme çıkışları,tr,High flow cutoff outputs,,,whole_word,exact
+Tam daire desenli,tr,Full circle pattern,,,whole_word,exact
+Diyafram,tr,Diaphragm,,,whole_word,exact
+Püskürtme fıskiye gövdesi,tr,Spray sprinkler body,,,whole_word,exact
+Pervane,tr,Impeller,,,whole_word,exact
+Drenaj Pop-Up Valfi (DPUV),tr,Drainage Pop-Up Valve (DPUV),,,whole_word,exact
+Su tasarruflu nozul,tr,Water-saving nozzle,,,whole_word,exact
+Hava Sensörü,tr,Weather Sensor,,,whole_word,exact
+Geleneksel kablolu kontrolör,tr,Traditionally-wired controller,,,whole_word,exact
+Terminal Şeridi,tr,Terminal Strip,,,whole_word,exact
+Sap geri çekme,tr,Stem retraction,,,whole_word,exact
+PC-Yayıcı,tr,PC-Diffuser,,,whole_word,exact
+Nominal Akış,tr,Nominal Flow,,,whole_word,exact
+Düşük akış drenajı,tr,Low head drainage,,,whole_word,exact
+Ağır Hizmet Tipi Çek Valf,tr,Heavy-Duty Check Valve,,,whole_word,exact
+Sulama bölgesi,tr,Watering zone,,,whole_word,exact
+Ultrasonik Akış Sensörü,tr,Ultrasonic Flow Sensor,,,whole_word,exact
+Püskürtme nozulu,tr,Spray nozzle,,,whole_word,exact
+Darbe Vericisi,tr,Pulse Transmitter,,,whole_word,exact
+bitki bölgesi,tr,Planting zone,,,whole_word,exact
+NEMA muhafazası,tr,NEMA enclosure,,,whole_word,exact
+Eşleşen Yağış Oranı Nozulları,tr,Matched Precipitation Rate Nozzles,,,whole_word,exact
+Büyük Kapasiteli Elek Filtre,tr,Large-Capacity Screen Filter,,,whole_word,exact
+Su kaynakları yönetimi,tr,Water resource management,,,whole_word,exact
+Dişli yayıcı,tr,Threaded emitter,,,whole_word,exact
+Rotor girişi,tr,Rotor inlet,,,whole_word,exact
+Yuvarlak Yakalama Havuzu,tr,Round Catch Basin,,,whole_word,exact
+Açılır Püskürtme Başlıkları,tr,Pop-Up Spray Heads,,,whole_word,exact
+Nozulu Ağacı,tr,Nozzle tree,,,whole_word,exact
+Maks. Yanal Uzunluk,tr,Maximum Lateral Length,,,whole_word,exact
+Düşük Debi,tr,Low Flow,,,whole_word,exact
+Duvar Montajlı Muhafaza,tr,Wall Mount Enclosure,,,whole_word,exact
+Valf Akışı,tr,Valve Flow,,,whole_word,exact
+Sıra aralığı,tr,Row spacing,,,whole_word,exact
+Basınç Regülatörü,tr,Pressure regulator,,,whole_word,exact
+Orta Nozül'e Pop-Up Yüksekliği,tr,Pop-Up Height to Mid-Nozzle,,,whole_word,exact
+Geniş Akış,tr,Wide Flow,,,whole_word,exact
+Vakum hava tahliye valfi,tr,Vacuum air relief valve,,,whole_word,exact
+Fıskiye çalışma süreleri,tr,Sprinkler run times,,,whole_word,exact
+Dönen akışlar,tr,Rotating streams,,,whole_word,exact
+Basınçla çalışan silecek contası,tr,Pressure-activated wiper seal,,,whole_word,exact
+Çoklu akış teknolojisi,tr,Multi-stream technology,,,whole_word,exact
+Hızlı Kontrol Sepet Filtresi,tr,Quick-Check Basket Filter,,,whole_word,exact
+Devrilebilir yağmur kovası,tr,Tipping bucket rain can,,,whole_word,exact
+Dalgalanma basıncı,tr,Surge pressure,,,whole_word,exact
+Fıskiye başlığı,tr,Sprinkler head,,,whole_word,exact
+Geri çekme yayı,tr,Retract spring,,,whole_word,exact
+Valfli rotorlar,tr,Valve-in-head rotors,,,whole_word,exact
+Tee Sensörü,tr,Tee Sensor,,,whole_word,exact
+SS Örgü Ekran,tr,SS Mesh Screen,,,whole_word,exact
+Yağmur Ölçer,tr,Raingauge,,,whole_word,exact
+Basınç düzenleme RBY filtresi,tr,Pressure regulating RBY filter,,,whole_word,exact
+Pinging kod çözücüler,tr,Pinging decoders,,,whole_word,exact
+Basınç Dengeleme,tr,Pressure Compensating,,,whole_word,exact
+Nozul tareti,tr,Nozzle turret,,,whole_word,exact
+Bükümlü Kilit Bağlantı Elemanları,tr,Twist Lock Fittings,,,whole_word,exact
+Solenoid valfler,tr,Solenoid valves,,,whole_word,exact
+Kare Desenli Nozul,tr,Square Pattern Nozzle,,,whole_word,exact
+Kendinden delici giriş çengelleri,tr,Self-piercing inlet barbs,,,whole_word,exact
+Basınç dengeleyici yayıcı,tr,Pressure-compensating emitter,,,whole_word,exact
+Plastik kontrolör kutusu,tr,Plastic controller case,,,whole_word,exact
+Baş altı çek valfleri,tr,Under-the-head check valves,,,whole_word,exact
+Dönme bağlantı tertibatı,tr,Swing joint assembly,,,whole_word,exact
+Konut Kontrol Bölgesi Kiti,tr,Residential Control Zone Kit,,,whole_word,exact
+Sisleme,tr,Misting,,,whole_word,exact
+Düşük Akış DV Vana,tr,Low Flow DV Valve,,,whole_word,exact
+Başlık,tr,Header,,,whole_word,exact
+Tam Daire düşük akış sprinkler,tr,Full circle low-flow sprinkler,,,whole_word,exact
+Hava İstasyonu,tr,Weather Station,,,whole_word,exact
+Su Ölçer,tr,Water Meter,,,whole_word,exact
+Dişli rakorlar,tr,Threaded unions,,,whole_word,exact
+Basınç düzenleme kadranı,tr,Pressure regulating dial,,,whole_word,exact
+Maksimum Akış,tr,Maximum Flow,,,whole_word,exact
+Manuel yıkama vanası,tr,Manual flush valve,,,whole_word,exact
+İki Telli,tr,Two-Wire,,,whole_word,exact
+Tee Bağlantı Parçası,tr,Tee Fitting,,,whole_word,exact
+Püskürtme Sulama,tr,Spray Irrigation,,,whole_word,exact
+Kendinden yıkama özelliği,tr,Self-flushing action,,,whole_word,exact
+Yağmur Sensörü,tr,Rain Sensor,,,whole_word,exact
+Yüzey Üstü/Altı,tr,On/Sub Surface,,,whole_word,exact
+Mikro püskürtme,tr,Micro-spray,,,whole_word,exact
+Çıkıntılar,tr,Knock-outs,,,whole_word,exact
+İçten Geçmeli Bağlantı Rakoru,tr,Insert fitting,,,whole_word,exact
+Damla Sulama Başlığı dirsekleri,tr,Dripline Header elbows,,,whole_word,exact
+KÖR BORU,tr,Blank Tubing,,,whole_word,exact
+Boru,tr,Tubing,,,whole_word,exact
+İstasyon Akış Hızı,tr,Station Flow Rate,,,whole_word,exact
+Çim,tr,Turf,,,whole_word,exact
+Dişli giriş,tr,Threaded Inlet,,,whole_word,exact
+SS dokuma tel örgü ekran,tr,SS woven wire mesh screen,,,whole_word,exact
+Kayma rakorları,tr,Slip unions,,,whole_word,exact
+Pompa çalıştırma röle valfi,tr,Pump start relay valve,,,whole_word,exact
+Nozul muhafazası,tr,Nozzle housing,,,whole_word,exact
+Maksimum İzin Verilen Akış Hızı,tr,Max Allowable Flow Rate,,,whole_word,exact
+Tortu,tr,Sump,,,whole_word,exact
+Püskürtme bölgesi,tr,Spray zone,,,whole_word,exact
+Solenoid,tr,Solenoid,,,whole_word,exact
+Pompa İstasyonu,tr,Pump station,,,whole_word,exact
+Düz akış,tr,Straight-through flow,,,whole_word,exact
+Çalı ve yer örtücü alanlar,tr,Shrub and groundcover areas,,,whole_word,exact
+Basınç dengeleyici sıralı yayıcı,tr,Pressure-compensating inline emitter,,,whole_word,exact
+Nozul,tr,Nozzle turret,,,whole_word,exact
+Maksimum PGM Yığını,tr,Max PGMs Stacked,,,whole_word,exact
+Dalgalanma cihazı,tr,Surge Device,,,whole_word,exact
+Şerit Nozullar,tr,Strip Nozzles,,,whole_word,exact
+Çim Kabı,tr,Sod Cup,,,whole_word,exact
+Rotor kasası,tr,Rotor case,,,whole_word,exact
+Darbe kod çözücü,tr,Pulse decoder,,,whole_word,exact
+Basınç düzenleme modülü,tr,Pressure regulating module,,,whole_word,exact
+O- Halkalı conta,tr,O-Ring seal,,,whole_word,exact
+Modüler Kontrol Cihazı,tr,Modular controller,,,whole_word,exact
+Akıllı Bağlantı Modülü,tr,Smart Connection Module,,,whole_word,exact
+Basınç vakum kesici (PVB),tr,Pressure vacuum breaker (PVB),,,whole_word,exact
+PE kılıf,tr,PE jacket,,,whole_word,exact
+PC Yayıcı Kapak,tr,PC Diffuser Cap,,,whole_word,exact
+Dekoderlere,tr,Pinging decoders,,,whole_word,exact
+Basınç Dengeleme Düşük Akışlı Emitörler,tr,Pressure Compensating Low-Flow Emitters,,,whole_word,exact
+Ana Vana /Pompa,tr,Master Valve /Pump,,,whole_word,exact
+Orta Akış,tr,Medium Flow,,,whole_word,exact
+Pervane Akış Sensörleri,tr,Impeller Flow Sensors,,,whole_word,exact
+Birlikte kalıplanmış silecek contası,tr,Co-molded wiper seal,,,whole_word,exact
+UV stabilize,tr,UV stabilized,,,whole_word,exact
+Geri dönüşler,tr,Switchbacks,,,whole_word,exact
+Noktasal damla sulama,tr,Point source drip irrigation,,,whole_word,exact
+Basınç dengeleyici düşük hacimli püskürtme nozulu,tr,Pressure-compensated low-volume spray nozzle,,,whole_word,exact
+Dalgalanma koşulları,tr,Surge conditions,,,whole_word,exact
+Dönme borusu,tr,Swing Pipe,,,whole_word,exact
+Cırcır mekanizması,tr,Ratchet mechanism,,,whole_word,exact
+Hızlı Eşleştirme Yayın Modu,tr,Quick Pair Broadcast Mode,,,whole_word,exact
+Damla Sulama Başlığı,tr,Dripline Header,,,whole_word,exact
+Üç Kanatlı Silecek Contası,tr,Triple-Blade Wiper Seal,,,whole_word,exact
+Döner bağlantı parçası,tr,Swing joint fitting,,,whole_word,exact
+Noktasal Emitör Hesaplama Aracı,tr,Point Source Emitter Calculation Tool,,,whole_word,exact
+Ulusal Boru Dişi,tr,National Pipe Thread,,,whole_word,exact
+sulama kablolu,tr,Irrigation wire,,,whole_word,exact
+NCC kartuş,tr,NCC cartridge,,,whole_word,exact
+Maksimum istasyon çalışma süresi,tr,Maximum station run time,,,whole_word,exact
+bükülme direnci,tr,Kink resistance,,,whole_word,exact
+Izgara,tr,Grate,,,whole_word,exact
+Kuplaj,tr,Coupler,,,whole_word,exact
+Damla,tr,Drip,,,whole_word,exact
+Geri yıkama,tr,Backflush,,,whole_word,exact
+Dişli yayıcı,tr,Thread emitter,,,whole_word,exact
+Fırçalama işlemi,tr,Scrubbing action,,,whole_word,exact
+Çoklu valf kapasitesi,tr,Multi-valve capacity,,,whole_word,exact
+Kilit Solenoidi,tr,Latching solenoid,,,whole_word,exact
+Ağır Yük Kontrol Valfi,tr,Heavy-Duty Check Valve,,,whole_word,exact
+Flanş,tr,Flange,,,whole_word,exact
+Çift PVC-PE yalıtımlı kablo,tr,Double PVC-PE insulation cable,,,whole_word,exact
+gövde kapak arasındaki sızdırmazlık,tr,Body-to-bonnet seal,,,whole_word,exact
+Geçmeli konektörler,tr,Snap fit connectors,,,whole_word,exact
+Basınç Dengeleyici Dişli Kabarcıklar,tr,Pressure-Compensating Threaded Bubblers,,,whole_word,exact
+NCC iletişim kartuşları,tr,NCC communications cartridges,,,whole_word,exact
+Montaj dirseği,tr,Mounting Bracket,,,whole_word,exact
+Kilitleme ızgarası,tr,Locking grate,,,whole_word,exact
+Hat İçi Emitör,tr,Inline emitter,,,whole_word,exact
+Hortum,tr,Hose,,,whole_word,exact
+Tam Daire,tr,Full Circle,,,whole_word,exact
+Sürekli su akışı,tr,Continuous water stream,,,whole_word,exact
+Başlık,tr,Bonnet,,,whole_word,exact
+Çoklu Çıkışlı Cihaz,tr,Multi-Outlet Device,,,whole_word,exact
+LSP (hat dalgalanma koruyucuları),tr,LSP (line surge protectors),,,whole_word,exact
+Hidrolik Emme Tarama Elek Filtresi,tr,Hydraulic Suction Scanning Screen Filter,,,whole_word,exact
+Akış Monitörü/Verici,tr,Flow Monitor/Transmitter,,,whole_word,exact
+Maksimum Bobin Tutma,tr,Max Coil Holding,,,whole_word,exact
+İnternet Bağlantılı Su Sayaçları (ICWM),tr,Internet Connected Water Meters (ICWM),,,whole_word,exact
+Sıkıştırma bağlantı parçaları,tr,Compression Fittings,,,whole_word,exact
+Zemin altı,tr,Below grade,,,whole_word,exact
+Su geçirmez conta,tr,Water-tight seal,,,whole_word,exact
+İstasyon Islatma Süresi,tr,Station Soak Time,,,whole_word,exact
+Bitki faktörü,tr,Plant factor,,,whole_word,exact
+Dişli fiş,tr,Threaded plug,,,whole_word,exact
+Arka nozul tapası,tr,Rear nozzle plug,,,whole_word,exact
+PC Emitör Difüzör Kapağı,tr,PC Emitter Diffuser Cap,,,whole_word,exact
+Akış Kontrolü Yok,tr,Non-Flow Control,,,whole_word,exact
+Düşük veya sıfır akış kapatma,tr,Low- or zero-flow shutdown,,,whole_word,exact
+Cam Dolgulu Naylon,tr,Glass Filled Nylon,,,whole_word,exact
+Dengeli basınç diyaframı,tr,Balanced pressure diaphragm,,,whole_word,exact
+sprey kafası,tr,Irrigation spray head,,,whole_word,exact
+Hidrolik Emme,tr,Hydraulic Suction,,,whole_word,exact
+düşük profilli emitör,tr,Low-profile emitter,,,whole_word,exact
+İç tahliye,tr,Internal bleed,,,whole_word,exact
+İletişim kartı,tr,Communication board,,,whole_word,exact
+düşük akış emitörleri,tr,Low flow emitters,,,whole_word,exact
+Yüksek Akışlı Sıralı Basınç Regülatörleri,tr,High Flow Inline Pressure Regulators,,,whole_word,exact
+Yıkama,tr,Flushing,,,whole_word,exact
+Kirleticiler,tr,Contaminants,,,whole_word,exact
+Darbe Rotorları,tr,Impact Rotors,,,whole_word,exact
+Buckner Valfi,tr,Buckner Valve,,,whole_word,exact
+Blok Rotorlar,tr,Block Rotors,,,whole_word,exact
+Braketler,tr,Brackets,,,whole_word,exact
+Kanal,tr,Conduit,,,whole_word,exact
+Su Terazisi,tr,Bubble Level,,,whole_word,exact
+Devrilebilir Yağmur Ölçer Sensörü,tr,Tipping Rain Gauge Sensor,,,whole_word,exact
+Yaylı hareket,tr,Spring action,,,whole_word,exact
+Vana sağlığı,tr,Valve health,,,whole_word,exact
+İstasyon Sağlığı,tr,Station Health,,,whole_word,exact
+Radyal Yatak,tr,Radial Bearing,,,whole_word,exact
+Nozul Serisi/Deseni,tr,Nozzle Series/Pattern,,,whole_word,exact
+Nozul tabanı,tr,Nozzle base,,,whole_word,exact
+Düşük açılı nozul muhafazası,tr,Low angle nozzle housing,,,whole_word,exact
+ET Geçersiz Kılma,tr,ET Override,,,whole_word,exact
+ASA plastik muhafaza,tr,ASA plastic enclosure,,,whole_word,exact
+Bağlantı parçası,tr,Fitting,,,whole_word,exact
+Hava Tahliye Vanası (ARV),tr,Air Relief Valve (ARV),,,whole_word,exact
+Değişken akış hızları,tr,Variable flow rates,,,whole_word,exact
+Kablo kanalı bağlantı parçası,tr,Wire conduit fitting,,,whole_word,exact
+Kendi Kendini Temizleyen Solenoid,tr,Self-Cleaning Solenoid,,,whole_word,exact
+Üstten sulama,tr,Overhead irrigation,,,whole_word,exact
+Modüler istasyon kapasitesi,tr,Modular station capacity,,,whole_word,exact
+Döküm PJ kolu,tr,Die-cast PJ arm,,,whole_word,exact
+Çevresel Stres Çatlaması (ESCR),tr,Environmental Stress Cracking (ESCR),,,whole_word,exact
+Tam desen,tr,Full pattern,,,whole_word,exact
+AC güç çıkışı,tr,AC power outlet,,,whole_word,exact
+Sıfır öğrenilmiş akış,tr,Zero Learned Flow,,,whole_word,exact
+Kanat,tr,Vane,,,whole_word,exact
+Hızlı dirsek bağlantısı,tr,Quick elbow coupling,,,whole_word,exact
+Kısmi daire rotor,tr,Part circle rotor,,,whole_word,exact
+Nozul akışı,tr,Nozzle flow,,,whole_word,exact
+LOC bağlantı parçaları,tr,LOC fittings,,,whole_word,exact
+İleri Akış Hızı,tr,Forward flow rate,,,whole_word,exact
+Küme Kontrol Ünitesi (CCU),tr,Cluster Control Unit (CCU),,,whole_word,exact
+Vana kutusu kilitleme halkası,tr,Valve box locking ring,,,whole_word,exact
+Ekranlı tel,tr,Shielded wire,,,whole_word,exact
+İçilebilir akış kontrol kolu,tr,Potable flow control handle,,,whole_word,exact
+Noktasal sulama,tr,Point source irrigation,,,whole_word,exact
+Ofset kontrolörler,tr,Offset controllers,,,whole_word,exact
+Ping İstasyonu,tr,Ping Station,,,whole_word,exact
+Sulama boruları,tr,Watering pipes,,,whole_word,exact
+İki Telli Uydu Arayüz Kartı,tr,Two-Wire Satellite Interface Board,,,whole_word,exact
+Dalgalanma Topraklama Plakası,tr,Surge Grounding Plate,,,whole_word,exact
+Düz Delikli Nozul,tr,Straight Bore Nozzle,,,whole_word,exact
+Hassas Jet tüpü,tr,Precision Jet tube,,,whole_word,exact
+Boru macunu,tr,Pipe dope,,,whole_word,exact
+Kısmi/ters tam daire,tr,Part/reverse full circle,,,whole_word,exact
+Süper Jumbo Gövde,tr,Super Jumbo Body,,,whole_word,exact
+Basınç düzenleyici valf,tr,Pressure-regulating valve,,,whole_word,exact
+Soyulmuş kabuk,tr,Peeling bark,,,whole_word,exact
+Haritalı Kontrolörler,tr,Mapped Controllers,,,whole_word,exact
+Kilitleme Rölesi,tr,Latching Relay,,,whole_word,exact
+Cıvata deliği çıkıntısı,tr,Bolt Hole Knock-out,,,whole_word,exact
+Yükseltici Pompa,tr,Booster Pump,,,whole_word,exact
+Mahsul soğutma,tr,Crop cooling,,,whole_word,exact
+Mesafe kontrol kanadı (DA),tr,Distance control flap (DA),,,whole_word,exact
+Buna-N,tr,Buna-N,,,whole_word,exact
+Maksimum filtreleme yüzeyi,tr,Maximum filtering surface,,,whole_word,exact
+Jet-Kesici,tr,Jet-Breaker,,,whole_word,exact
+Kolay Temizlenebilir Filtre,tr,Easy Clean Filter,,,whole_word,exact
+Yüksek Akışlı Ticari Kontrol Bölgesi Kitleri,tr,High Flow Commercial Control Zone Kits,,,whole_word,exact
+Evapotranspirasyon (ET) Zekası,tr,Evapotranspiration (ET) intelligence,,,whole_word,exact
+Kablo sağlığı,tr,Wire Health,,,whole_word,exact
+Hassas Jet (PJ) kaşığı,tr,Precision Jet (PJ) spoon,,,whole_word,exact
+PGA Kesiti,tr,PGA Cutaway,,,whole_word,exact
+Çok İletkenli Sulama Kablosu,tr,Multi-Conductor Irrigation Cable,,,whole_word,exact
+Manifold T,tr,Manifold Tee,,,whole_word,exact
+Malç,tr,Mulch,,,whole_word,exact
+Yüksek Darbeli Polistiren (HIPS),tr,High-Impact Polystyrene (HIPS),,,whole_word,exact
+Manuel MV Su Penceresi,tr,Manual MV Water Window,,,whole_word,exact
+Tam Daire Akış,tr,Full circle stream,,,whole_word,exact
+"""döndür ve kilitle"" anahtarı",tr,"""turn and lock"" key",,,whole_word,exact
+Valf Kutusu Dışı Programlama,tr,Out-of-Valve Box Programming,,,whole_word,exact
+Çok istasyonlu modeller,tr,Multi-station models,,,whole_word,exact
+Manuel geri yıkama döngüsü,tr,Manual backflush cycle,,,whole_word,exact
+AC kontrolörü,tr,AC controller,,,whole_word,exact
+Basınç dengeleyici kalın duvarlı damlama hattı,tr,Pressure compensating heavywall dripline,,,whole_word,exact
+Nozul önü,tr,Nozzle front,,,whole_word,exact
+Mikro Fıskiye,tr,Micro-Sprinkler,,,whole_word,exact
+DÜZ YAYICI TEKNOLOJİSİ,tr,FLAT EMITTER TECHNOLOGY,,,whole_word,exact
+Mekanik akış hızı ölçümü,tr,Mechanical flow rate measurement,,,whole_word,exact
+Mikro kontrolör kilitleme,tr,Micro-controller lock-up,,,whole_word,exact
+Rain Bird,tr,Rain Bird,,,whole_word,exact
