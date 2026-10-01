@@ -1,0 +1,557 @@
+Rule,Target Language,Term,Revised by,Date,Match Level,Enforcement
+erosión,es-ES,Water run-off,,,whole_word,exact
+cañón de riego,es-ES,Water Jet Sprinklers,,,whole_word,exact
+peladora de cables,es-ES,Wire Stripper,,,whole_word,exact
+caudal amplio,es-ES,Wide Flow,,,whole_word,exact
+ruta de dos cables,es-ES,Wire path,,,whole_word,exact
+estación meteorológica,es-ES,Weather Station,,,whole_word,exact
+estaca de sujeción,es-ES,Tie-Down Stake,,,whole_word,exact
+ruta de dos cables,es-ES,Two-wire path,,,whole_word,exact
+caudal de la válvula,es-ES,Valve Flow,,,whole_word,exact
+programador de estaciones,es-ES,Station controller,,,whole_word,exact
+resorte retráctil,es-ES,Retract spring,,,whole_word,exact
+filtro RBY de regulación de presión,es-ES,Pressure regulating RBY filter,,,whole_word,exact
+tapa difusora PC,es-ES,PC Diffuser Cap,,,whole_word,exact
+boquilla ahorradoras de agua,es-ES,Water-saving nozzle,,,whole_word,exact
+tuercas para cable,es-ES,Wire nuts,,,whole_word,exact
+compartimento de cables,es-ES,Wire bay,,,whole_word,exact
+cabezal aspersor,es-ES,Spray Heads,,,whole_word,exact
+rotores con válvula incorporada,es-ES,Valve-in-head rotors,,,whole_word,exact
+nilón con fibra de vidrio,es-ES,Glass Filled Nylon,,,whole_word,exact
+estado de la estación,es-ES,Station Health,,,whole_word,exact
+cable de suministro,es-ES,Supply wire,,,whole_word,exact
+emisor roscado,es-ES,Threaded emitter,,,whole_word,exact
+rosca,es-ES,Thread,,,whole_word,exact
+regulador de presión,es-ES,Pressure regulating dial,,,whole_word,exact
+codos del cabezal de la línea de goteo,es-ES,Dripline Header elbows,,,whole_word,exact
+boquilla de arco variable,es-ES,Variable Arc Nozzle,,,whole_word,exact
+césped,es-ES,Turf,,,whole_word,exact
+tasa de caudal,es-ES,Station Flow Rate,,,whole_word,exact
+zona de raíces de plantas,es-ES,Plant root zone,,,whole_word,exact
+serie de boquilla/patrón,es-ES,Nozzle Series/Pattern,,,whole_word,exact
+resistente al vandalismo y a la manipulación,es-ES,Vandal/Tamper Resistant,,,whole_word,exact
+válvulas solenoide,es-ES,Solenoid valves,,,whole_word,exact
+tubería,es-ES,Tubing,,,whole_word,exact
+toberas de franja,es-ES,Strip Nozzles,,,whole_word,exact
+controlador inteligente,es-ES,Smart Controller,,,whole_word,exact
+aspersor,es-ES,Spray sprinkler body,,,whole_word,exact
+gotero multisalida,es-ES,Multi-Outlet Device,,,whole_word,exact
+filtro de malla,es-ES,Filter screen,,,whole_word,exact
+tobera para difusor,es-ES,Spray nozzle,,,whole_word,exact
+riego por aspersión,es-ES,Spray Irrigation,,,whole_word,exact
+aspersores atasquados,es-ES,Stuck-up rotors,,,whole_word,exact
+solenoide,es-ES,Solenoid,,,whole_word,exact
+estaca,es-ES,Stake,,,whole_word,exact
+boquilla de cambio rápido,es-ES,Quick-Change Nozzle,,,whole_word,exact
+cartucho NCC,es-ES,NCC cartridge,,,whole_word,exact
+compensación de presión,es-ES,Pressure Compensating,,,whole_word,exact
+inundador de círculo completo,es-ES,Full-Circle Bubbler,,,whole_word,exact
+Válvula de drenaje emergente (DPUV),es-ES,Drainage Pop-Up Valve (DPUV),,,whole_word,exact
+difusor PC,es-ES,PC-Diffuser,,,whole_word,exact
+acción de autolimpieza,es-ES,Self-flushing action,,,whole_word,exact
+panel frontal,es-ES,Faceplate,,,whole_word,exact
+radio,es-ES,Radius,,,whole_word,exact
+funcionamiento de círculo parcial,es-ES,Part circle operation,,,whole_word,exact
+cabezal línea de goteo,es-ES,Dripline Header,,,whole_word,exact
+tapa del difusor del emisor de PC,es-ES,PC Emitter Diffuser Cap,,,whole_word,exact
+sistema de riego por aspersión,es-ES,Hose end sprinklers,,,whole_word,exact
+válvula de alivio de vacío,es-ES,Vacuum air relief valve,,,whole_word,exact
+álabe,es-ES,Vane,,,whole_word,exact
+sensor en T,es-ES,Tee Sensor,,,whole_word,exact
+rosca NPT,es-ES,National Pipe Thread,,,whole_word,exact
+unidades multizona,es-ES,Multi-zone units,,,whole_word,exact
+elevadores roscados NPT,es-ES,NPT threaded risers,,,whole_word,exact
+microaspersor,es-ES,Micro-Sprinkler,,,whole_word,exact
+inundador autocompensantes de círculo completo,es-ES,Pressure Compensating Full-Circle Bubblers,,,whole_word,exact
+accesorio de inserción,es-ES,Insert fitting,,,whole_word,exact
+velocidades de ET,es-ES,ET rates,,,whole_word,exact
+collarín central,es-ES,Center collar,,,whole_word,exact
+caudal bajo,es-ES,Low Flow,,,whole_word,exact
+HDPE (polietileno de alta densidad),es-ES,HDPE (High-density polyethylene),,,whole_word,exact
+riego puntual,es-ES,Point source irrigation,,,whole_word,exact
+cabezal,es-ES,Header,,,whole_word,exact
+bobina,es-ES,Drum,,,whole_word,exact
+manguera,es-ES,Hose,,,whole_word,exact
+monitor de caudal/transmisor,es-ES,Flow Monitor/Transmitter,,,whole_word,exact
+válvula de alivio de aire (ARV),es-ES,Air Relief Valve (ARV),,,whole_word,exact
+válvulas motorizadas,es-ES,Motorized valves,,,whole_word,exact
+dispositivo de emisión,es-ES,Emission Device,,,whole_word,exact
+corteza descascarillada,es-ES,Peeling bark,,,whole_word,exact
+soporte de montaje,es-ES,Mounting Bracket,,,whole_word,exact
+caja de plástico ASA,es-ES,ASA plastic enclosure,,,whole_word,exact
+tubo de distribución,es-ES,Distribution Tubing,,,whole_word,exact
+toma de CA,es-ES,AC power outlet,,,whole_word,exact
+cubierta del cable,es-ES,Wire jacket,,,whole_word,exact
+acoplador,es-ES,Coupler,,,whole_word,exact
+tablero de descarga a tierra,es-ES,Surge Grounding Plate,,,whole_word,exact
+calibre del cable,es-ES,Wire gauge,,,whole_word,exact
+tapón de boquilla trasero,es-ES,Rear nozzle plug,,,whole_word,exact
+separador centrífugo de arena,es-ES,Centrifugal Sand Separator,,,whole_word,exact
+uniones deslizantes,es-ES,Slip unions,,,whole_word,exact
+zonas de rusticidad de las plantas,es-ES,Plant hardiness zones,,,whole_word,exact
+inundador PCT,es-ES,PCT Bubbler,,,whole_word,exact
+cable de riego multiconductor,es-ES,Multi-Conductor Irrigation Cable,,,whole_word,exact
+sensores de caudal del impulsor,es-ES,Impeller Flow Sensors,,,whole_word,exact
+nebulización,es-ES,Misting,,,whole_word,exact
+doble junta tórica,es-ES,Double O Ring,,,whole_word,exact
+viveros,es-ES,Nurseries,,,whole_word,exact
+plásticos diseñados,es-ES,Engineered plastics,,,whole_word,exact
+LP™,es-ES,LP™,Alison,12/29/2025,whole_word,exact
+LF™,es-ES,LF™,Alison,12/29/2025,whole_word,exact
+mantillo,es-ES,Mulch,,,whole_word,exact
+sensor meteorológico,es-ES,Weather Sensor,,,whole_word,exact
+cojinete,es-ES,Radial Bearing,,,whole_word,exact
+control inteligente,es-ES,Smart Control,,,whole_word,exact
+nebulización de círculo completo,es-ES,Full circle mist,,,whole_word,exact
+solenoide de enclavamiento,es-ES,Latching solenoid,,,whole_word,exact
+emisores de bajo caudal,es-ES,Low flow emitters,,,whole_word,exact
+nivel de burbuja,es-ES,Bubble Level,,,whole_word,exact
+cabezal de difusor,es-ES,Irrigation spray head,,,whole_word,exact
+Mini-Paw®,es-ES,Mini-Paw®,Alison,12/29/2025,whole_word,exact
+Map Office™,es-ES,Map Office™,Alison,12/29/2025,whole_word,exact
+Screen™,es-ES,Screen™,Alison,12/29/2025,whole_word,exact
+Minimum ET™,es-ES,Minimum ET™,Alison,12/29/2025,whole_word,exact
+Course Monitor™,es-ES,Course Monitor™,Alison,12/29/2025,whole_word,exact
+MAXI™,es-ES,MAXI™,Alison,12/29/2025,whole_word,exact
+Cirrus™,es-ES,Cirrus™,Alison,12/29/2025,whole_word,exact
+Water Bird® *,es-ES,Water Bird® *,Alison,12/29/2025,whole_word,exact
+Product Features,es-ES,Product Features,Alison,12/29/2025,whole_word,exact
+Branch™,es-ES,Branch™,Alison,12/29/2025,whole_word,exact
+Memory Arc®,es-ES,Memory Arc®,Alison,12/29/2025,whole_word,exact
+Tough Bird®,es-ES,Tough Bird®,Alison,12/29/2025,whole_word,exact
+Select Contractor®,es-ES,Select Contractor®,Alison,12/29/2025,whole_word,exact
+MAXICOM®,es-ES,MAXICOM®,Alison,12/29/2025,whole_word,exact
+Flo-Watch™,es-ES,Flo-Watch™,Alison,12/29/2025,whole_word,exact
+Xeri-Bubblers™,es-ES,Xeri-Bubblers™,Alison,12/29/2025,whole_word,exact
+Micro Bird Spinner®,es-ES,Micro Bird Spinner®,Alison,12/29/2025,whole_word,exact
+Bird®,es-ES,Bird®,Alison,12/29/2025,whole_word,exact
+Micro Bird®,es-ES,Micro Bird®,Alison,12/29/2025,whole_word,exact
+Rain Bird Messenger™,es-ES,Rain Bird Messenger™,Alison,12/29/2025,whole_word,exact
+Easy Rain®,es-ES,Easy Rain®,Alison,12/29/2025,whole_word,exact
+Rain Clock™,es-ES,Rain Clock™,Alison,12/29/2025,whole_word,exact
+The Intelligent Use of Water™,es-ES,The Intelligent Use of Water™,Alison,12/29/2025,whole_word,exact
+Smart,es-ES,Smart,Alison,12/29/2025,whole_word,exact
+QuickIRR™ /Quick IRR™,es-ES,QuickIRR™ /Quick IRR™,Alison,12/29/2025,whole_word,exact
+Seal-A-Matic™,es-ES,Seal-A-Matic™,Alison,12/29/2025,whole_word,exact
+Flograph™,es-ES,Flograph™,Alison,12/29/2025,whole_word,exact
+ET Spreadsheet™,es-ES,ET Spreadsheet™,Alison,12/29/2025,whole_word,exact
+TBOS-II™,es-ES,TBOS-II™,Alison,12/29/2025,whole_word,exact
+Rain Check™,es-ES,Rain Check™,Alison,12/29/2025,whole_word,exact
+Hole View™,es-ES,Hole View™,Alison,12/29/2025,whole_word,exact
+Cycle & Soak™,es-ES,Cycle & Soak™,Alison,12/29/2025,whole_word,exact
+Xeri-Bird™,es-ES,Xeri-Bird™,Alison,12/29/2025,whole_word,exact
+SDC-1™,es-ES,SDC-1™,Alison,12/29/2025,whole_word,exact
+Pump™/SmartPump™,es-ES,Pump™/SmartPump™,Alison,12/29/2025,whole_word,exact
+GritX™,es-ES,GritX™,Alison,12/29/2025,whole_word,exact
+T-Bird™,es-ES,T-Bird™,Alison,12/29/2025,whole_word,exact
+Dryrun™,es-ES,Dryrun™,Alison,12/29/2025,whole_word,exact
+Pop-Top™,es-ES,Pop-Top™,Alison,12/29/2025,whole_word,exact
+Pump Monitor™,es-ES,Pump Monitor™,Alison,12/29/2025,whole_word,exact
+Talon™,es-ES,Talon™,Alison,12/29/2025,whole_word,exact
+Course View™,es-ES,Course View™,Alison,12/29/2025,whole_word,exact
+TG-25™,es-ES,TG-25™,Alison,12/29/2025,whole_word,exact
+The FREEDOM System™,es-ES,The FREEDOM System™,Alison,12/29/2025,whole_word,exact
+Smart Sensors™,es-ES,Smart Sensors™,Alison,12/29/2025,whole_word,exact
+LINK™,es-ES,LINK™,Alison,12/29/2025,whole_word,exact
+Xeri-Bug™,es-ES,Xeri-Bug™,Alison,12/29/2025,whole_word,exact
+Lpn™,es-ES,Lpn™,Alison,12/29/2025,whole_word,exact
+ICS™,es-ES,ICS™,Alison,12/29/2025,whole_word,exact
+Maxi-Bird™,es-ES,Maxi-Bird™,Alison,12/29/2025,whole_word,exact
+RD1800™,es-ES,RD1800™,Alison,12/29/2025,whole_word,exact
+Sensor Decorder™,es-ES,Sensor Decorder™,Alison,12/29/2025,whole_word,exact
+EAGLE’s Tail™,es-ES,EAGLE’s Tail™,Alison,12/29/2025,whole_word,exact
+LFX™,es-ES,LFX™,Alison,12/29/2025,whole_word,exact
+Star Bird™,es-ES,Star Bird™,Alison,12/29/2025,whole_word,exact
+Integrated Sensor,es-ES,Integrated Sensor,Alison,12/29/2025,whole_word,exact
+módulo regulador de presión,es-ES,Pressure regulating module,,,whole_word,exact
+caudal piloto,es-ES,Pilot flow,,,whole_word,exact
+empalme de cables,es-ES,Wire splice,,,whole_word,exact
+caja del programador de plástico,es-ES,Plastic controller case,,,whole_word,exact
+decodificador de pulsos,es-ES,Pulse Transmitter,,,whole_word,exact
+carcasa de la boquilla,es-ES,Nozzle housing,,,whole_word,exact
+trayectoria de la boquilla,es-ES,Nozzle trajectory,,,whole_word,exact
+boquilla de patrón cuadrado,es-ES,Square Pattern Nozzle,,,whole_word,exact
+círculo parcial,es-ES,Part circle operation,,,whole_word,exact
+junta de estanqueidad de triple hoja,es-ES,Triple-Blade Wiper Seal,,,whole_word,exact
+tobera para difusor autocompensada de bajo volumen,es-ES,Pressure-compensated low-volume spray nozzle,,,whole_word,exact
+círculo completo con retorno/sectorial,es-ES,Part/reverse full circle,,,whole_word,exact
+colector,es-ES,Manifold,,,whole_word,exact
+orificios para tubos,es-ES,Knock-outs,,,whole_word,exact
+pista de césped,es-ES,Turf track,,,whole_word,exact
+programadores de CA,es-ES,AC controller,,,whole_word,exact
+chorros giratorios,es-ES,Rotating streams,,,whole_word,exact
+árbol de la boquilla,es-ES,Nozzle tree,,,whole_word,exact
+relé de arranque de válvula maestra/bomba,es-ES,Master valve/pump start relay,,,whole_word,exact
+disyuntor de chorro,es-ES,Jet-Breaker,,,whole_word,exact
+válvula de retención de alta resistencia,es-ES,Heavy-Duty Check Valve,,,whole_word,exact
+brida,es-ES,Flange,,,whole_word,exact
+tubería corrugada,es-ES,Corrugated Pipe,,,whole_word,exact
+previsión del programa de riego,es-ES,Irrigation schedule forecasting,,,whole_word,exact
+difusores emergentes,es-ES,Pop-Up Spray Heads,,,whole_word,exact
+salidas de corte de alto caudal,es-ES,High flow cutoff outputs,,,whole_word,exact
+tablero de descarga a tierra,es-ES,Grounding Plate,,,whole_word,exact
+drenaje de baja altura,es-ES,Low head drainage,,,whole_word,exact
+accesorio de conexión,es-ES,Fitting,,,whole_word,exact
+UV estabilizado,es-ES,UV stabilized,,,whole_word,exact
+sensor de humedad,es-ES,Moisture Sensor,,,whole_word,exact
+necesidades de agua,es-ES,Water requirements,,,whole_word,exact
+acondicionamiento,es-ES,Retrofitting,,,whole_word,exact
+caudal medio,es-ES,Medium Flow,,,whole_word,exact
+armario para montaje en pared,es-ES,Wall Mount Enclosure,,,whole_word,exact
+anillo de bloqueo de la caja de válvulas,es-ES,Valve box locking ring,,,whole_word,exact
+modelos de múltiples estaciones,es-ES,Multi-station models,,,whole_word,exact
+cable reforzado,es-ES,Shielded wire,,,whole_word,exact
+arco del rotor primario,es-ES,Primary rotor arc,,,whole_word,exact
+válvulas de retención bajo el cabezal,es-ES,Under-the-head check valves,,,whole_word,exact
+solenoide autolimpiante,es-ES,Self-Cleaning Solenoid,,,whole_word,exact
+rango de radio,es-ES,Radius Range,,,whole_word,exact
+disyuntor de vacío de presión (PVB),es-ES,Pressure vacuum breaker (PVB),,,whole_word,exact
+accesorios de conexión de cierre,es-ES,Lock Type Fittings,,,whole_word,exact
+accesorios de conexión de cierre mediante giro,es-ES,Twist Lock Fittings,,,whole_word,exact
+retracción del vástago,es-ES,Stem retraction,,,whole_word,exact
+aspersor de círculo completo de caudal bajo,es-ES,Full circle low-flow sprinkler,,,whole_word,exact
+carcasa de boquilla de ángulo bajo,es-ES,Low angle nozzle housing,,,whole_word,exact
+válvula DV de caudal bajo,es-ES,Low Flow DV Valve,,,whole_word,exact
+emisor con compensación de presión,es-ES,Pressure-compensating emitter,,,whole_word,exact
+capacidad multiválvula,es-ES,Multi-valve capacity,,,whole_word,exact
+rotor de largo alcance,es-ES,Long-Range Rotor,,,whole_word,exact
+programadores Offset,es-ES,Offset controllers,,,whole_word,exact
+Cubierta de PE,es-ES,PE jacket,,,whole_word,exact
+válvula de bloqueo manual,es-ES,Lock manual valve,,,whole_word,exact
+capacidad de múltiples estaciones,es-ES,Multiple Station Capacity,,,whole_word,exact
+función de limpieza,es-ES,Scrubbing action,,,whole_word,exact
+cuchara del chorro de precisión (PJ),es-ES,Precision Jet (PJ) spoon,,,whole_word,exact
+banda terminal,es-ES,Terminal Strip,,,whole_word,exact
+codo de espiral,es-ES,Spiral Barb Elbow,,,whole_word,exact
+cierre de caudal Plus (+),es-ES,Plus (+) Flow shutoff,,,whole_word,exact
+vástago reforzado,es-ES,Reinforced turret,,,whole_word,exact
+caudal directo,es-ES,Straight-through flow,,,whole_word,exact
+módulo de conexión Smart,es-ES,Smart Connection Module,,,whole_word,exact
+superficie filtrante máxima,es-ES,Maximum filtering surface,,,whole_word,exact
+rejilla,es-ES,Grate,,,whole_word,exact
+adaptadores de rosca,es-ES,Thread adapters,,,whole_word,exact
+tiempo ciclo de estación,es-ES,Station Cycle Time,,,whole_word,exact
+trayectoria de salida de la boquilla,es-ES,Nozzle outlet trajectory,,,whole_word,exact
+colector en T,es-ES,Manifold Tee,,,whole_word,exact
+emisor de bajo perfil,es-ES,Low-profile emitter,,,whole_word,exact
+sistema de aspersores,es-ES,Sprinkler system,,,whole_word,exact
+válvula de acoplamiento rápido,es-ES,Quick-coupling valve,,,whole_word,exact
+estación de bombeo,es-ES,Pump station,,,whole_word,exact
+drenaje,es-ES,Flush,,,whole_word,exact
+membrana,es-ES,Diaphragm,,,whole_word,exact
+sensores de pulsos,es-ES,Pulse sensors,,,whole_word,exact
+césped,es-ES,Turfgrass,,,whole_word,exact
+acción de resorte,es-ES,Spring action,,,whole_word,exact
+sección del conductor,es-ES,Conductor cross section,,,whole_word,exact
+Buna-N,es-ES,Buna-N,,,whole_word,exact
+medidor de lluvia,es-ES,Raingauge,,,whole_word,exact
+enfriamiento de cultivos,es-ES,Crop cooling,,,whole_word,exact
+cable de aislamiento doble PVC-PE,es-ES,Double PVC-PE insulation cable,,,whole_word,exact
+unidad de control de grupos (CCU),es-ES,Cluster Control Unit (CCU),,,whole_word,exact
+decodificador de sensores de dos hilos,es-ES,Two-Wire Decoder Sensor Decoder,,,whole_word,exact
+relé de enclavamiento,es-ES,Latching Relay,,,whole_word,exact
+aspersor de impacto,es-ES,Impact sprinkler,,,whole_word,exact
+módulos de válvula inteligente (IVM),es-ES,Intelligent Valve Modules (IVM),,,whole_word,exact
+cubo de lluvia basculante,es-ES,Tipping bucket rain can,,,whole_word,exact
+sensor lluvia basculante,es-ES,Tipping Rain Gauge Sensor,,,whole_word,exact
+regulador de presión en el vástago PRS,es-ES,PRS in-stem pressure regulator,,,whole_word,exact
+medidores de agua conectados a internet (ICWM),es-ES,Internet Connected Water Meters (ICWM),,,whole_word,exact
+esquinas pronunciadas,es-ES,Switchbacks,,,whole_word,exact
+atomización,es-ES,Fogging,,,whole_word,exact
+cuadro IC,es-ES,Driver Board,,,whole_word,exact
+tiempos de funcionamiento de los aspersores,es-ES,Sprinkler run times,,,whole_word,exact
+hora de remojo de estación,es-ES,Station Soak Time,,,whole_word,exact
+caudal nominal,es-ES,Nominal Flow,,,whole_word,exact
+tubería lisa,es-ES,Blank Tubing,,,whole_word,exact
+controlador a pilas,es-ES,Battery-Operated Controller,,,whole_word,exact
+boquillas con chorros múltiples,es-ES,Nozzles with multiple streams,,,whole_word,exact
+rotores de impacto,es-ES,Impact Rotors,,,whole_word,exact
+filtro de malla de alta capacidad,es-ES,Large-Capacity Screen Filter,,,whole_word,exact
+longitud lateral máxima,es-ES,Maximum Lateral Length,,,whole_word,exact
+Filtro de disco de gran capacidad,es-ES,Large-Capacity Disc Filter,,,whole_word,exact
+círculo completo de 360°,es-ES,Full Circle,,,whole_word,exact
+goteo,es-ES,Drip,,,whole_word,exact
+Cable de MV,es-ES,MV Wire,,,whole_word,exact
+ventana de riego manual de la válvula maestra,es-ES,Manual MV Water Window,,,whole_word,exact
+bomba auxiliar,es-ES,Booster Pump,,,whole_word,exact
+asiento de válvula,es-ES,Valve Seat,,,whole_word,exact
+sensor de caudal de inserción,es-ES,Insert Flow Sensor,,,whole_word,exact
+poliestireno de alto impacto (HIPS),es-ES,High-Impact Polystyrene (HIPS),,,whole_word,exact
+protector de bordes,es-ES,Edge Guard,,,whole_word,exact
+paquete del ordenador central,es-ES,Central Controller Package,,,whole_word,exact
+terreno de juego único de AirFibr,es-ES,AirFibr pitch,,,whole_word,exact
+herramienta/llave de servicio del selector,es-ES,Selector Service Tool/Key,,,whole_word,exact
+caja NEMA,es-ES,NEMA enclosure,,,whole_word,exact
+radios de arco de las boquillas,es-ES,Nozzles’ arc radii,,,whole_word,exact
+atomizadores,es-ES,Misters,,,whole_word,exact
+impulsor,es-ES,Impeller,,,whole_word,exact
+verificación,es-ES,check,Asleif,12/30/2025,whole_word,exact
+formación,es-ES,training,Asleif,12/30/2025,whole_word,exact
+The Intelligent Use of Water®,es-ES,The Intelligent Use of Water®,Alison,12/29/2025,whole_word,exact
+Sure Pop®,es-ES,Sure Pop®,Alison,12/29/2025,whole_word,exact
+Soil Manager™,es-ES,Soil Manager™,Alison,12/29/2025,whole_word,exact
+Smart Weather™,es-ES,Smart Weather™,Alison,12/29/2025,whole_word,exact
+Program Builder™,es-ES,Program Builder™,Alison,12/29/2025,whole_word,exact
+aspersores,es-ES,rotors,,,whole_word,exact
+rejilla de atrio cuadrada,es-ES,Square Atrium Grate,,,whole_word,exact
+Flo-Guard™,es-ES,Flo-Guard™,Alison,12/29/2025,whole_word,exact
+caudal,es-ES,flow,Asleif,12/30/2025,whole_word,exact
+Healthy Green Spaces Coalition,es-ES,Healthy Green Spaces Coalition,Asleif,12/30/2025,whole_word,exact
+cuestionario,es-ES,quiz,Asleif,12/30/2025,whole_word,exact
+Rain Can®,es-ES,Rain Can®,Alison,12/29/2025,whole_word,exact
+Flo-Manager®,es-ES,Flo-Manager®,Alison,12/29/2025,whole_word,exact
+Soluciones para cesped deportivo de Rain Bird,es-ES,Rain Bird Sports Turf Solutions,,,whole_word,exact
+programador,es-ES,controller,,,whole_word,exact
+entrada roscada,es-ES,Threaded Inlet,,,whole_word,exact
+boquillas de círculo completo,es-ES,Full Circle Nozzles,,,whole_word,exact
+arponada,es-ES,Barb,,,whole_word,exact
+alcance,es-ES,Throw,,,whole_word,exact
+rotor emergente,es-ES,Pop-up rotor,,,whole_word,exact
+resistente a pliegues,es-ES,Kink resistance,,,whole_word,exact
+kits de control de zona para aplicaciones residenciales,es-ES,Residential Control Zone Kit,,,whole_word,exact
+sistema de colector,es-ES,Manifold System,,,whole_word,exact
+riego manual,es-ES,Manual irrigation,,,whole_word,exact
+pico de presión,es-ES,Surge pressure,,,whole_word,exact
+boquilla de ángulo bajo,es-ES,Low Angle Nozzle,,,whole_word,exact
+tapa,es-ES,Bonnet,,,whole_word,exact
+retrolavado,es-ES,Backflush,,,whole_word,exact
+arqueta súper jumbo,es-ES,Super Jumbo Body,,,whole_word,exact
+panel,es-ES,Board,,,whole_word,exact
+cuenca,es-ES,Basin,,,whole_word,exact
+junta hermética,es-ES,Water-tight seal,,,whole_word,exact
+bloques de terminal de tornillo,es-ES,Screw terminal blocks,,,whole_word,exact
+contaminantes,es-ES,Contaminants,,,whole_word,exact
+solapa de control de distancia (DA),es-ES,Distance control flap (DA),,,whole_word,exact
+acoplador,es-ES,Coupling,,,whole_word,exact
+reservoir-to-rotor,es-ES,reservoir-to-rotor,,,whole_word,exact
+MWELO,es-ES,MWELO,,,whole_word,exact
+válvula Buckner,es-ES,Buckner Valve,,,whole_word,exact
+Cycle + Soak™,es-ES,Cycle + Soak™,Asleif,12/09/2025,whole_word,exact
+Mini Bird®,es-ES,Mini Bird®,Alison,12/29/2025,whole_word,exact
+ClimateMinder®,es-ES,ClimateMinder®,Alison,12/29/2025,whole_word,exact
+Black Bird®,es-ES,Black Bird®,Alison,12/29/2025,whole_word,exact
+Timeless Compatibility™,es-ES,Timeless Compatibility™,Alison,12/29/2025,whole_word,exact
+Xerigation®,es-ES,Xerigation®,Alison,12/29/2025,whole_word,exact
+Rain Net™,es-ES,Rain Net™,Alison,12/29/2025,whole_word,exact
+Smartweather™,es-ES,Smartweather™,Alison,12/29/2025,whole_word,exact
+1800®,es-ES,1800®,Alison,12/29/2025,whole_word,exact
+MDI™,es-ES,MDI™,Alison,12/29/2025,whole_word,exact
+Cost Estimator™,es-ES,Cost Estimator™,Alison,12/29/2025,whole_word,exact
+Software Features,es-ES,Software Features,Alison,12/29/2025,whole_word,exact
+RAINBIRD®,es-ES,RAINBIRD®,Alison,12/29/2025,whole_word,exact
+Map Import™,es-ES,Map Import™,Alison,12/29/2025,whole_word,exact
+Rain Bucket™,es-ES,Rain Bucket™,Alison,12/29/2025,whole_word,exact
+Course Data Builder™,es-ES,Course Data Builder™,Alison,12/29/2025,whole_word,exact
+Flowatch™,es-ES,Flowatch™,Alison,12/29/2025,whole_word,exact
+Shrub Bug™,es-ES,Shrub Bug™,Alison,12/29/2025,whole_word,exact
+CCS™,es-ES,CCS™,Alison,12/29/2025,whole_word,exact
+Rain Bird®,es-ES,Rain Bird®,Alison,12/29/2025,whole_word,exact
+StratusLT™,es-ES,StratusLT™,Alison,12/29/2025,whole_word,exact
+Maxi-Paw™,es-ES,Maxi-Paw™,Alison,12/29/2025,whole_word,exact
+Falcon®,es-ES,Falcon®,Alison,12/29/2025,whole_word,exact
+Preferred Drip Installer™,es-ES,Preferred Drip Installer™,Alison,12/29/2025,whole_word,exact
+Designer Notes™,es-ES,Designer Notes™,Alison,12/29/2025,whole_word,exact
+SimpleIRR™ /Simple IRR™,es-ES,SimpleIRR™ /Simple IRR™,Alison,12/29/2025,whole_word,exact
+Course Designer™,es-ES,Course Designer™,Alison,12/29/2025,whole_word,exact
+Flo-Graph™,es-ES,Flo-Graph™,Alison,12/29/2025,whole_word,exact
+Rain Bird Factory Trained™,es-ES,Rain Bird Factory Trained™,Alison,12/29/2025,whole_word,exact
+Rain Bird Academy™,es-ES,Rain Bird Academy™,Alison,12/29/2025,whole_word,exact
+Pump Profiling™,es-ES,Pump Profiling™,Alison,12/29/2025,whole_word,exact
+Rain Watch™,es-ES,Rain Watch™,Alison,12/29/2025,whole_word,exact
+Map Utilities™,es-ES,Map Utilities™,Alison,12/29/2025,whole_word,exact
+FREEDOM-Pad™,es-ES,FREEDOM-Pad™,Alison,12/29/2025,whole_word,exact
+Quick Flush™,es-ES,Quick Flush™,Alison,12/29/2025,whole_word,exact
+Front Office™,es-ES,Front Office™,Alison,12/29/2025,whole_word,exact
+Monitor Log™,es-ES,Monitor Log™,Alison,12/29/2025,whole_word,exact
+Top Serviceable Rock,es-ES,Top Serviceable Rock,Alison,12/29/2025,whole_word,exact
+Flow Optimizer™,es-ES,Flow Optimizer™,Alison,12/29/2025,whole_word,exact
+Slip Fit™,es-ES,Slip Fit™,Alison,12/29/2025,whole_word,exact
+Floguard™,es-ES,Floguard™,Alison,12/29/2025,whole_word,exact
+Course Manager™,es-ES,Course Manager™,Alison,12/29/2025,whole_word,exact
+ExactEdge™,es-ES,ExactEdge™,Alison,12/29/2025,whole_word,exact
+QuickStart™,es-ES,QuickStart™,Alison,12/29/2025,whole_word,exact
+Stratus™,es-ES,Stratus™,Alison,12/29/2025,whole_word,exact
+Micro-Quick™,es-ES,Micro-Quick™,Alison,12/29/2025,whole_word,exact
+ET Checkbook™,es-ES,ET Checkbook™,Alison,12/29/2025,whole_word,exact
+Copper Shield™,es-ES,Copper Shield™,Alison,12/29/2025,whole_word,exact
+Rain Curtain™,es-ES,Rain Curtain™,Alison,12/29/2025,whole_word,exact
+UNI-Spray™,es-ES,UNI-Spray™,Alison,12/29/2025,whole_word,exact
+MIM™,es-ES,MIM™,Alison,12/29/2025,whole_word,exact
+EAGLE’s Nest™,es-ES,EAGLE’s Nest™,Alison,12/29/2025,whole_word,exact
+MIMS™,es-ES,MIMS™,Alison,12/29/2025,whole_word,exact
+LNK™,es-ES,LNK™,Alison,12/29/2025,whole_word,exact
+MIM-LINK™,es-ES,MIM-LINK™,Alison,12/29/2025,whole_word,exact
+IC CONNECT™,es-ES,IC CONNECT™,Alison,12/29/2025,whole_word,exact
+PJ™,es-ES,PJ™,Alison,12/29/2025,whole_word,exact
+EAGLE™,es-ES,EAGLE™,Alison,12/29/2025,whole_word,exact
+Nimbus™,es-ES,Nimbus™,Alison,12/29/2025,whole_word,exact
+MI Series™,es-ES,MI Series™,Alison,12/29/2025,whole_word,exact
+System™,es-ES,System™,Alison,12/29/2025,whole_word,exact
+CirrusPRO™,es-ES,CirrusPRO™,Alison,12/29/2025,whole_word,exact
+IC System™,es-ES,IC System™,Alison,12/29/2025,whole_word,exact
+CIRRUSPRO™,es-ES,CIRRUSPRO™,Alison,12/29/2025,whole_word,exact
+CYCLIK™,es-ES,CYCLIK™,Alison,12/29/2025,whole_word,exact
+IQ™,es-ES,IQ™,Alison,12/29/2025,whole_word,exact
+Clam Shell™,es-ES,Clam Shell™,Alison,12/29/2025,whole_word,exact
+Xeri-Spray™,es-ES,Xeri-Spray™,Alison,12/29/2025,whole_word,exact
+Flow-Shield™,es-ES,Flow-Shield™,Alison,12/29/2025,whole_word,exact
+filtro de cesta de verificación rápida,es-ES,Quick-Check Basket Filter,,,whole_word,exact
+junta limpiadora activada por presión,es-ES,Pressure-activated wiper seal,,,whole_word,exact
+de dos hilos,es-ES,Two-Wire,,,whole_word,exact
+dispositivo depurador,es-ES,Scrubber,,,whole_word,exact
+altura emergente hasta la mitad de la boquilla,es-ES,Pop-Up Height to Mid-Nozzle,,,whole_word,exact
+pliegues,es-ES,Kinking,,,whole_word,exact
+sumidero,es-ES,Sump,,,whole_word,exact
+sensor de caudal ultrasónico,es-ES,Ultrasonic Flow Sensor,,,whole_word,exact
+goteros autocompensantes de caudal bjo,es-ES,Pressure Compensating Low-Flow Emitters,,,whole_word,exact
+caudal máximo,es-ES,Maximum Flow,,,whole_word,exact
+succión hidráulica,es-ES,Hydraulic Suction,,,whole_word,exact
+válvulas piloto,es-ES,Pilot valves,,,whole_word,exact
+sistema de microrriego,es-ES,Micro-Irrigation System,,,whole_word,exact
+tubería de triple pared,es-ES,Triple Wall Pipe,,,whole_word,exact
+programador con cableado tradicional,es-ES,Traditionally-wired controller,,,whole_word,exact
+arqueta de captación de drenaje redonda,es-ES,Round Catch Basin,,,whole_word,exact
+Control Integrado (IC),es-ES,Integrated Control (IC),,,whole_word,exact
+boquillas de círculo completo,es-ES,Full Nozzles,,,whole_word,exact
+accesorios de compresión,es-ES,Compression Fittings,,,whole_word,exact
+Precision Jet Tube,es-ES,Precision Jet tube,,,whole_word,exact
+aspersores de impacto,es-ES,Impact Sprinklers,,,whole_word,exact
+filtro de alta capacidad,es-ES,Large-Capacity Filter,,,whole_word,exact
+patrón de círculo completo,es-ES,Full circle Fan,,,whole_word,exact
+saldo de cuenta de distribuidor,es-ES,Distributor account balance,,,whole_word,exact
+junta de tapa,es-ES,Body-to-bonnet seal,,,whole_word,exact
+tapas ciegas para pernos,es-ES,Bolt Hole Knock-out,,,whole_word,exact
+agua reciclada,es-ES,Reclaimed water,,,whole_word,exact
+émbolo,es-ES,Plunger,,,whole_word,exact
+drenaje,es-ES,Flushing,,,whole_word,exact
+accesorios LOC,es-ES,LOC fittings,,,whole_word,exact
+adaptadores para arbustos,es-ES,Shrub Adapters,,,whole_word,exact
+microaspersor,es-ES,Micro-spray,,,whole_word,exact
+junta limpiadora comoldeada,es-ES,Co-molded wiper seal,,,whole_word,exact
+rotores de bloque,es-ES,Block Rotors,,,whole_word,exact
+estado de los cables,es-ES,Wire Health,,,whole_word,exact
+dispositivo de sobretensión,es-ES,Surge Device,,,whole_word,exact
+subterráneo,es-ES,Subsurface,,,whole_word,exact
+sensor de lluvia,es-ES,Rain Sensor,,,whole_word,exact
+piezas de montaje,es-ES,Mounting hardware,,,whole_word,exact
+tiempo de riego máximo de estación,es-ES,Maximum station run time,,,whole_word,exact
+por debajo del nivel de terreno,es-ES,Below grade,,,whole_word,exact
+capacidad operativa de bajo flujo,es-ES,Low flow operating capability,,,whole_word,exact
+rejilla cerrada a prueba de vandalismo,es-ES,Vandal resistant locking grate,,,whole_word,exact
+anulación de ET,es-ES,ET Override,,,whole_word,exact
+brazo PJ fundido,es-ES,Die-cast PJ arm,,,whole_word,exact
+goteros autocompensantes de caudal medio,es-ES,Pressure Compensating Point-Source Medium-Flow Emitters,,,whole_word,exact
+purga interna,es-ES,Internal bleed,,,whole_word,exact
+conducto,es-ES,Wire conduit fitting,,,whole_word,exact
+capacidad de carga de la estación,es-ES,Station Load Capacity,,,whole_word,exact
+cable de alimentación de CA,es-ES,AC power cord,,,whole_word,exact
+membrana de presión equilibrada,es-ES,Balanced pressure diaphragm,,,whole_word,exact
+protección de sobretensión,es-ES,Surge Protection,,,whole_word,exact
+elemento filtrante de malla metálica SS tejida,es-ES,SS woven wire mesh screen,,,whole_word,exact
+decodificador de pulsos,es-ES,Pulse decoder,,,whole_word,exact
+alineación del patrón de la boquilla,es-ES,Nozzle pattern alignment,,,whole_word,exact
+caudal de la boquilla,es-ES,Nozzle flow,,,whole_word,exact
+cableado de salida,es-ES,Output Wire Path,,,whole_word,exact
+capacidad de estación modular,es-ES,Modular station capacity,,,whole_word,exact
+medidor de agua,es-ES,Water Meter,,,whole_word,exact
+placa de interfaz satelital de dos hilos,es-ES,Two-Wire Satellite Interface Board,,,whole_word,exact
+conector arponado giratorio,es-ES,Rotating barb,,,whole_word,exact
+hacer ping a los decodificadores,es-ES,Pinging decoders,,,whole_word,exact
+junta tórica,es-ES,O-Ring seal,,,whole_word,exact
+superficie de montaje,es-ES,Mounting surface,,,whole_word,exact
+bomba/válvula maestra,es-ES,Master Valve /Pump,,,whole_word,exact
+malla SS,es-ES,SS Mesh,,,whole_word,exact
+aspersor,es-ES,Sprinkler head,,,whole_word,exact
+condiciones de aumento repentino de presión,es-ES,Surge conditions,,,whole_word,exact
+barras autoperforantes de entrada,es-ES,Self-piercing inlet barbs,,,whole_word,exact
+acople de codo rápido,es-ES,Quick elbow coupling,,,whole_word,exact
+sin regulador de caudal,es-ES,Non-Flow Control,,,whole_word,exact
+tubería flexible,es-ES,Swing Pipe,,,whole_word,exact
+regulador de presión,es-ES,Pressure regulator,,,whole_word,exact
+LSP (protectores de sobretensión),es-ES,LSP (line surge protectors),,,whole_word,exact
+terminales COM,es-ES,COM terminals,,,whole_word,exact
+conjunto de codo articulado flexible,es-ES,Swing joint assembly,,,whole_word,exact
+rango de caudal operativo,es-ES,Operating Flow Range,,,whole_word,exact
+patrón de círculo completo,es-ES,Full pattern,,,whole_word,exact
+válvula del relé de arranque de la bomba,es-ES,Pump start relay valve,,,whole_word,exact
+cerradura,es-ES,Locking,,,whole_word,exact
+emisor en línea,es-ES,Inline emitter,,,whole_word,exact
+portatobera,es-ES,Nozzle turret,,,whole_word,exact
+cartucho,es-ES,Cartridge,,,whole_word,exact
+filtro canasta,es-ES,Basket Filter,,,whole_word,exact
+modelos roscados,es-ES,Threaded models,,,whole_word,exact
+conectores de ajuste a presión,es-ES,Snap fit connectors,,,whole_word,exact
+Sod Cup,es-ES,Sod Cup,,,whole_word,exact
+transmisor de impulsos,es-ES,Pulse Transmitter,,,whole_word,exact
+programador modular,es-ES,Modular controller,,,whole_word,exact
+entrada del rotor,es-ES,Rotor inlet,,,whole_word,exact
+arbustos y cubiertas vegetales,es-ES,Shrub and groundcover areas,,,whole_word,exact
+uniones de rosca,es-ES,Threaded unions,,,whole_word,exact
+programadores mapeados,es-ES,Mapped Controllers,,,whole_word,exact
+Kits de control de zona para aplicaciones comerciales de alto caudal,es-ES,High Flow Commercial Control Zone Kits,,,whole_word,exact
+relleno,es-ES,Backfill,,,whole_word,exact
+reguladores de presión en línea de caudal alto,es-ES,High Flow Inline Pressure Regulators,,,whole_word,exact
+filtro de malla eléctrico con mecanismo de succión hidráulica,es-ES,Hydraulic Suction Scanning Screen Filter,,,whole_word,exact
+cartuchos de comunicaciones NCC,es-ES,NCC communications cartridges,,,whole_word,exact
+Boquillas de pluviometría ajustada,es-ES,Matched Precipitation Rate Nozzles,,,whole_word,exact
+evapotranspiración (ET),es-ES,Evapotranspiration (ET),,,whole_word,exact
+caja NEMA a prueba de agua,es-ES,Weatherproof NEMA enclosure,,,whole_word,exact
+elevador PFR-RS,es-ES,PFR-RS Riser,,,whole_word,exact
+rotor de círculo parcial,es-ES,Part circle rotor,,,whole_word,exact
+gestión de los recursos hídricos,es-ES,Water resource management,,,whole_word,exact
+desconexión por caudal alto,es-ES,High-flow shutdown,,,whole_word,exact
+grieta por exposición al medio ambiente (ESCR),es-ES,Environmental Stress Cracking (ESCR),,,whole_word,exact
+patrón de círculo completo,es-ES,Full circle pattern,,,whole_word,exact
+panel de comunicación,es-ES,Communication board,,,whole_word,exact
+línea de goteo de pared gruesa con compensación de presión,es-ES,Pressure compensating heavywall dripline,,,whole_word,exact
+cubierta de aislamiento de PE,es-ES,PE insulation jacket,,,whole_word,exact
+tecnología de chorro múltiple,es-ES,Multi-stream technology,,,whole_word,exact
+rejilla cerrada,es-ES,Locking grate,,,whole_word,exact
+lengüetas para crear los accesos de las tuberías,es-ES,Pipe hole knock-outs,,,whole_word,exact
+tapa roscada,es-ES,Threaded cap,,,whole_word,exact
+cable de riego,es-ES,Irrigation wire,,,whole_word,exact
+panel de circuitos,es-ES,Circuit board,,,whole_word,exact
+disyuntor,es-ES,Circuit Breaker,,,whole_word,exact
+cabezales de aspersores,es-ES,Rotor heads,,,whole_word,exact
+emisor con púas,es-ES,Spiked emitter,,,whole_word,exact
+rede de tuberías,es-ES,Pipe network,,,whole_word,exact
+desconexión por caudal bajo o nulo,es-ES,Low- or zero-flow shutdown,,,whole_word,exact
+bidón,es-ES,Barrel,,,whole_word,exact
+boquilla recta,es-ES,Straight Bore Nozzle,,,whole_word,exact
+boquilla para difusor de sector variable,es-ES,Spray Head Variable Arc Nozzles,,,whole_word,exact
+mecanismo de carraca,es-ES,Ratchet mechanism,,,whole_word,exact
+programación fuera de arqueta,es-ES,Out-of-Valve Box Programming,,,whole_word,exact
+chorro de agua continuo,es-ES,Continuous water stream,,,whole_word,exact
+vista transversal de una válvula PGA,es-ES,PGA Cutaway,,,whole_word,exact
+cuchilla de corte,es-ES,Lengthwise slitter,,,whole_word,exact
+tapas de extremo de la figura 8,es-ES,Figure 8 end closures,,,whole_word,exact
+atascamiento,es-ES,Binding,,,whole_word,exact
+monitor de pulsos,es-ES,Pulse Monitor,,,whole_word,exact
+solenoide negro Golf,es-ES,Golf Black Solenoid,,,whole_word,exact
+inteligencia integrada de evapotranspiración (ET),es-ES,Evapotranspiration (ET) intelligence,,,whole_word,exact
+multiplexor de comunicación,es-ES,Communication Multiplexer,,,whole_word,exact
+boquillas de baja pluviometría,es-ES,Low Precipitation Rate Nozzles,,,whole_word,exact
+soportes,es-ES,Brackets,,,whole_word,exact
+sello de estanqueidad de la bomba,es-ES,Pump packing seal,,,whole_word,exact
+modo de emisión de vinculación rápida,es-ES,Quick Pair Broadcast Mode,,,whole_word,exact
+corriente de mantenimiento máxima de bobina,es-ES,Max Coil Holding,,,whole_word,exact
+filtro de fácil limpieza,es-ES,Easy Clean Filter,,,whole_word,exact
+"clave ""giro y bloqueo""",es-ES,"""turn and lock"" key",,,whole_word,exact
+Cycle + Soak™,es-ES,Cycle & Soak,Asleif,12/09/2025,whole_word,exact
+Intelligent Use of Water™,es-ES,Intelligent Use of Water™,Asleif,20215.12.11,whole_word,exact
+sectores,es-ES,zones,Asleif,12/30/2025,whole_word,exact
+electroválvulas,es-ES,valves,Asleif,12/30/2025,whole_word,exact
+jardines,es-ES,landscapes,,,whole_word,exact
+solución perfecta,es-ES,match,,,whole_word,exact
+electroválvula DV de Rain Bird,es-ES,Rain Bird DV Valve,,,whole_word,exact
+niveles de acceso en función del usuario,es-ES,Tiered user access,,,whole_word,exact
+círculo parcial,es-ES,Part circle,,,whole_word,exact
+conducto,es-ES,Conduit,,,whole_word,exact
+La electroválvula DV/DVF de Rain Bird,es-ES,The Rain Bird DV/DVF Valve,,,whole_word,exact
+todo buen sistema,es-ES,every system,,,whole_word,exact
+operarios,es-ES,teams,,,whole_word,exact
+electroválvula,es-ES,valve,,,whole_word,exact
+la electroválvula,es-ES,the valve,,,whole_word,exact
+reclamaciónes,es-ES,callbacks,,,whole_word,exact
+duradero a largo plazo,es-ES,long-term,,,whole_word,exact
+Rain Bird,es-ES,Rain Bird,,,whole_word,exact
