@@ -1,8 +1,9 @@
 import { listGlossaries } from "@/lib/glossary";
+import { canonicalLocale } from "@/lib/languages";
 import Translator from "./Translator";
 
 // Each data/<locale>.glossary.csv becomes a target language in the picker.
-export default function Home() {
+export default async function Home({ searchParams }: { searchParams: Promise<{ [key: string]: string | string[] | undefined }> }) {
   const languages = listGlossaries();
   if (!languages.length) {
     return (
@@ -14,5 +15,9 @@ export default function Home() {
       </main>
     );
   }
-  return <Translator languages={languages} />;
+
+  const requested = (await searchParams).lang;
+  const code = canonicalLocale((Array.isArray(requested) ? requested[0] : requested) ?? "");
+  const initialLanguage = languages.find((language) => language.code === code)?.code;
+  return <Translator languages={languages} initialLanguage={initialLanguage} />;
 }

@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useMemo, useRef, useState, type DragEvent } from "react";
 import {
   ACCEPTED_EXTENSIONS,
@@ -10,7 +11,9 @@ import {
   translatedFilename,
   type DocumentFormat,
 } from "@/lib/formats";
+import { glossaryHref } from "@/lib/glossary-view";
 import type { TargetLanguage } from "@/lib/languages";
+import Topbar from "./Topbar";
 
 type Match = {
   source: string;
@@ -37,9 +40,10 @@ function defaultLanguage(languages: TargetLanguage[]): string {
   return (languages.find((language) => language.code === "ar") ?? languages[0]).code;
 }
 
-export default function Translator({ languages }: { languages: TargetLanguage[] }) {
+// `initialLanguage` comes from ?lang= (e.g. returning from the glossary page) and wins over the remembered choice.
+export default function Translator({ languages, initialLanguage }: { languages: TargetLanguage[]; initialLanguage?: string }) {
   const [source, setSource] = useState("");
-  const [languageCode, setLanguageCode] = useState(() => defaultLanguage(languages));
+  const [languageCode, setLanguageCode] = useState(() => initialLanguage ?? defaultLanguage(languages));
   const language = languages.find((candidate) => candidate.code === languageCode) ?? languages[0];
   const [result, setResult] = useState<Result | null>(null);
   const [error, setError] = useState("");
@@ -53,11 +57,12 @@ export default function Translator({ languages }: { languages: TargetLanguage[] 
 
   // Restored after mount so the server and first client render agree.
   useEffect(() => {
+    if (initialLanguage) return;
     try {
       const saved = localStorage.getItem(LANGUAGE_KEY);
       if (saved && languages.some((candidate) => candidate.code === saved)) setLanguageCode(saved);
     } catch {}
-  }, [languages]);
+  }, [languages, initialLanguage]);
 
   function chooseLanguage(code: string) {
     setLanguageCode(code);
@@ -163,15 +168,7 @@ export default function Translator({ languages }: { languages: TargetLanguage[] 
 
   return (
     <>
-      <header className="topbar">
-        <div className="brand">
-          <img src="/favicon.png" alt="" width={26} height={26} />
-          <span className="name">CopyGlot</span>
-          <span className="sep">/</span>
-          <span className="page">Translate</span>
-        </div>
-        <span className="status"><i /> Ready</span>
-      </header>
+      <Topbar page="Translate" />
 
       <main>
         <div className="pagehead">
@@ -287,16 +284,19 @@ export default function Translator({ languages }: { languages: TargetLanguage[] 
         <section className="terminology" aria-live="polite">
           <div className="sectionhead">
             <div><span className="label">Applied terminology</span><h2>{result ? `${result.matches.length} matches in this submission` : "Terms will appear after translation"}</h2></div>
-            {result && <span className="sub">{result.glossarySize} rules loaded</span>}
+            <div className="sectionlinks">
+              <Link className="textlink" href={glossaryHref(language.code)}>View the {language.englishName} glossary →</Link>
+              {result && <span className="sub">{result.glossarySize} rules loaded</span>}
+            </div>
           </div>
           {result?.matches.length ? (
             <div className="termGrid">
               {result.matches.map((match, index) => (
-                <div className="term" key={`${match.source}-${index}`}>
+                <Link className="term" key={`${match.source}-${index}`} href={glossaryHref(result.language.code, { q: match.source })} title={`Open this rule in the ${result.language.englishName} glossary`}>
                   <div><strong>{match.matchedText}</strong><span>{match.ruleType === "preserve" ? "Preserved" : match.matchLevel.replace(/_/g, " ")}</span></div>
                   <b className="arrow" aria-hidden="true">→</b>
                   <div className="target" dir={result.language.dir} lang={result.language.code}><strong>{match.target}</strong><span>{match.enforcement}</span></div>
-                </div>
+                </Link>
               ))}
             </div>
           ) : (

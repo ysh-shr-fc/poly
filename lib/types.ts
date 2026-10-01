@@ -9,6 +9,8 @@ export type GlossaryRule = {
   ruleType: RuleType;
   matchLevel: MatchLevel;
   enforcement: Enforcement;
+  revisedBy?: string;
+  date?: string;
 };
 
 export type TermMatch = {

@@ -57,6 +57,12 @@ CSV order defines duplicate priority. Terms are compared case-insensitively, and
 
 The loader rejects conflicting duplicates. Matching happens only in visible text, never inside HTML tags. Longest overlapping phrases take precedence.
 
+## Viewing the glossaries
+
+`/glossaries` shows every `data/<locale>.glossary.csv` as a read-only table: English term, required output, whether it is translated or kept in English, match level, enforcement, who revised it, and when. Use the ‹ › buttons, the dropdown, or the ← → keys to move between languages one at a time. Search covers terms and translations, the chips filter by type, and results are paged 25 at a time. Everything runs on the server, so large glossaries stay fast and the page works without JavaScript.
+
+The translate page links to it from the Applied terminology section ("View the … glossary →"), and each applied term opens its own rule in the glossary for the language you translated into. The glossary page's "← Back to translate" link returns to the same language (`/?lang=fr`).
+
 ## API
 
 The web form and other systems use the same endpoint.

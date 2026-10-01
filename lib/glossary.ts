@@ -60,7 +60,7 @@ export function parseGlossary(csv: string, language: string): GlossaryRule[] {
     if (!MATCH_LEVELS.has(matchLevel)) throw new Error(`Invalid match_level on row ${index + 2}: ${matchLevel}`);
     if (!ENFORCEMENTS.has(enforcement)) throw new Error(`Invalid enforcement on row ${index + 2}: ${enforcement}`);
 
-    return { source, target, language, ruleType, matchLevel, enforcement };
+    return { source, target, language, ruleType, matchLevel, enforcement, revisedBy: clean(row["revised by"]), date: clean(row.date) };
   });
 
   const seen = new Map<string, GlossaryRule>();
